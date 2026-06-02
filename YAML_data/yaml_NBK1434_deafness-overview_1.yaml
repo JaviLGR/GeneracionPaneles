@@ -1,0 +1,38 @@
+NBK: NBK1434
+Archivo: deafness-overview.nxml
+ENFERMEDAD: Genetic Hearing Loss Overview
+HGNC: null
+Ultima_actualizacion: 3-4-2025
+OMIM_RELACIONADOS: [601093, 607237, 160775, 300039, 602121, 605192, 608265, 220700, 608798, 609823, 603681, 300066, 600101, 311850, 602666, 604717, 602167, 605242, 603196, 612414, 603720, 142409, 600652, 607821, 606808, 607841, 601205, 611451, 220290, 605316, 606346, 606351, 609427, 102560, 274600, 121011, 607928, 603324, 300226, 611022, 613072, 179410, 613074, 600791, 613079, 607453, 601316, 601317, 606440, 611051, 609006, 600316, 609533, 590080, 604418, 601868, 610572, 304400, 611606, 601369, 612643, 612644, 500008, 601386, 608565, 608568, 607038, 607039, 608576, 607557, 605511, 605514, 605516, 602459, 602460, 561000, 610153, 607084, 304500, 607101, 608641, 600965, 601478, 600970, 600971, 600974, 605583, 603537, 603550, 580000, 600994, 276903, 605608, 610219, 610220, 516030, 601543, 601544, 602574, 605646, 610265, 609761, 120290, 124900, 603622, 602092, 603629, 601071, 601072, 606706, 606201]
+
+edad:
+  valor_raso: null
+  referencia: "Hearing loss can be characterized by type, onset... Congenital (present at birth) Prelingual... Postlingual... Adult (occurring after age 18 years)"
+  porcentaje_fiabilidad: 100
+
+penetrancia:
+  valor: null
+  referencia: "The family history of some individuals with autosomal dominant hearing loss may appear to be negative because of... reduced penetrance / variable expressivity in a heterozygous parent."
+  asintomaticos: true
+  referencia_asintomaticos: "The family history of some individuals with autosomal dominant hearing loss may appear to be negative because of... reduced penetrance / variable expressivity in a heterozygous parent."
+  zigosidad: null
+  referencia_zigosidad: "In most individuals with nonsyndromic genetic hearing loss (80%), hearing loss is associated with biallelic pathogenic variants and inherited in an autosomal recessive manner."
+  mecanismo_patogenicidad: null
+  referencia_mecanismo_patogenicidad: null
+  efecto_funcional: null
+  referencia_efecto_funcional: null
+  porcentaje_fiabilidad: 90
+
+gravedad:
+  valor: null
+  referencia: "Severity of hearing loss is graded as shown in Table 1... Slight 12-25 dB... Profound >90 dB"
+  porcentaje_fiabilidad: 100
+
+efectividad_tratamiento:
+  existencia: true
+  referencia1: "Habilitation for hearing loss includes improved access to sound through hearing aids or cochlear implants"
+  intervencion: "ambos"
+  referencia2: "Early identification of hearing loss in children is critical to developing speech and language... Early auditory intervention can include sound amplification with hearing aids... cochlear implantation"
+  valor: true
+  referencia: "Children who undergo cochlear implantation early (before age two years) may achieve – by school age – oral speech and language that is indistinguishable from their normal-hearing peers"
+  porcentaje_fiabilidad: 90

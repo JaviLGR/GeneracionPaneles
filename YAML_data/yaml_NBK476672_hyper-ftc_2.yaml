@@ -1,0 +1,33 @@
+NBK: NBK476672
+Archivo: hyper-ftc.nxml
+ENFERMEDAD: Hyperphosphatemic Familial Tumoral Calcinosis
+HGNC: GALNT3
+Ultima_actualizacion: 1-2-2018
+OMIM_relacionados: [604824 601756 605380 211900]
+edad: 
+  valor_raso: 20
+  referencia: "Onset of lesions typically occurs in the first two decades of life."
+  porcentaje_fiabilidad: 90
+penetrancia:
+  valor: null
+  referencia: ""
+  asintomaticos: true
+  referencia_ asintomaticos: "One member may have profound, extensive tumoral calcinosis while others are symptom free"
+  zigosidad: homocigoto
+  referencia_zigosidad: "Identification of biallelic germline loss-of-function variants in... GALNT3"
+  mecanismo_patogenicidad: "Pathogenic variants in GALNT3 result in a protein that is presumed to be unable to O-glycosylate FGF23."
+  efecto_funcional: LOF
+  referencia_efecto_funcional: "biallelic germline loss-of-function variants in... GALNT3"
+  porcentaje_fiabilidad: 100
+gravedad:
+  valor: grave
+  referencia: "These lesions can be extremely painful and debilitating; some may progress in size, perforate the skin, and drain liquid hydroxyapatite"
+  porcentaje_fiabilidad: 85
+efectividad_tratamiento:
+  existencia: true
+  referencia1: "Most reported therapies attempt to lower blood phosphorus; most patients with HFTC are treated with a combination of medical therapies."
+  intervencion: postsintomatico
+  referencia2: "Surgical resection of tumoral calcinosis may be reserved for those with significant pain or functional impairment."
+  valor: false
+  referencia: "No treatment regimen appears to consistently or universally decrease lesion size or prevent progression or recurrence of lesions after surgery."
+  porcentaje_fiabilidad: 95

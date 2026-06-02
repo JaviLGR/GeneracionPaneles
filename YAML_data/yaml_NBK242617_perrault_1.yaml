@@ -1,0 +1,33 @@
+NBK: NBK242617
+Archivo: perrault.nxml
+ENFERMEDAD: Perrault Syndrome Overview
+HGNC: CLPP
+Ultima_actualizacion: 8-5-2025
+OMIM_relacionados: [615300 616138 621101 614926 614129 233400 617565]
+edad:
+  valor_raso: 0
+  referencia: "Congenital and usually severe to profound"
+  porcentaje_fiabilidad: 90
+penetrancia:
+  valor: null
+  referencia: ""
+  asintomaticos: false
+  referencia_ asintomaticos: "Perrault syndrome is inherited in an autosomal recessive manner. [...] Heterozygotes (carriers) are asymptomatic and are not at risk of developing the disorder."
+  zigosidad: "homocigoto"
+  referencia_zigosidad: "In some individuals, metabolic crisis characterized by increased blood lactate concentrations. ... biallelic pathogenic (or likely pathogenic) variants"
+  mecanismo_patogenicidad: "biallelic pathogenic (or likely pathogenic) variants"
+  efecto_funcional: "LOF"
+  referencia_efecto_funcional: "mitochondrial dysfunction"
+  porcentaje_fiabilidad: 80
+gravedad:
+  valor: "grave"
+  referencia: "Type 1 Perrault syndrome can be considered the mild end of the phenotypic spectrum and type 2 Perrault syndrome can be considered the severe end of the spectrum."
+  porcentaje_fiabilidad: 85
+efectividad_tratamiento:
+  existencia: false
+  referencia1: "There is no cure for Perrault syndrome. No pharmacologic therapies are available."
+  intervencion: "postsintomatico"
+  referencia2: "Supportive care to improve quality of life, maximize function, and reduce complications is recommended."
+  valor: false
+  referencia: "therapies used in most known mitochondrial disorders [...] have been considered but their clinical effectiveness is uncertain."
+  porcentaje_fiabilidad: 95

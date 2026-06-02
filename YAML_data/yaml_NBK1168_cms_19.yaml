@@ -1,0 +1,33 @@
+NBK: NBK1168
+Archivo: cms.nxml
+ENFERMEDAD: Congenital Myasthenic Syndromes Overview
+HGNC: SYT2
+Ultima_actualizacion: 28-6-2012
+OMIM_relacionados: [616321, 254210, 612866, 616322, 616323, 616324, 616325, 616326, 616330, 616720, 609557, 103320, 603033, 603034, 615320, 616313, 607905, 608930, 608931, 616227, 616228, 138292, 150325, 614198, 603967, 604875, 601296, 615120, 100690, 118490, 254300, 614750, 100710, 616040, 190315, 610285, 604270, 100720, 605809, 616304, 100725, 191350, 601462, 601592, 608761, 616314]
+edad:
+  valor_raso: 0
+  referencia: "Severe congenital-onset"
+  porcentaje_fiabilidad: 90
+penetrancia:
+  valor: null
+  referencia: ""
+  asintomaticos: null
+  referencia_ asintomaticos: ""
+  zigosidad: "heterocigoto simple"
+  referencia_zigosidad: "Heterozygous missense variants result in autosomal dominant CMS."
+  mecanismo_patogenicidad: "Defects in synaptic vesicle docking, priming, fusing, & exocytosis"
+  efecto_funcional: "GOF"
+  referencia_efecto_funcional: "Heterozygous missense variants result in autosomal dominant CMS."
+  porcentaje_fiabilidad: 80
+gravedad:
+  valor: "grave"
+  referencia: "mimics severe congenital myopathy"
+  porcentaje_fiabilidad: 80
+efectividad_tratamiento:
+  existencia: false
+  referencia1: "See footnote 4"
+  intervencion: null
+  referencia2: ""
+  valor: null
+  referencia: ""
+  porcentaje_fiabilidad: 90

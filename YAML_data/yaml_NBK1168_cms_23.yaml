@@ -1,0 +1,33 @@
+NBK: NBK1168
+Archivo: cms.nxml
+ENFERMEDAD: Congenital Myasthenic Syndromes Overview
+HGNC: ALG2
+Ultima_actualizacion: 28-6-2012
+OMIM_relacionados: [616321, 254210, 612866, 616322, 616323, 616324, 616325, 616326, 616330, 616720, 609557, 103320, 603033, 603034, 615320, 616313, 607905, 608930, 608931, 616227, 616228, 138292, 150325, 614198, 603967, 604875, 601296, 615120, 100690, 118490, 254300, 614750, 100710, 616040, 190315, 610285, 604270, 100720, 605809, 616304, 100725, 191350, 601462, 601592, 608761, 616314]
+edad:
+  valor_raso: 2
+  referencia: "Early onset"
+  porcentaje_fiabilidad: 70
+penetrancia:
+  valor: null
+  referencia: ""
+  asintomaticos: null
+  referencia_ asintomaticos: ""
+  zigosidad: "homocigoto"
+  referencia_zigosidad: "Biallelic loss-of-function variants result in autosomal recessive CMS."
+  mecanismo_patogenicidad: "Limb-girdle-myasthenia w/glycosylation deficiency"
+  efecto_funcional: "LOF"
+  referencia_efecto_funcional: "Biallelic loss-of-function variants result in autosomal recessive CMS."
+  porcentaje_fiabilidad: 80
+gravedad:
+  valor: "moderado"
+  referencia: "Overlap w/CDG syndromes"
+  porcentaje_fiabilidad: 70
+efectividad_tratamiento:
+  existencia: false
+  referencia1: "See footnote 4"
+  intervencion: null
+  referencia2: ""
+  valor: null
+  referencia: ""
+  porcentaje_fiabilidad: 90

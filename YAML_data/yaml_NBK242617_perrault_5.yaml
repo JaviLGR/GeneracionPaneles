@@ -1,0 +1,33 @@
+NBK: NBK242617
+Archivo: perrault.nxml
+ENFERMEDAD: Perrault Syndrome Overview
+HGNC: HARS2
+Ultima_actualizacion: 8-5-2025
+OMIM_relacionados: [615300 616138 621101 614926 614129 233400 617565]
+edad:
+  valor_raso: 0
+  referencia: "Can be congenital and profound; usually early-childhood onset"
+  porcentaje_fiabilidad: 90
+penetrancia:
+  valor: null
+  referencia: ""
+  asintomaticos: false
+  referencia_ asintomaticos: "Heterozygotes (carriers) are asymptomatic"
+  zigosidad: "homocigoto"
+  referencia_zigosidad: "biallelic pathogenic variants"
+  mecanismo_patogenicidad: "biallelic pathogenic variants"
+  efecto_funcional: "LOF"
+  referencia_efecto_funcional: "mitochondrial dysfunction"
+  porcentaje_fiabilidad: 80
+gravedad:
+  valor: "leve"
+  referencia: "HARS2-related Perrault syndrome is rarely associated with neurologic features"
+  porcentaje_fiabilidad: 80
+efectividad_tratamiento:
+  existencia: false
+  referencia1: "There is no cure for Perrault syndrome."
+  intervencion: "postsintomatico"
+  referencia2: "Supportive care to improve quality of life"
+  valor: false
+  referencia: "clinical effectiveness is uncertain."
+  porcentaje_fiabilidad: 95

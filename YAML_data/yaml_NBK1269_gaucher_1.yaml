@@ -1,0 +1,37 @@
+NBK: NBK1269
+Archivo: gaucher.nxml
+ENFERMEDAD: Gaucher Disease
+HGNC: GBA1
+Ultima_actualizacion: 7-12-2023
+OMIM_relacionados: [231000, 608013, 230800, 230900, 168600, 231005, 606463]
+
+edad: 
+  valor_raso: 0
+  referencia: "GD encompasses a continuum of clinical findings from a perinatal-lethal disorder to type 1 GD with adult onset."
+  porcentaje_fiabilidad: 100
+
+penetrancia:
+  valor: null
+  referencia: ""
+  asintomaticos: true
+  referencia_ asintomaticos: "It is suspected that a significant proportion of Ashkenazi Jewish individuals with this genotype may be asymptomatic"
+  zigosidad: "homocigoto"
+  referencia_zigosidad: "Individuals homozygous for GBA1 pathogenic variant p.Asp448His present with an atypical phenotype"
+  mecanismo_patogenicidad: "GBA1 pathogenic variants result in mRNA instability and/or loss of protein, or in an enzyme with altered activity and/or conformation"
+  efecto_funcional: "LOF"
+  referencia_efecto_funcional: "GD is caused by deficient glucocerebrosidase activity and the resultant accumulation of its undegraded substrate"
+  porcentaje_fiabilidad: 85
+
+gravedad:
+  valor: "grave"
+  referencia: "The perinatal-lethal form of GD is associated with hepatosplenomegaly, pancytopenia... These infants are usually stillborn or die shortly after birth."
+  porcentaje_fiabilidad: 90
+
+efectividad_tratamiento:
+  existencia: true
+  referencia1: "Targeted therapy includes enzyme replacement therapy (ERT), substrate reduction therapy (SRT), and hematopoietic stem cell transplantation (HSCT)."
+  intervencion: "postsintomatico"
+  referencia2: "In symptomatic women, treatment should ideally be started prior to conception"
+  valor: true
+  referencia: "ERT has been demonstrated to be safe and effective in reversing features resulting from hematologic and visceral (liver/spleen) involvement."
+  porcentaje_fiabilidad: 95

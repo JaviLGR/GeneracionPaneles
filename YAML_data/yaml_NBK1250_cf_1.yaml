@@ -1,0 +1,37 @@
+NBK: NBK1250
+Archivo: cf.nxml
+ENFERMEDAD: Cystic Fibrosis
+HGNC: CFTR
+Ultima_actualizacion: 8-8-2024
+OMIM_relacionados: [219700 602421]
+
+edad: 
+  valor_raso: 0
+  referencia: "In the newborn period, inspissated meconium may cause ileus... Sweat chloride testing in an infant with an elevated IRT should be completed before 28 days of life"
+  porcentaje_fiabilidad: 90
+
+penetrancia:
+  valor: 100
+  referencia: "Cystic fibrosis (CF) is inherited in an autosomal recessive manner."
+  asintomaticos: true
+  referencia_ asintomaticos: "The diagnosis of CRMS (in the US) and CFSPID (in Europe)... is given to asymptomatic infants with an elevated trypsinogen on newborn screening"
+  zigosidad: "homocigoto"
+  referencia_zigosidad: "Identification of biallelic CFTR CF-causing pathogenic (or likely pathogenic) variants"
+  mecanismo_patogenicidad: "Loss-of-function CFTR variants disrupt transepithelial chloride transport."
+  efecto_funcional: "LOF"
+  referencia_efecto_funcional: "Loss-of-function CFTR variants disrupt transepithelial chloride transport."
+  porcentaje_fiabilidad: 95
+
+gravedad:
+  valor: "grave"
+  referencia: "Lung disease is the major cause of morbidity and mortality in people with CF."
+  porcentaje_fiabilidad: 90
+
+efectividad_tratamiento:
+  existencia: true
+  referencia1: "cystic fibrosis transmembrane conductance regulator (CFTR) modulator targeted therapy is available"
+  intervencion: "ambos"
+  referencia2: "Sweat chloride testing in an infant with an elevated IRT should be completed before 28 days of life to ensure prompt treatment of affected infants."
+  valor: true
+  referencia: "With the introduction of highly effective CFTR modulator therapy, the rate of pregnancies has increased"
+  porcentaje_fiabilidad: 90

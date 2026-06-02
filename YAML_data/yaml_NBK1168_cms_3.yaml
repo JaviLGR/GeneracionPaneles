@@ -1,0 +1,33 @@
+NBK: NBK1168
+Archivo: cms.nxml
+ENFERMEDAD: Congenital Myasthenic Syndromes Overview
+HGNC: CHRND
+Ultima_actualizacion: 28-6-2012
+OMIM_relacionados: [616321, 254210, 612866, 616322, 616323, 616324, 616325, 616326, 616330, 616720, 609557, 103320, 603033, 603034, 615320, 616313, 607905, 608930, 608931, 616227, 616228, 138292, 150325, 614198, 603967, 604875, 601296, 615120, 100690, 118490, 254300, 614750, 100710, 616040, 190315, 610285, 604270, 100720, 605809, 616304, 100725, 191350, 601462, 601592, 608761, 616314]
+edad:
+  valor_raso: 2
+  referencia: "onset at or shortly after birth or in early childhood, usually in the first two years."
+  porcentaje_fiabilidad: 90
+penetrancia:
+  valor: null
+  referencia: ""
+  asintomaticos: null
+  referencia_ asintomaticos: ""
+  zigosidad: "homocigoto"
+  referencia_zigosidad: "Biallelic loss-of-function variants result in autosomal recessive CMS."
+  mecanismo_patogenicidad: "Biallelic loss-of-function variants"
+  efecto_funcional: "LOF"
+  referencia_efecto_funcional: "Biallelic loss-of-function variants result in autosomal recessive CMS."
+  porcentaje_fiabilidad: 80
+gravedad:
+  valor: "grave"
+  referencia: "Severity and course of disease are highly variable, ranging from minor symptoms to progressive disabling weakness."
+  porcentaje_fiabilidad: 70
+efectividad_tratamiento:
+  existencia: true
+  referencia1: "In some subtypes of CMS, a positive response to acetylcholinesterase (AChE) inhibitors may occur."
+  intervencion: "postsintomatico"
+  referencia2: "Response to AChE inhibitors is usually assessed by a controlled/supervised trial of oral AChE inhibitors and monitoring of fatigable muscle weakness"
+  valor: true
+  referencia: "In some subtypes of CMS, a positive response to acetylcholinesterase (AChE) inhibitors may occur."
+  porcentaje_fiabilidad: 85

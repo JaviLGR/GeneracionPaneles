@@ -1,0 +1,33 @@
+NBK: NBK1351
+Archivo: hht.nxml
+ENFERMEDAD: Hereditary Hemorrhagic Telangiectasia
+HGNC: ENG
+Ultima_actualizacion: 16-3-2004
+OMIM_relacionados: [600993, 187300, 601284, 175050, 600376, 131195, 610655]
+edad: 
+  valor_raso: 12
+  referencia: "Epistaxis has an average age of onset of approximately 12 years"
+  porcentaje_fiabilidad: 90
+penetrancia:
+  valor: 100
+  referencia: "HTT is near fully penetrant by late adulthood"
+  asintomaticos: true
+  referencia_ asintomaticos: "Evaluation of apparently asymptomatic older and younger at-risk relatives of an affected individual is recommended"
+  zigosidad: "heterocigoto simple"
+  referencia_zigosidad: "The molecular diagnosis can be established in a proband with a germline heterozygous pathogenic (or likely pathogenic) variant"
+  mecanismo_patogenicidad: "Loss of function"
+  efecto_funcional: "LOF"
+  referencia_efecto_funcional: "Mechanism of disease causation. Loss of function"
+  porcentaje_fiabilidad: 95
+gravedad:
+  valor: "moderado"
+  referencia: "HHT can cause life-threatening cerebral hemorrhage... but in many do not have nosebleeds that are frequent or severe enough to cause anemia"
+  porcentaje_fiabilidad: 70
+efectividad_tratamiento:
+  existencia: true
+  referencia1: "Targeted therapies... Tranexamic acid... Bevacizumab"
+  intervencion: "postsintomatico"
+  referencia2: "Supportive care to improve quality of life, maximize function, and reduce complications is recommended"
+  valor: true
+  referencia: "Supported by multiple retrospective studies showing reduced epistaxis, increased hemoglobin, & reduced RBC transfusion need"
+  porcentaje_fiabilidad: 90

@@ -1,0 +1,33 @@
+NBK: NBK1309
+Archivo: dcm-ov.nxml
+ENFERMEDAD: Dilated Cardiomyopathy Overview
+HGNC: TTN
+Ultima_actualizacion: 12-12-2024
+OMIM_RELACIONADOS: [115200 604288 613121 613122 613252 102540 612877 605582 601493 601494 603550 191010 300069 611878 188840 193065 611880 102573 613424 605362 613171 600884 613172 600759 150330 612158 609599 613694 613697 601154 601411 191045 160710 604488 611407 605906 602067 188380 125660 604765 125671 300394 603883 613740 604145 172405 609909 104311 600824 613881 607482 600958 607487]
+edad:
+  valor_raso: 45
+  referencia: "DCM usually initially manifests in adults in the fourth to sixth decade"
+  porcentaje_fiabilidad: 90
+penetrancia:
+  valor: null
+  referencia: ""
+  asintomaticos: true
+  referencia_ asintomaticos: "Persons with DCM may be asymptomatic for a number of years."
+  zigosidad: heterocigoto simple
+  referencia_zigosidad: "DCM is typically inherited in an autosomal dominant manner."
+  mecanismo_patogenicidad: null
+  efecto_funcional: LOF
+  referencia_efecto_funcional: "DCM is assoc w/truncating variants"
+  porcentaje_fiabilidad: 80
+gravedad:
+  valor: grave
+  referencia: "Manifestations usually occur late in the disease course with one or more of the following findings: Heart failure... Thromboembolic disease."
+  porcentaje_fiabilidad: 70
+efectividad_tratamiento:
+  existencia: true
+  referencia1: "prompt initiation of treatment, and improvement in long-term outcome"
+  intervencion: ambos
+  referencia2: "asymptomatic first-degree family members... can allow early detection of DCM, prompt initiation of treatment"
+  valor: true
+  referencia: "improvement in long-term outcome"
+  porcentaje_fiabilidad: 90

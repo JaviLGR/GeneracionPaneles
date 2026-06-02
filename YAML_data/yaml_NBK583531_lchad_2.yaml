@@ -1,0 +1,33 @@
+NBK: NBK583531
+Archivo: lchad.nxml
+ENFERMEDAD: Long-Chain Hydroxyacyl-CoA Dehydrogenase Deficiency / Trifunctional Protein Deficiency
+HGNC: HADHB
+Ultima_actualizacion: 1-9-2022
+OMIM_RELACIONADOS: [609016 600890 620300 609015]
+edad:
+  valor_raso: 0
+  referencia: "The clinical presentation represents a continuous spectrum of severity ranging from severe neonatal-onset to mild late-onset forms."
+  porcentaje_fiabilidad: 90
+penetrancia:
+  valor: null
+  referencia: ""
+  asintomaticos: false
+  referencia_ asintomaticos: "The clinical presentation represents a continuous spectrum of severity ranging from severe neonatal-onset to mild late-onset forms."
+  zigosidad: "heterocigoto compuesto"
+  referencia_zigosidad: "In general, individuals with HADHB missense pathogenic variants present with milder phenotypes than those with premature termination or frameshift variants. A missense variant on at least one allele favors the milder phenotype."
+  mecanismo_patogenicidad: "Loss of function"
+  efecto_funcional: "LOF"
+  referencia_efecto_funcional: "Mechanism of disease causation. Loss of function"
+  porcentaje_fiabilidad: 80
+gravedad:
+  valor: "grave"
+  referencia: "The neonatal-onset (severe/cardiac) presentation is more common in individuals with TFP deficiency than in those with LCHAD deficiency."
+  porcentaje_fiabilidad: 95
+efectividad_tratamiento:
+  existencia: true
+  referencia1: "Avoidance of fasting and supplementation with medium-chain triglycerides (MCT) or triheptanoin remains the mainstay of treatment."
+  intervencion: "ambos"
+  referencia2: "Newborn screening has enabled presymptomatic diagnosis and thus improved outcome... Prompt diagnosis and initiation of treatment is crucial for reversal of cardiomyopathy and favorable outcome."
+  valor: true
+  referencia: "Prompt diagnosis and initiation of treatment is crucial for reversal of cardiomyopathy and favorable outcome."
+  porcentaje_fiabilidad: 90
