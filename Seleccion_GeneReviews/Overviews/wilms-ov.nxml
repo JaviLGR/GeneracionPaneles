@@ -1,0 +1,1634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper content-type="chapter" id="wilms-ov" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">gene</book-id>
+    <book-title-group>
+      <book-title>GeneReviews<sup>&#x000ae;</sup></book-title>
+    </book-title-group>
+    <contrib-group>
+      <contrib contrib-type="editor">
+        <name name-style="western">
+          <surname>Adam</surname>
+          <given-names>Margaret P</given-names>
+        </name>
+        <role>Editor-in-Chief</role>
+      </contrib>
+      <contrib contrib-type="editor">
+        <name name-style="western">
+          <surname>Bick</surname>
+          <given-names>Sarah</given-names>
+        </name>
+        <role>Medical Editor</role>
+      </contrib>
+      <contrib contrib-type="editor">
+        <name name-style="western">
+          <surname>Mirzaa</surname>
+          <given-names>Ghayda M</given-names>
+        </name>
+        <role>Medical Editor</role>
+      </contrib>
+      <contrib contrib-type="editor">
+        <name name-style="western">
+          <surname>Pagon</surname>
+          <given-names>Roberta A</given-names>
+        </name>
+        <role>Medical Editor</role>
+      </contrib>
+      <contrib contrib-type="editor">
+        <name name-style="western">
+          <surname>Wallace</surname>
+          <given-names>Stephanie E</given-names>
+        </name>
+        <role>Medical Editor</role>
+      </contrib>
+      <contrib contrib-type="editor">
+        <name name-style="western">
+          <surname>Amemiya</surname>
+          <given-names>Anne</given-names>
+        </name>
+        <role>Genetic Counseling Editor</role>
+      </contrib>
+    </contrib-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <year>1993</year>
+    </pub-date>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <year>2026</year>
+    </pub-date>
+    <issn>2372-0697</issn>
+    <publisher>
+      <publisher-name>University of Washington, Seattle</publisher-name>
+      <publisher-loc>Seattle (WA)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 1993-2026, University of Washington, Seattle. GeneReviews is
+a registered trademark of the University of Washington, Seattle. All rights
+reserved.</copyright-statement>
+      <copyright-year>2026</copyright-year>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://www.ncbi.nlm.nih.gov/books/NBK138602/">
+        <license-p>GeneReviews&#x000ae; chapters are owned by the University of Washington. Permission is
+hereby granted to reproduce, distribute, and translate copies of content materials for
+noncommercial research purposes only, provided that (i) credit for source (<ext-link ext-link-type="uri" xlink:href="http://www.genereviews.org/">http://www.genereviews.org/</ext-link>) and copyright (&#x000a9; 1993-2026 University of
+Washington) are included with each copy; (ii) a link to the original material is provided
+whenever the material is published elsewhere on the Web; and (iii) reproducers,
+distributors, and/or translators comply with the <ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/books/n/gene/GRcopyright_permiss/">GeneReviews&#x000ae; Copyright Notice and Usage
+Disclaimer</ext-link>. No further modifications are allowed. For clarity, excerpts
+of GeneReviews chapters for use in lab reports and clinic notes are a permitted
+use.</license-p>
+        <license-p>For more information, see the <ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/books/n/gene/GRcopyright_permiss/">GeneReviews&#x000ae; Copyright Notice and Usage
+Disclaimer</ext-link>.</license-p>
+        <license-p>For questions regarding permissions or whether a specified use is allowed,
+contact: <email>admasst@uw.edu</email>.</license-p>
+      </license>
+    </permissions>
+    <abstract>
+      <p><italic toggle="yes">GeneReviews</italic>, an international point-of-care resource for busy clinicians,
+provides clinically relevant and medically actionable information for inherited conditions
+in a standardized journal-style format, covering diagnosis, management, and genetic
+counseling for patients and their families. Each chapter in <italic toggle="yes">GeneReviews</italic> is
+written by one or more experts on the specific condition or disease and goes through a
+rigorous editing and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/books/n/gene/GRrevprocesses/#GRrevprocesses.Peer_Review">peer
+review</ext-link> process before being published online.</p>
+      <p><italic toggle="yes">GeneReviews</italic> currently comprises 1 chapters and has more than fifteen million users annually.</p>
+      <p>The two general formats for <italic toggle="yes">GeneReviews</italic> are: chapters focused on a single
+gene or phenotype (~95%) and overviews summarizing causes of common genetic conditions
+(e.g., genetic hearing loss, Alzheimer disease) (~5%).</p>
+      <p>To ensure continuing relevant and medically actionable content, each
+<italic toggle="yes">GeneReviews</italic> chapter is <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/books/n/gene/GRrevprocesses/#GRrevprocesses.Updates">updated</ext-link> every four to five years (or as needed) by the
+author(s) in a formal and comprehensive process curated by the <italic toggle="yes">GeneReviews</italic>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/books/n/gene/GRpersonnel/">editors</ext-link>. Additional <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/books/n/gene/GRrevprocesses/#GRrevprocesses.Revisions">revisions</ext-link> may occur more
+frequently as needed to reflect significant changes in clinically relevant information.</p>
+      <p>Genetic counseling and testing terms used in <italic toggle="yes">GeneReviews</italic> are hyperlinked
+to definitions in the <italic toggle="yes">GeneReviews</italic>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/books/n/gene/glossary/">Glossary</ext-link>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/books/n/gene/resource_mats/">Resource Materials</ext-link> include additional information on key
+genetics concepts used in <italic toggle="yes">GeneReviews</italic>.</p>
+      <p><italic toggle="yes">GeneReviews</italic> are indexed in PubMed.</p>
+      <p>Note: For a variety of reasons, GeneReviews occasionally removes chapters from the active website. Click <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/books/n/gene/archived_chapters/">here</ext-link> for a list of retired chapters.</p>
+    </abstract>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-subject</meta-name>
+        <meta-value>Genetics</meta-value>
+      </custom-meta>
+      <custom-meta>
+        <meta-name>books-subject</meta-name>
+        <meta-value>Medicine</meta-value>
+      </custom-meta>
+      <custom-meta>
+        <meta-name>books-subject</meta-name>
+        <meta-value>Diseases</meta-value>
+      </custom-meta>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">wilms-ov</book-part-id>
+      <title-group>
+        <title>Wilms Tumor Predisposition</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Turner</surname>
+            <given-names>Joyce T</given-names>
+          </name>
+          <degrees>MS</degrees>
+          <xref ref-type="aff" rid="wilms-ov.Tc.aff1"/>
+          <email>jturner@childrensnational.org</email>
+        </contrib>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Brzezinski</surname>
+            <given-names>Jack</given-names>
+          </name>
+          <degrees>MD, PhD</degrees>
+          <xref ref-type="aff" rid="wilms-ov.Tc.aff2"/>
+          <email>jack.brzezinski@sickkids.ca</email>
+        </contrib>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Dome</surname>
+            <given-names>Jeffrey S</given-names>
+          </name>
+          <degrees>MD, PhD</degrees>
+          <xref ref-type="aff" rid="wilms-ov.Tc.aff1"/>
+          <email>jdome@childrensnational.org</email>
+        </contrib>
+      </contrib-group>
+      <aff id="wilms-ov.Tc.aff1">Children's National HospitalWashington, DC</aff>
+      <aff id="wilms-ov.Tc.aff2">The Hospital for Sick ChildrenToronto, Ontario, Canada</aff>
+      <pub-history>
+        <date date-type="created">
+          <day>19</day>
+          <month>12</month>
+          <year>2003</year>
+        </date>
+        <date date-type="updated">
+          <day>24</day>
+          <month>3</month>
+          <year>2022</year>
+        </date>
+        <date date-type="revised">
+          <day>24</day>
+          <month>5</month>
+          <year>2004</year>
+        </date>
+      </pub-history>
+      <abstract id="wilms-ov.Summary">
+        <title>Summary</title>
+        <p>The purpose of this <italic toggle="yes">GeneReview</italic> is to:</p>
+        <p><list list-type="order"><list-item><label>1</label><p>Briefly describe the <xref ref-type="sec" rid="wilms-ov.Clinical_Characteristics_of_Wil">clinical characteristics</xref> of Wilms tumor;</p></list-item><list-item><label>2</label><p>Review the <xref ref-type="sec" rid="wilms-ov.Mechanisms_of_Predisposition_to">mechanisms of predisposition</xref> to Wilms tumor;</p></list-item><list-item><label>3</label><p>Provide an <xref ref-type="sec" rid="wilms-ov.Evaluation_Strategy_to_Identify">evaluation strategy</xref> to determine if a proband with Wilms tumor has a predisposition to Wilms tumor, identify the genetic or epigenetic mechanism for Wilms tumor, and determine risks for additional medical complications;</p></list-item><list-item><label>4</label><p>Review <xref ref-type="sec" rid="wilms-ov.Management">management</xref> (e.g., tumor screening) recommendations for individuals with a genetic predisposition to Wilms tumor;</p></list-item><list-item><label>5</label><p>Review <xref ref-type="sec" rid="wilms-ov.Genetic_Counseling">genetic counseling</xref> issues including mode of inheritance, recurrence risk, and evaluation of relatives at risk based on the underlying genetic mechanism.</p></list-item></list>
+</p>
+      </abstract>
+      <kwd-group specific-use="books-idx" kwd-group-type="ProteinName">
+        <kwd>F-box/WD repeat-containing protein 7</kwd>
+        <kwd>Lysine-specific demethylase 3B</kwd>
+        <kwd>Protein NYNRIN</kwd>
+        <kwd>RE1-silencing transcription factor</kwd>
+        <kwd>RNA polymerase-associated protein CTR9 homolog</kwd>
+        <kwd>Transcription intermediary factor 1-beta</kwd>
+        <kwd>Wilms tumor protein</kwd>
+      </kwd-group>
+      <kwd-group specific-use="books-idx" kwd-group-type="GeneSymbol">
+        <kwd>CTR9</kwd>
+        <kwd>FBXW7</kwd>
+        <kwd>KDM3B</kwd>
+        <kwd>NYNRIN</kwd>
+        <kwd>REST</kwd>
+        <kwd>TRIM28</kwd>
+        <kwd>WT1</kwd>
+      </kwd-group>
+      <kwd-group specific-use="books-idx" kwd-group-type="DiseaseName">
+        <kwd>Wilms Tumor Predisposition</kwd>
+      </kwd-group>
+      <kwd-group specific-use="books-idx" kwd-group-type="Attribute">
+        <kwd>Overview</kwd>
+      </kwd-group>
+    </book-part-meta>
+    <body>
+      <sec id="wilms-ov.Clinical_Characteristics_of_Wil">
+        <label>1.</label>
+        <title> Clinical Characteristics of Wilms Tumor</title>
+        <p>Wilms tumor (nephroblastoma), an embryonal malignancy of the kidney, is the most common renal tumor of childhood [<xref ref-type="bibr" rid="wilms-ov.REF.fernandez.2021">Fernandez et al 2021</xref>]. It usually presents as an abdominal mass in an otherwise apparently healthy child. Abdominal pain, fever, anemia, hematuria, and hypertension are seen in 25%-30% of affected children.</p>
+        <p>Approximately 5%-10% of individuals with Wilms tumor have bilateral or multicentric tumors. The prevalence of bilateral involvement is higher in individuals with a predisposition to Wilms tumor than in those without a genetic predisposition (see <xref ref-type="sec" rid="wilms-ov.Mechanisms_of_Predisposition_to">Mechanisms of Predisposition to Wilms Tumor</xref>), but unilateral, unifocal Wilms tumor does not preclude an underlying germline or epigenetic cause.</p>
+        <p>A definitive diagnosis of Wilms tumor can be made only on histologic assessment of the tumor. There are two main histologic subtypes: favorable and anaplastic. Tumors with anaplastic histology usually have somatic mutation of <italic toggle="yes">TP53</italic> and inferior prognosis compared to tumors with favorable histology [<xref ref-type="bibr" rid="wilms-ov.REF.ooms.2016.5582">Ooms et al 2016</xref>, <xref ref-type="bibr" rid="wilms-ov.REF.daw.2020.1558">Daw et al 2020</xref>].</p>
+        <p>Nephrogenic rests, benign foci of embryonal kidney cells that persist abnormally into postnatal life, are considered to be Wilms tumor precursors. Pathogenic variants may predispose to nephrogenic rests. Additional pathogenic variants transform nephrogenic rests into a Wilms tumor [<xref ref-type="bibr" rid="wilms-ov.REF.fernandez.2021">Fernandez et al 2021</xref>].</p>
+        <p>Treatment includes surgery, chemotherapy, and radiation therapy for individuals with incomplete resection or metastatic disease. Outcomes are generally outstanding with survival estimates of approximately 90%. Anaplastic histology, bilateral disease, distant metastasis, and recurrent disease are associated with less favorable outcome [<xref ref-type="bibr" rid="wilms-ov.REF.nelson.2021.40">Nelson et al 2021</xref>].</p>
+      </sec>
+      <sec id="wilms-ov.Mechanisms_of_Predisposition_to">
+        <label>2.</label>
+        <title> Mechanisms of Predisposition to Wilms Tumor</title>
+        <p>In 10%-15% of individuals with Wilms tumor, the cause is considered to be a germline pathogenic variant or an epigenetic alteration occurring early during embryogenesis [<xref ref-type="bibr" rid="wilms-ov.REF.mahamdallie.2019.322">Mahamdallie et al 2019</xref>].</p>
+        <sec id="wilms-ov.Suggestive_Features_of_a_Predis">
+          <title>Suggestive Features of a Predisposition to Wilms Tumor</title>
+          <p>
+<bold>Clinical features</bold>
+</p>
+          <list list-type="bullet">
+            <list-item>
+              <p>Bilateral Wilms tumor</p>
+            </list-item>
+            <list-item>
+              <p>Unilateral multicentric Wilms tumor</p>
+            </list-item>
+            <list-item>
+              <p>Early onset Wilms tumor (age &#x0003c;2 years)</p>
+            </list-item>
+            <list-item>
+              <p>Multiple nephrogenic rests (both unilateral and bilateral)</p>
+            </list-item>
+            <list-item>
+              <p>Clinical features of Wilms tumor predisposition syndromes (See <xref ref-type="table" rid="wilms-ov.T.more_common_genes_loci_and_sy">Table 1</xref> and <xref ref-type="table" rid="wilms-ov.T.less_common_genes_and_syndrom">Table 2</xref>.)</p>
+            </list-item>
+          </list>
+          <p><bold>Family history.</bold> Approximately 1%-2% of individuals with Wilms tumor have at least one relative also diagnosed with Wilms tumor. While germline pathogenic variants have been identified in some families, they are still unknown for approximately two thirds of individuals [<xref ref-type="bibr" rid="wilms-ov.REF.mahamdallie.2019.322">Mahamdallie et al 2019</xref>].</p>
+        </sec>
+        <sec id="wilms-ov.Common_Genes_Loci_and_Syndromes">
+          <title>Common Genes, Loci, and Syndromes Associated with Wilms Tumor Predisposition</title>
+          <table-wrap id="wilms-ov.T.more_common_genes_loci_and_sy" orientation="portrait" position="anchor">
+            <label>Table 1. </label>
+            <caption>
+              <p>More Common Genes, Loci, and Syndromes Associated with Wilms Tumor Predisposition</p>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <thead>
+                <tr>
+                  <th id="hd_h_wilms-ov.T.more_common_genes_loci_and_sy_1_1_1_1" valign="middle" align="left" scope="col" rowspan="1" colspan="1">Gene / Locus</th>
+                  <th id="hd_h_wilms-ov.T.more_common_genes_loci_and_sy_1_1_1_2" valign="middle" align="left" scope="col" rowspan="1" colspan="1">Syndrome</th>
+                  <th id="hd_h_wilms-ov.T.more_common_genes_loci_and_sy_1_1_1_3" valign="middle" align="left" scope="col" rowspan="1" colspan="1">% of all Wilms tumor</th>
+                  <th id="hd_h_wilms-ov.T.more_common_genes_loci_and_sy_1_1_1_4" valign="middle" align="left" scope="col" rowspan="1" colspan="1">MOI</th>
+                  <th id="hd_h_wilms-ov.T.more_common_genes_loci_and_sy_1_1_1_5" valign="middle" align="left" scope="col" rowspan="1" colspan="1">Estimated Wilms Tumor Risk</th>
+                  <th id="hd_h_wilms-ov.T.more_common_genes_loci_and_sy_1_1_1_6" valign="middle" align="left" scope="col" rowspan="1" colspan="1">Other Features</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td headers="hd_h_wilms-ov.T.more_common_genes_loci_and_sy_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">REST</italic>
+</td>
+                  <td headers="hd_h_wilms-ov.T.more_common_genes_loci_and_sy_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1"><italic toggle="yes">REST</italic>-related Wilms tumor (OMIM <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://omim.org/entry/616806">616806</ext-link>)</td>
+                  <td headers="hd_h_wilms-ov.T.more_common_genes_loci_and_sy_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">~2%</td>
+                  <td headers="hd_h_wilms-ov.T.more_common_genes_loci_and_sy_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1">AD</td>
+                  <td headers="hd_h_wilms-ov.T.more_common_genes_loci_and_sy_1_1_1_5" valign="middle" align="left" rowspan="1" colspan="1">Unknown</td>
+                  <td headers="hd_h_wilms-ov.T.more_common_genes_loci_and_sy_1_1_1_6" valign="middle" align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td headers="hd_h_wilms-ov.T.more_common_genes_loci_and_sy_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">TRIM28</italic>
+</td>
+                  <td headers="hd_h_wilms-ov.T.more_common_genes_loci_and_sy_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1"><italic toggle="yes">TRIM28</italic>-related Wilms tumor&#x000a0;<sup>1</sup></td>
+                  <td headers="hd_h_wilms-ov.T.more_common_genes_loci_and_sy_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">~2%</td>
+                  <td headers="hd_h_wilms-ov.T.more_common_genes_loci_and_sy_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1">AD</td>
+                  <td headers="hd_h_wilms-ov.T.more_common_genes_loci_and_sy_1_1_1_5" valign="middle" align="left" rowspan="1" colspan="1">Unknown</td>
+                  <td headers="hd_h_wilms-ov.T.more_common_genes_loci_and_sy_1_1_1_6" valign="middle" align="left" rowspan="1" colspan="1">Evidence of maternal parent-of-origin effect</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_wilms-ov.T.more_common_genes_loci_and_sy_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">WT1</italic>
+</td>
+                  <td headers="hd_h_wilms-ov.T.more_common_genes_loci_and_sy_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">
+<related-object link-type="booklink" source-id="gene" document-id="wt1-dis" document-type="book-part"><italic toggle="yes">WT1 </italic>disorder</related-object>
+</td>
+                  <td headers="hd_h_wilms-ov.T.more_common_genes_loci_and_sy_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">1%-5%</td>
+                  <td headers="hd_h_wilms-ov.T.more_common_genes_loci_and_sy_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1">AD</td>
+                  <td headers="hd_h_wilms-ov.T.more_common_genes_loci_and_sy_1_1_1_5" valign="middle" align="left" rowspan="1" colspan="1">Varies by genotype:
+<list list-type="bullet"><list-item><p>Highest risk: truncating variants</p></list-item><list-item><p>70%-80%: exon 8/9 missense variants</p></list-item><list-item><p>&#x0003c;2%: intron 9 variants</p></list-item><list-item><p>Other variants have intermediate risk.&#x000a0;<sup>1</sup></p></list-item></list>
+</td>
+                  <td headers="hd_h_wilms-ov.T.more_common_genes_loci_and_sy_1_1_1_6" valign="middle" align="left" rowspan="1" colspan="1">GU anomalies more common in males&#x000a0;<sup>2</sup>, undermasculinized genitalia, renal mesangial sclerosis, steroid resistant nephrotic syndrome, gonadoblastoma&#x000a0;<sup>3</sup></td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_wilms-ov.T.more_common_genes_loci_and_sy_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">11p13</td>
+                  <td headers="hd_h_wilms-ov.T.more_common_genes_loci_and_sy_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">WAGR syndrome (See <related-object link-type="booklink" source-id="gene" document-id="aniridia" document-type="book-part"><italic toggle="yes">PAX6</italic>-Related Aniridia</related-object>.)</td>
+                  <td headers="hd_h_wilms-ov.T.more_common_genes_loci_and_sy_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">0%-1%</td>
+                  <td headers="hd_h_wilms-ov.T.more_common_genes_loci_and_sy_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1">AD</td>
+                  <td headers="hd_h_wilms-ov.T.more_common_genes_loci_and_sy_1_1_1_5" valign="middle" align="left" rowspan="1" colspan="1">45%-60%</td>
+                  <td headers="hd_h_wilms-ov.T.more_common_genes_loci_and_sy_1_1_1_6" valign="middle" align="left" rowspan="1" colspan="1">Aniridia, GU anomalies, ambiguous genitalia, gonadoblastoma, ID, ESKD, obesity</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_wilms-ov.T.more_common_genes_loci_and_sy_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">11p15 <sup>4</sup></td>
+                  <td headers="hd_h_wilms-ov.T.more_common_genes_loci_and_sy_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">11p15-related Wilms tumor, incl isolated Wilms tumor&#x000a0;<sup>4</sup>, <related-object link-type="booklink" source-id="gene" document-id="bws" document-type="book-part">Beckwith-Wiedemann syndrome</related-object> (BWS), and isolated hemi-hyperplasia&#x000a0;<sup>5</sup> (OMIM <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://omim.org/entry/235000">235000</ext-link>)</td>
+                  <td headers="hd_h_wilms-ov.T.more_common_genes_loci_and_sy_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">1%-5%</td>
+                  <td headers="hd_h_wilms-ov.T.more_common_genes_loci_and_sy_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1">See footnote 6.</td>
+                  <td headers="hd_h_wilms-ov.T.more_common_genes_loci_and_sy_1_1_1_5" valign="middle" align="left" rowspan="1" colspan="1">~7%-25%</td>
+                  <td headers="hd_h_wilms-ov.T.more_common_genes_loci_and_sy_1_1_1_6" valign="middle" align="left" rowspan="1" colspan="1">In BWS: macrosomia, macroglossia, hemihyperplasia, visceromegaly, embryonal tumors (e.g., hepatoblastoma, neuroblastoma, rhabdomyosarcoma, adrenal cortical carcinoma), omphalocele, neonatal hypoglycemia, ear creases/pits, adrenocortical cytomegaly, &#x00026; renal abnormalities</td>
+                </tr>
+              </tbody>
+            </table>
+            <table-wrap-foot>
+              <fn>
+                <p>AD = autosomal dominant; ESKD = end-stage kidney disease; GU = genitourinary; ID = intellectual disability; MOI = mode of inheritance</p>
+              </fn>
+              <fn id="wilms-ov.TF.1.1">
+                <label>1. </label>
+                <p><xref ref-type="bibr" rid="wilms-ov.REF.halliday.2018.e1007399">Halliday et al [2018]</xref>, <xref ref-type="bibr" rid="wilms-ov.REF.diets.2019.941">Diets et al [2019]</xref>, <xref ref-type="bibr" rid="wilms-ov.REF.mahamdallie.2019.322">Mahamdallie et al [2019]</xref>, <xref ref-type="bibr" rid="wilms-ov.REF.hol.2021a.494">Hol et al [2021a]</xref></p>
+              </fn>
+              <fn id="wilms-ov.TF.1.2">
+                <label>2. </label>
+                <p>Germline <italic toggle="yes">WT1</italic> pathogenic variants have a greater effect on sex determination and genital tract development in males; 46,XX females with a germline <italic toggle="yes">WT1</italic> pathogenic variant are less likely to exhibit genitourinary anomalies.</p>
+              </fn>
+              <fn id="wilms-ov.TF.1.3">
+                <label>3. </label>
+                <p>In the absence of genitourinary anomalies, renal mesangial sclerosis, nephrogenic rests, or bilateral tumors, the likelihood that a child with Wilms tumor has a germline <italic toggle="yes">WT1</italic> pathogenic variant is 0%-5%. A small number of families with isolated Wilms tumor have heterozygous germline <italic toggle="yes">WT1</italic> pathogenic variants.</p>
+              </fn>
+              <fn id="wilms-ov.TF.1.4">
+                <label>4. </label>
+                <p>Isolated Wilms tumor has been associated with constitutional alterations of chromosome 11p15 most commonly hypermethylation at IC1 and paternal uniparental disomy of 11p15. Loss of methylation at IC2 and genomic abnormalities of 11p15 may be associated with Wilms tumor but reports are rare and the evidence is still emerging.</p>
+              </fn>
+              <fn id="wilms-ov.TF.1.5">
+                <label>5. </label>
+                <p>Molecular alterations at 11p15 including loss of methylation at IC2, gain of methylation at IC1, and 11p15 paternal uniparental disomy have been reported in individuals who have apparently isolated hemihyperplasia (see <related-object source-id="gene" document-id="bws.bws.Genetically_Related_Allelic_Disorder/">Beckwith-Wiedemann Syndrome, Allelic Disorders</related-object>).</p>
+              </fn>
+              <fn id="wilms-ov.TF.1.6">
+                <label>6. </label>
+                <p>85% of individuals with BWS have no family history of BWS; approximately 15% have a family history consistent with parent-of-origin autosomal dominant transmission.</p>
+              </fn>
+            </table-wrap-foot>
+          </table-wrap>
+          <p><bold><italic toggle="yes">TRIM28</italic>-related Wilms tumor.</bold> Among 890 individuals with Wilms tumor, a germline <italic toggle="yes">TRIM28</italic> pathogenic variant was identified in 21 affected individuals [<xref ref-type="bibr" rid="wilms-ov.REF.mahamdallie.2019.322">Mahamdallie et al 2019</xref>]. Age of onset ranged from five months to nine years (median age 13 months). Among individuals with a germline <italic toggle="yes">TRIM28</italic> variant who develop Wilms tumor, tumors develop before age seven years in 83% and before age eight years in 93% [<xref ref-type="bibr" rid="wilms-ov.REF.diets.2019.941">Diets et al 2019</xref>, <xref ref-type="bibr" rid="wilms-ov.REF.mahamdallie.2019.322">Mahamdallie et al 2019</xref>, <xref ref-type="bibr" rid="wilms-ov.REF.hol.2021a.494">Hol et al 2021a</xref>]. <italic toggle="yes">TRIM28</italic>-related Wilms tumors can be either unilateral or bilateral, predominantly have epithelial-type histology, and are frequently accompanied by nephrogenic rests. Immunohistochemistry studies show negative staining for TRIM28. With few exceptions, the reported germline variants are truncating or splice site variants located throughout the protein coding regions with evidence suggestive of a maternal parent-of-origin effect. The prognosis is favorable with a low rate of metastasis or relapse. Germline <italic toggle="yes">TRIM28</italic> pathogenic variants do not appear to be associated with any phenotype other than Wilms tumor [<xref ref-type="bibr" rid="wilms-ov.REF.halliday.2018.e1007399">Halliday et al 2018</xref>, <xref ref-type="bibr" rid="wilms-ov.REF.diets.2019.941">Diets et al 2019</xref>, <xref ref-type="bibr" rid="wilms-ov.REF.mahamdallie.2019.322">Mahamdallie et al 2019</xref>, <xref ref-type="bibr" rid="wilms-ov.REF.hol.2021a.494">Hol et al 2021a</xref>].</p>
+          <p><bold><italic toggle="yes">REST</italic>-related Wilms tumor.</bold> Age of Wilms tumor onset ranges from six months to six years (median age 3.25 years). Those reported have predominantly had unilateral tumors with triphasic, blastemal, and/or epithelial histology [<xref ref-type="bibr" rid="wilms-ov.REF.mahamdallie.2015.1471">Mahamdallie et al 2015</xref>, <xref ref-type="bibr" rid="wilms-ov.REF.mahamdallie.2019.322">Mahamdallie et al 2019</xref>]. Individuals with a germline <italic toggle="yes">REST</italic> pathogenic variant have been reported to have additional clinical features, although no additional clinical features or other malignancies have been consistently reported [<xref ref-type="bibr" rid="wilms-ov.REF.mahamdallie.2015.1471">Mahamdallie et al 2015</xref>].</p>
+          <table-wrap id="wilms-ov.T.less_common_genes_and_syndrom" orientation="portrait" position="anchor">
+            <label>Table 2. </label>
+            <caption>
+              <p>Less Common Genes and Syndromes Associated with Wilms Tumor Predisposition</p>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <thead>
+                <tr>
+                  <th id="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_1" valign="middle" align="left" scope="col" rowspan="1" colspan="1">Gene</th>
+                  <th id="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_2" valign="middle" align="left" scope="col" rowspan="1" colspan="1">Syndrome</th>
+                  <th id="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_3" valign="middle" align="left" scope="col" rowspan="1" colspan="1">MOI</th>
+                  <th id="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_4" valign="middle" align="left" scope="col" rowspan="1" colspan="1">Estimated Wilms Tumor Risk&#x000a0;<sup>1</sup></th>
+                  <th id="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_5" valign="middle" align="left" scope="col" rowspan="1" colspan="1">Other Clinical Features</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1"><italic toggle="yes">AMER1</italic> (<italic toggle="yes">WTX</italic>)</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">
+<related-object link-type="booklink" source-id="gene" document-id="os-cs" document-type="book-part">Osteopathia striata with cranial sclerosis</related-object>
+</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">XL</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1">~5%</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_5" valign="middle" align="left" rowspan="1" colspan="1">Sclerosis of cranium &#x00026; long bones, macrocephaly, characteristic facial features, &#x000b1;DD/ID</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">ASXL1</italic>
+</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">
+<related-object link-type="booklink" source-id="gene" document-id="bohring-opitz" document-type="book-part">Bohring-Opitz syndrome</related-object>
+</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">AD</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1">~7%</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_5" valign="middle" align="left" rowspan="1" colspan="1">Growth deficiency, characteristic facial features, distinct posture, seizures. cardiac anomalies, DD/ID</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">BLM</italic>
+</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">
+<related-object link-type="booklink" source-id="gene" document-id="bloom" document-type="book-part">Bloom syndrome</related-object>
+</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">AR</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1">&#x0223c;6%</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_5" valign="middle" align="left" rowspan="1" colspan="1">Growth deficiency, immune deficiency, sun sensitivity, diabetes, multiple cancers</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">BRCA2</italic>
+</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1"><italic toggle="yes">BRCA2</italic>-related <related-object link-type="booklink" source-id="gene" document-id="fa" document-type="book-part">Fanconi anemia</related-object></td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">AR</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1">&#x0223c;20%-60%</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_5" valign="middle" align="left" rowspan="1" colspan="1">Growth deficiency, congenital anomalies, dysmorphic features, early-onset leukemia, medulloblastoma. pigmentary abnormalities</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">BUB1B</italic>
+</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">Mosaic variegated aneuploidy syndrome (OMIM <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://omim.org/entry/257300">257300</ext-link>)</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">AR</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1">&#x0003e;85%</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_5" valign="middle" align="left" rowspan="1" colspan="1">Growth deficiency, microcephaly, CNS anomalies, dysmorphic features, genitourinary anomalies, DD/ID, nephroblastoma, rhabdomyosarcoma, leukemia.</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">CDC73</italic>
+</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">
+<related-object link-type="booklink" source-id="gene" document-id="hrpt2" document-type="book-part"><italic toggle="yes">CDC73</italic>-related disorders</related-object>
+</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">AD</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1">&#x0223c;3%</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_5" valign="middle" align="left" rowspan="1" colspan="1">Hyperparathyroidism, parathyroid adenoma &#x00026; cancer, osseous fibroma(s) of the jaw</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">CHEK2</italic>
+</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">
+<related-object link-type="booklink" source-id="gene" document-id="chek2-cpd" document-type="book-part"><italic toggle="yes">CHEK2</italic>-related<italic toggle="yes">
+</italic>cancer susceptibility</related-object>
+</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">AD</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1">&#x0223c;3%</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_5" valign="middle" align="left" rowspan="1" colspan="1">Breast cancer, &#x02191; risk of some additional cancers (prostate, GI, sarcomas, renal)</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">CTR9</italic>
+</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">Familial WT&#x000a0;<sup>2</sup></td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">AD</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1">&#x0003e;60%</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_5" valign="middle" align="left" rowspan="1" colspan="1">Paternally inherited</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_1" rowspan="2" valign="middle" align="left" scope="rowgroup" colspan="1">
+<italic toggle="yes">DICER1</italic>
+</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">
+<related-object link-type="booklink" source-id="gene" document-id="pp-blastoma" document-type="book-part"><italic toggle="yes">DICER1 </italic>tumor predisposition</related-object>
+</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">AD</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1">&#x0003c;1%&#x000a0;<sup>3</sup></td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_5" valign="middle" align="left" rowspan="1" colspan="1">Pleuropulmonary blastoma, pulmonary cysts, thyroid gland neoplasia, ovarian tumors, &#x00026; cystic nephroma, ciliary body medulloepithelioma, nasal chondromesenchymal hamartoma, pineoblastoma, pituitary blastoma</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_2" valign="middle" colspan="1" align="left" scope="row" rowspan="1">GLOW syndrome (See <related-object link-type="booklink" source-id="gene" document-id="pp-blastoma" document-type="book-part"><italic toggle="yes">DICER1</italic> Tumor Predisposition</related-object>.)</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">Somatic mosaic / AD&#x000a0;<sup>4</sup></td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1">Unknown; possibly &#x0003e;50%</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_5" valign="middle" align="left" rowspan="1" colspan="1">GLOW; also macrocephaly, characteristic facial features, autism</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">DIS3L2</italic>
+</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">Perlman syndrome (OMIM <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://omim.org/entry/267000">267000</ext-link>)</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">AR</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1">65%</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_5" valign="middle" align="left" rowspan="1" colspan="1">Fetal ascites, neonatal demise, macrosomia, characteristic facial features, visceromegaly, DD/ID</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">FBXW7</italic>
+</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1"><italic toggle="yes">FBXW7</italic>-related Wilms tumor&#x000a0;<sup>5</sup></td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">AD</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1">Unknown</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_5" valign="middle" align="left" rowspan="1" colspan="1">Adult-onset osteosarcoma (in 1 person); extrarenal rhabdoid (1 person); HL, FSGS, ovarian cystadenoma, &#x00026; breast cancer (1 person)&#x000a0;<sup>6</sup></td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">GPC3</italic>
+<break/>
+<italic toggle="yes">GPC4</italic>
+</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">
+<related-object link-type="booklink" source-id="gene" document-id="sgbs" document-type="book-part">Simpson-Golabi-Behmel syndrome type 1</related-object>
+</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">XL</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1">4%-9%</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_5" valign="middle" align="left" rowspan="1" colspan="1">Macrosomia, macroglossia. DD/ID, multiple congenital anomalies, hepatoblastoma, neuroblastoma, gonadoblastoma, hepatocellular carcinoma, medulloblastoma.</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">KDM3B</italic>
+</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1"><italic toggle="yes">KDM3B</italic>-related Wilms tumor&#x000a0;<sup>5</sup></td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">AD</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1">&#x0003c;1%</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_5" valign="middle" align="left" rowspan="1" colspan="1">In 1 person each: hepatoblastoma, AML, HL</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1"><italic toggle="yes">MLH1</italic><break/><italic toggle="yes">MSH2</italic><break/><italic toggle="yes">MSH6</italic><break/><italic toggle="yes">PMS2</italic>&#x000a0;<sup>7</sup></td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">Constitutional mismatch repair deficiency (CMMRD) (See <related-object link-type="booklink" source-id="gene" document-id="hnpcc" document-type="book-part">Lynch Syndrome</related-object>.)</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">AR</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1">&#x0003c;1%</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_5" valign="middle" align="left" rowspan="1" colspan="1">Multiple tumor types; predominantly brain tumors &#x00026; GI tumors</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">NYNRIN</italic>
+</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1"><italic toggle="yes">NYNRIN</italic>-related Wilms tumor&#x000a0;<sup>5</sup></td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">AR</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1">Unknown</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_5" valign="middle" align="left" rowspan="1" colspan="1">Unknown</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">NSD1</italic>
+</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">
+<related-object link-type="booklink" source-id="gene" document-id="sotos" document-type="book-part">Sotos syndrome</related-object>
+</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">AD</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1">&#x0003c;3%</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_5" valign="middle" align="left" rowspan="1" colspan="1">Overgrowth, macrocephaly, DD/ID, leukemia, lymphoma, neuroblastoma, teratoma, &#x00026; other cancer types.</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">PALB2</italic>
+</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1"><italic toggle="yes">PALB2</italic>-related <related-object link-type="booklink" source-id="gene" document-id="fa" document-type="book-part">Fanconi anemia</related-object></td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">AR</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1">&#x0223c;40%</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_5" valign="middle" align="left" rowspan="1" colspan="1">Growth deficiency, multiple congenital anomalies, pigmentary abnormalities, medulloblastoma.</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">PIK3CA</italic>
+</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">
+<related-object link-type="booklink" source-id="gene" document-id="pik3ca-overgrowth" document-type="book-part"><italic toggle="yes">PIK3CA</italic>-related overgrowth spectrum</related-object>
+</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">Usually somatic mosaic</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1">1%-2%</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_5" valign="middle" align="left" rowspan="1" colspan="1">Disproportional overgrowth, brain malformations, DD/ID, lipomas, fibroadipose hyperplasia, vascular malformations</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">TP53</italic>
+</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">
+<related-object link-type="booklink" source-id="gene" document-id="li-fraumeni" document-type="book-part">Li-Fraumeni syndrome</related-object>
+</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">AD</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1">&#x0003c;1%</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_5" valign="middle" align="left" rowspan="1" colspan="1">Multiple cancers: breast, adrenal cortical carcinoma, osteosarcoma, medulloblastoma, choroid plexus carcinoma, rhabdomyosarcoma, hypodiploid ALL.</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">TRIM37</italic>
+</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">Mulibrey nanism syndrome (OMIM <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://omim.org/entry/253250">253250</ext-link>)</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">AR</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1">6%</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_5" valign="middle" align="left" rowspan="1" colspan="1">IUGR, characteristic facial features, heart disease, skeletal anomalies</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">TRIP13</italic>
+</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">Mosaic variegated aneuploidy syndrome (OMIM <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://omim.org/entry/617598">617598</ext-link>)</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">AR</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1">~10%</td>
+                  <td headers="hd_h_wilms-ov.T.less_common_genes_and_syndrom_1_1_1_5" valign="middle" align="left" rowspan="1" colspan="1">Growth deficiency, microcephaly, dysmorphic features, DD/ID</td>
+                </tr>
+              </tbody>
+            </table>
+            <table-wrap-foot>
+              <fn>
+                <p>AD = autosomal dominant; ALL = acute lymphoblastic leukemia; AML = acute myeloid leukemia; AR = autosomal recessive; DD = developmental delay; FSGS = Focal segmental glomerular sclerosis; GI = gastrointestinal; GLOW = <italic toggle="yes">g</italic>lobal developmental delay, <italic toggle="yes">l</italic>ung cysts, <italic toggle="yes">o</italic>vergrowth, <italic toggle="yes">W</italic>ilms tumor; HL = Hodgkin&#x02019;s lymphoma; ID = intellectual disability; IUGR = intrauterine growth restriction; MOI = mode of inheritance; WT = Wilms tumor; XL = X-linked</p>
+              </fn>
+              <fn id="wilms-ov.TF.2.1">
+                <label>1. </label>
+                <p><xref ref-type="bibr" rid="wilms-ov.REF.maciaszek.2020.r138">Maciaszek et al [2020]</xref>, <xref ref-type="bibr" rid="wilms-ov.REF.hol.2021b.51">Hol et al [2021b]</xref></p>
+              </fn>
+              <fn id="wilms-ov.TF.2.2">
+                <label>2. </label>
+                <p>
+<xref ref-type="bibr" rid="wilms-ov.REF.hanks.2014.4398">Hanks et al [2014]</xref>
+</p>
+              </fn>
+              <fn id="wilms-ov.TF.2.3">
+                <label>3. </label>
+                <p>One large family with multiple individuals with <italic toggle="yes">DICER1</italic> tumor predisposition syndrome due to c.2407G&#x0003e;A (p.Gly803Arg) had four individuals with Wilms tumor [<xref ref-type="bibr" rid="wilms-ov.REF.palculict.2016.385">Palculict et al 2016</xref>].</p>
+              </fn>
+              <fn id="wilms-ov.TF.2.4">
+                <label>4. </label>
+                <p>Somatic mosaic pathogenic variants affecting the RNase IIIb domain have been identified in several individuals with GLOW syndrome [<xref ref-type="bibr" rid="wilms-ov.REF.klein.2020.70">Klein &#x00026; Martinez-Agosto 2020</xref>]. Four individuals have been reported with a germline <italic toggle="yes">DICER1</italic> pathogenic variant and additional clinical features overlapping with GLOW syndrome (e.g., skeletal findings, facial dysmorphism, developmental delay); one of the reported individuals also had a germline <italic toggle="yes">ARID1B</italic> pathogenic variant [<xref ref-type="bibr" rid="wilms-ov.REF.venger.2023.475">Venger et al 2023</xref>].</p>
+              </fn>
+              <fn id="wilms-ov.TF.2.5">
+                <label>5. </label>
+                <p>
+<xref ref-type="bibr" rid="wilms-ov.REF.mahamdallie.2019.322">Mahamdallie et al [2019]</xref>
+</p>
+              </fn>
+              <fn id="wilms-ov.TF.2.6">
+                <label>6. </label>
+                <p>
+<xref ref-type="bibr" rid="wilms-ov.REF.roversi.2015.15454">Roversi et al [2015]</xref>
+</p>
+              </fn>
+              <fn id="wilms-ov.TF.2.7">
+                <label>7. </label>
+                <p>Wilms tumor has been reported in individuals with <italic toggle="yes">MLH1-</italic> and <italic toggle="yes">MSH6-</italic>related CMMRD [<xref ref-type="bibr" rid="wilms-ov.REF.citak.2021.e198">Citak et al 2021</xref>, <xref ref-type="bibr" rid="wilms-ov.REF.durno.2021.2779">Durno et al 2021</xref>]; It is unknown if biallelic <italic toggle="yes">MSH2</italic> or <italic toggle="yes">PMS2</italic> pathogenic variants increase the risk of Wilms tumor.</p>
+              </fn>
+            </table-wrap-foot>
+          </table-wrap>
+        </sec>
+        <sec id="wilms-ov.Other_Syndromes_That_May_Be_Ass">
+          <title>Other Syndromes That May Be Associated with Wilms Tumor</title>
+          <p>Trisomy 13 and trisomy 18 (both characterized by multiple congenital anomalies and intellectual disability) are associated with an estimated &#x0003c;1% risk of Wilms tumor.</p>
+          <p>A non-recurrent deletion at chromosome 9q22.3 encompassing a 352-kb critical region including <italic toggle="yes">PTCH1</italic> is characterized by the clinical findings of <related-object link-type="booklink" source-id="gene" document-id="bcns" document-type="book-part">nevoid basal cell carcinoma syndrome</related-object> as well as developmental delay and/or intellectual disability, metopic craniosynostosis, obstructive hydrocephalus, pre- and postnatal macrosomia, and seizures. Affected individuals are also at increased risk for Wilms tumor [<xref ref-type="bibr" rid="wilms-ov.REF.cayrol.2019.e517">Cayrol et al 2019</xref>].</p>
+          <p>One individual with Wilms tumor and a germline pathogenic variant of <italic toggle="yes">XPO5</italic> has been reported [<xref ref-type="bibr" rid="wilms-ov.REF.gadd.2017.1487">Gadd et al 2017</xref>].</p>
+        </sec>
+      </sec>
+      <sec id="wilms-ov.Evaluation_Strategy_to_Identify">
+        <label>3.</label>
+        <title> Evaluation Strategy to Identify the Genetic Cause of Wilms Tumor in a Proband</title>
+        <p><bold>Establishing a specific genetic cause</bold> of Wilms tumor:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Can aid in discussions regarding risks for additional medical complications;</p>
+          </list-item>
+          <list-item>
+            <p>Can aid in discussion regarding appropriate cancer surveillance;</p>
+          </list-item>
+          <list-item>
+            <p>Can aid in discussions of prognosis (which are beyond the scope of this <italic toggle="yes">GeneReview</italic>) and <xref ref-type="sec" rid="wilms-ov.Genetic_Counseling">genetic counseling</xref>;</p>
+          </list-item>
+          <list-item>
+            <p>Usually involves a medical history, physical examination, family history, and molecular genetic testing.</p>
+          </list-item>
+        </list>
+        <p><bold>Medical history for radiographic/histologic features.</bold> Bilateral or multifocal Wilms tumor and/or the presence of bilateral/ipsilateral nephrogenic rests is suggestive of a genetic predisposition. However, unilateral/unifocal Wilms tumor is frequently reported in individuals with <italic toggle="yes">TRIM28-</italic>, <italic toggle="yes">FBXW7-, NYNRIN-, KDM3B-</italic>related Wilms tumor, <related-object link-type="booklink" source-id="gene" document-id="bws" document-type="book-part">Beckwith-Wiedemann syndrome</related-object> (BWS), and isolated hemihyperplasia.</p>
+        <p>Histologic features can suggest a specific genetic cause including fetal rhabdomyomatous nephroblastoma or stromal (<italic toggle="yes">WT1</italic>), epithelial-type histology (<italic toggle="yes">TRIM28, FBXW7</italic>), and anaplastic Wilms tumor (most often associated with somatic <italic toggle="yes">TP53</italic> variants, although anaplastic Wilms tumor can be associated with germline <italic toggle="yes">TP53</italic> variants). A contiguous deletion at 4q12 including <italic toggle="yes">REST</italic> was identified in one infant with diffuse hyperplastic perilobar nephroblastomatosis [<xref ref-type="bibr" rid="wilms-ov.REF.hyder.2021.581">Hyder et al 2021</xref>].</p>
+        <p><bold>Physical examination.</bold> Physical features suggestive of a <italic toggle="yes">WT1</italic>-related Wilms tumor include aniridia, genitourinary anomalies including ambiguous genitalia, renal insufficiency or failure, and intellectual disability. Features suggestive of BWS include macrosomia, ear creases/pits, macroglossia, omphalocele, visceromegaly, other embryonal tumors (e.g., hepatoblastoma, neuroblastoma, and rhabdomyosarcoma), hemihyperplasia, adrenocortical cytomegaly, and renal abnormalities. Distinct physical features may also be observed in other syndromes that predispose to Wilms tumor (see <xref ref-type="table" rid="wilms-ov.T.more_common_genes_loci_and_sy">Tables 1</xref> and <xref ref-type="table" rid="wilms-ov.T.less_common_genes_and_syndrom">2</xref>).</p>
+        <p><bold>Family history.</bold> A family history including clinical features described in <xref ref-type="table" rid="wilms-ov.T.more_common_genes_loci_and_sy">Tables 1</xref> and <xref ref-type="table" rid="wilms-ov.T.less_common_genes_and_syndrom">2</xref> and all childhood- and adult-onset malignancies among first-, second-, and third-degree relatives (including age of onset and tumor type) should be taken. A family history of another individual with Wilms tumor, the presence of more than one primary tumor in a family member, and/or multiple individuals with tumors/cancer is suggestive of a cancer predisposition syndrome.</p>
+        <p><bold>Molecular genetic testing</bold> should be considered in individuals with Wilms tumor who have physical, radiographic, and/or histologic features suggestive of a genetic predisposition. Testing should also be considered in individuals with early-onset (age &#x0003c;2 years) Wilms tumor and in individuals with a family history of Wilms tumor and/or other tumors.</p>
+        <p>Molecular genetic testing approaches can include a combination of a <bold>multigene panel</bold>, <bold>DNA methylation studies</bold>, <bold>single-gene testing</bold>, and <bold>chromosomal microarray (CMA)</bold>. The choice of test should be based on the absence or presence of additional clinical features and/or family history.</p>
+        <sec id="wilms-ov.Individuals_with_Wilms_Tumor_an">
+          <title>Individuals with Wilms Tumor and Additional Clinical Features and/or Family History of Other Cancers</title>
+          <p><bold>Genitourinary anomalies or kidney failure.</bold> Sequence analysis of <italic toggle="yes">WT1</italic> is performed first followed by gene-targeted deletion/duplication analysis of <italic toggle="yes">WT1</italic> if a pathogenic variant is not identified. Note: (1) Ophthalmology examination should be done to assess for aniridia. (2) A karyotype should be considered in phenotypic females with a <italic toggle="yes">WT1</italic> pathogenic variant to evaluate for complete sex reversal.</p>
+          <p><bold>Physical features of BWS.</bold> DNA methylation analysis of IC1 and IC2 should be performed first (see <related-object link-type="booklink" source-id="gene" document-id="bws" document-type="book-part">Beckwith-Wiedemann Syndrome</related-object> for additional recommended testing). Analysis of affected tissue (e.g., skin biopsy of area affected with hemihyperplasia) may be necessary to identify those with somatic mosaicism for paternal uniparental disomy for 11p15. Note: <italic toggle="yes">CDKN1C</italic> pathogenic variants have not been associated with an increased risk of Wilms tumor.</p>
+          <p><bold>Aniridia.</bold> CMA should be performed first in individuals with suspected <related-object link-type="booklink" source-id="gene" document-id="aniridia" document-type="book-part">WAGR</related-object> (<italic toggle="yes">W</italic>ilms tumor, <italic toggle="yes">a</italic>niridia, <italic toggle="yes">g</italic>enital anomalies, <italic toggle="yes">r</italic>etardation). CMA can detect 11p13 deletions encompassing <italic toggle="yes">WT1</italic> and <italic toggle="yes">PAX6,</italic> provide detailed information regarding size of the deletion, and identify deletions and duplications in the remainder of the genome. CMA-SNP array will allow detection of uniparental disomy at 11p15.5 in individuals with long stretches of homozygosity.</p>
+          <p><bold>Overgrowth.</bold> An overgrowth multigene panel that includes <italic toggle="yes">DIS3L2, GPC3</italic>, <italic toggle="yes">GPC4</italic>, <italic toggle="yes">NSD1</italic>, and DNA methylation analysis of IC1 and IC2 for BWS should be considered first in infants with pre- and postnatal overgrowth. In those with asymmetric overgrowth, molecular analysis of <italic toggle="yes">PIK3CA</italic> using affected tissue should be considered.</p>
+          <p><bold>Stromal or epithelial-predominant Wilms tumor</bold> (defined as &#x0003e;66% of the tumor specimen composed of that specific cell type). Sequence analysis of <italic toggle="yes">WT1</italic> is recommended either in a targeted fashion or as part of a multigene panel for stromal-predominant tumors. Sequence analysis of <italic toggle="yes">TRIM28</italic> is recommended for epithelial-predominant tumors.</p>
+          <p><bold>Family history of other specific cancers.</bold> Single-gene analysis or a multigene panel can be considered in those with a family history of specific cancers (see also <xref ref-type="table" rid="wilms-ov.T.less_common_genes_and_syndrom">Table 2</xref>):</p>
+          <list list-type="bullet">
+            <list-item>
+              <p><italic toggle="yes">DICER1</italic>. Thyroid cancer, cystic nephroma, ovarian Sertoli Leydig cell tumor, botryoid rhabdomyosarcoma, pleuropulmonary blastoma, pineoblastoma, pituitary blastoma, ciliary body medulloepithelioma, and/or a nasal chondromesenchymal hamartoma</p>
+            </list-item>
+            <list-item>
+              <p><italic toggle="yes">BRCA2, PALB2, CHEK2,</italic> and <italic toggle="yes">TP53</italic>. Breast, ovarian, prostate, and pancreatic cancer, and pediatric brain tumors and sarcomas</p>
+            </list-item>
+            <list-item>
+              <p><italic toggle="yes">MLH1</italic>, <italic toggle="yes">MSH2</italic>, <italic toggle="yes">MSH6</italic>, and <italic toggle="yes">PMS2</italic>. Colorectal and uterine cancer</p>
+            </list-item>
+          </list>
+        </sec>
+        <sec id="wilms-ov.Individuals_with_Isolated_Bilat">
+          <title>Individuals with Isolated Bilateral and/or Multifocal, Early-Onset (age &#x0003c;2 years), and/or Familial Wilms Tumor</title>
+          <p><bold>A multigene pane</bold>l that includes <italic toggle="yes">WT1</italic>, <italic toggle="yes">TRIM28</italic>, and <italic toggle="yes">REST</italic> may be considered first or a multigene panel that also includes additional Wilms tumor predisposition genes (see <xref ref-type="table" rid="wilms-ov.T.more_common_genes_loci_and_sy">Tables 1</xref> and <xref ref-type="table" rid="wilms-ov.T.less_common_genes_and_syndrom">2</xref>) may be considered. Note: (1) The genes included in the panel and the diagnostic sensitivity of the testing used for each gene vary by laboratory and are likely to change over time. (2) Some multigene panels may include genes not associated with the condition discussed in this <italic toggle="yes">GeneReview</italic>; thus, clinicians need to determine which multigene panel is most likely to identify the genetic cause of the condition while limiting identification of variants of uncertain significance and pathogenic variants in genes that do not explain the underlying phenotype. (3) In some laboratories, panel options may include a custom laboratory-designed panel and/or custom phenotype-focused exome analysis that includes genes specified by the clinician. (4) Methods used in a panel may include sequence analysis, deletion/duplication analysis, and/or other non-sequencing-based tests. (5) Multigene panels may not include DNA methylation analysis used to detect 11p15.5 alterations.</p>
+          <p><bold>DNA methylation studies of IC1 and IC2 at 11p15.5</bold> should be considered either concurrently or subsequent to a multigene panel as Wilms tumor can be the presenting feature of <related-object link-type="booklink" source-id="gene" document-id="bws" document-type="book-part">BWS</related-object> and other features may be subtle or absent. Although Wilms tumors are infrequent in individuals with BWS resulting from loss of methylation at IC2, instances have been reported [<xref ref-type="bibr" rid="wilms-ov.REF.brzezinski.2017.1031">Brzezinski et al 2017</xref>, <xref ref-type="bibr" rid="wilms-ov.REF.duffy.2021.1839">Duffy et al 2021</xref>].</p>
+        </sec>
+        <sec id="wilms-ov.Individuals_with_Unilateral_Wil">
+          <title>Individuals with Unilateral Wilms Tumor without Features Suggestive of Genetic Predisposition</title>
+          <p>The risk for genetic predisposition is low in those with unilateral unifocal Wilms tumor and no apparent risk factors, although germline variants have been identified in some individuals. Parents and/or affected individuals should be counseled regarding the small chance of the presence of an underlying genetic predisposition for Wilms tumor and given the option of further evaluation. Note: Some centers recommend molecular testing for all individuals with Wilms tumor.</p>
+        </sec>
+      </sec>
+      <sec id="wilms-ov.Management">
+        <label>4.</label>
+        <title> Management</title>
+        <sec id="wilms-ov.Surveillance_of_Children_with_a">
+          <title>Surveillance of Children with a Germline Pathogenic Variant or with Wilms Tumor-Associated Syndromes</title>
+          <p><bold>General considerations.</bold> The goal of surveillance in individuals with a genetic predisposition to Wilms tumor is to detect tumors while they are low-stage and require less treatment and/or treatment is likely to be more successful compared to that of advanced-stage tumors. Consider the risks of surveillance including economic cost and the possibility of false positive results that can lead to unnecessary interventions and psychosocial distress. Experts recommend surveillance in individuals with a greater-than-1% [<xref ref-type="bibr" rid="wilms-ov.REF.kalish.2017.e115">Kalish et al 2017</xref>] to 5% [<xref ref-type="bibr" rid="wilms-ov.REF.scott.2006.995">Scott et al 2006</xref>, <xref ref-type="bibr" rid="wilms-ov.REF.brioude.2018.229">Brioude et al 2018</xref>] risk of Wilms tumor. However, recommendations vary by region and providers should consider regional practices in their decision making. Wilms tumors can double in size every week [<xref ref-type="bibr" rid="wilms-ov.REF.beckwith.1998.377">Beckwith 1998</xref>], therefore, abdominal ultrasound examination should be performed every three months.</p>
+          <p>Most guidelines recommend continuing surveillance until the age at which 90%-95% of Wilms tumors will have occurred. One method to determine how long to continue Wilms tumor surveillance in an individual with a specific syndrome is to calculate the residual risk of Wilms tumor using the overall and age-related risk of Wilms tumor. For example, in WAGR syndrome, the overall Wilms tumor risk is ~50%, 90% of tumors occur by age four years, and 98% of tumors occur by age seven years, the residual Wilms tumor risk for an individual age four years is 5% (0.5 x 0.1) and for an individual by age seven years is 1% (0.5 x 0.02). Therefore, surveillance would continue until age five to eight years depending on the risk tolerance of the provider, affected individual, and family.</p>
+          <p>For <related-object link-type="booklink" source-id="gene" document-id="wt1-dis" document-type="book-part"><italic toggle="yes">WT1</italic></related-object> and <related-object link-type="booklink" source-id="gene" document-id="bws" document-type="book-part">BWS</related-object> spectrum disorders, refer to other <italic toggle="yes">GeneReviews</italic> chapters for tumor surveillance recommendations. Individuals with Wilms tumor predisposition syndromes for which there are published surveillance guidelines (e.g., <related-object link-type="booklink" source-id="gene" document-id="li-fraumeni" document-type="book-part">Li-Fraumeni syndrome</related-object>, <related-object link-type="booklink" source-id="gene" document-id="pp-blastoma" document-type="book-part"><italic toggle="yes">DICER1</italic> syndrome</related-object>, constitutional mismatch repair deficiency [<xref ref-type="bibr" rid="wilms-ov.REF.durno.2021.2779">Durno et al 2021</xref>]) should undergo surveillance as recommended for their syndrome. For cancer predisposition for which the at-risk age for Wilms tumor has not been established, surveillance with abdominal ultrasound examination is recommended every three months until age eight years.</p>
+          <p><bold>Individuals with bilateral and/or multifocal Wilms tumor without an identified molecular cause.</bold> After completion of therapy for Wilms tumor, individuals should be screened for metachronous tumors by renal ultrasound examination every three months until age eight years. Recent evidence suggests that individuals with bilateral Wilms tumor have either a germline pathogenic variant predisposing to Wilms tumor or a somatic pathogenic variant that arose early in embryogenesis before lateralization [<xref ref-type="bibr" rid="wilms-ov.REF.coorens.2019.1247">Coorens et al 2019</xref>, <xref ref-type="bibr" rid="wilms-ov.REF.foulkes.2020.280">Foulkes &#x00026; Polak 2020</xref>]. Either a germline variant or an early somatic variant increases the risk of a metachronous Wilms tumor.</p>
+        </sec>
+        <sec id="wilms-ov.Surveillance_for_Relatives_at_R">
+          <title>Surveillance for Relatives at Risk for Wilms Tumor Predisposition</title>
+          <p>In families with more than one individual with Wilms tumor and families with one individual with <bold>bilateral and/or multifocal Wilms tumor,</bold> it is appropriate to evaluate relatives at risk to identify as early as possible those who would benefit from prompt initiation of treatment and preventive measures.</p>
+          <p>Evaluations may include molecular genetic testing if the causative genetic alteration has been identified in an affected family member. Surveillance with ultrasound may be pursued if the Wilms tumor risk associated with the causative variant is sufficiently high.</p>
+          <p>If the causative genetic alteration has not been identified in an affected family member:</p>
+          <list list-type="bullet">
+            <list-item>
+              <p>Offspring of the affected individual should be screened with abdominal ultrasound examination every three months until age eight years. Note: The risk for Wilms tumor in the children of survivors of bilateral Wilms tumor is unknown. Some bilateral Wilms tumors arise from somatic or epigenetic alterations that occur early during embryogenesis before lateralization and affect both kidneys, but are not present in the germline. Such variants are not heritable [<xref ref-type="bibr" rid="wilms-ov.REF.coorens.2019.1247">Coorens et al 2019</xref>, <xref ref-type="bibr" rid="wilms-ov.REF.foulkes.2020.280">Foulkes &#x00026; Polak 2020</xref>].</p>
+            </list-item>
+            <list-item>
+              <p>The benefit of surveillance of sibs of the affected individual is unclear. A National Wilms Tumor Study on familial Wilms tumor showed that 15 of 456 individuals (3.3%) with bilateral Wilms tumor had a family member with Wilms tumor and six of those individuals clustered within three families [<xref ref-type="bibr" rid="wilms-ov.REF.breslow.1996.398">Breslow et al 1996</xref>]. Because most affected family members are not sibs, the chance of detecting Wilms tumor in the sib of an individual with bilateral Wilms tumor in the absence of known familial disease is less than 1%. The decision for tumor screening should take regional practices and family preferences into account.</p>
+            </list-item>
+          </list>
+        </sec>
+      </sec>
+      <sec id="wilms-ov.Genetic_Counseling">
+        <label>5.</label>
+        <title> Genetic Counseling</title>
+        <p content-type="genetic_counseling">
+<italic toggle="yes">Genetic counseling is the process of providing individuals and families with
+information on the nature, mode(s) of inheritance, and implications of genetic disorders to help them
+make informed medical and personal decisions. The following section deals with genetic
+risk assessment and the use of family history and genetic testing to clarify genetic
+status for family members; it is not meant to address all personal, cultural, or
+ethical issues that may arise or to substitute for consultation with a genetics
+professional</italic>. &#x02014;ED.</p>
+        <p>If an individual has a specific disorder associated with Wilms tumor (e.g., <related-object link-type="booklink" source-id="gene" document-id="aniridia" document-type="book-part">WAGR syndrome</related-object> or <italic toggle="yes">BUB1B</italic>-related mosaic variegated aneuploidy syndrome [see <xref ref-type="table" rid="wilms-ov.T.more_common_genes_loci_and_sy">Tables 1</xref> and <xref ref-type="table" rid="wilms-ov.T.less_common_genes_and_syndrom">2</xref>]), genetic counseling for that condition is indicated.</p>
+        <p>Recent studies have shown that some bilateral Wilms tumors arise from somatic genetic or epigenetic alterations that occur early during nephrogenesis before lateralization, affecting both kidneys but not the entire germline. Predisposition caused by somatic genetic or epigenetic alterations is not heritable if the underlying pathogenic variant is isolated to the kidney tissue and not present in germ cells [<xref ref-type="bibr" rid="wilms-ov.REF.coorens.2019.1247">Coorens et al 2019</xref>, <xref ref-type="bibr" rid="wilms-ov.REF.foulkes.2020.280">Foulkes &#x00026; Polak 2020</xref>]. However, mosaicism restricted to kidney tissue cannot be definitely proven, and therefore ultrasound surveillance should be considered for the offspring of individuals with bilateral or multifocal Wilms tumor, as the risk to offspring of an individual with germline mosaicism would be up to 50% (see <xref ref-type="sec" rid="wilms-ov.Surveillance_for_Relatives_at_R">Surveillance for Relatives at Risk for Wilms Tumor Predisposition</xref>).</p>
+        <p><bold>If a causative genetic alteration has not been identified in an affected family member,</bold> and the proband has:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Features suggestive of a predisposition to Wilms tumor (e.g., bilateral or multifocal Wilms tumor and/or a family history of Wilms tumor) the empiric risk to offspring is estimated to be higher than the population risk and ultrasound surveillance is recommended for their offspring. The benefit of surveillance of sibs of the proband is unclear; the chance of detecting Wilms tumor in a sib of a proband with bilateral Wilms tumor in the absence of known familial disease is less than 1%. (See <xref ref-type="sec" rid="wilms-ov.Surveillance_for_Relatives_at_R">Surveillance for Relatives at Risk for Wilms Tumor Predisposition</xref>.)</p>
+          </list-item>
+          <list-item>
+            <p>Unilateral, unifocal Wilms tumor without features suggestive of genetic predisposition (i.e., no physical, radiologic, histologic, or family history features suggestive of a genetic predisposition following a detailed, targeted evaluation), the risk to sibs of the proband and offspring of the proband is less than 1%. No Wilms tumor was observed in the 179 offspring of 96 long-term survivors who had been diagnosed with unilateral, nonfamilial Wilms tumor [<xref ref-type="bibr" rid="wilms-ov.REF.li.1988.147">Li et al 1988</xref>].</p>
+          </list-item>
+        </list>
+        <sec id="wilms-ov.Related_Genetic_Counseling_Issu">
+          <title>Related Genetic Counseling Issues</title>
+          <p>See Management, <xref ref-type="sec" rid="wilms-ov.Surveillance_for_Relatives_at_R">Surveillance for Relatives at Risk for Wilms Tumor Predisposition</xref> for information on evaluating at-risk relatives for the purpose of early diagnosis and treatment.</p>
+          <p><bold>Genetic cancer risk assessment and counseling.</bold> For a comprehensive description of the medical, psychosocial, and ethical ramifications of identifying at-risk individuals through cancer risk assessment with or without molecular genetic testing, see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.cancer.gov/about-cancer/causes-prevention/genetics/risk-assessment-pdq">Cancer Genetics Risk Assessment and Counseling &#x02013; for health professionals</ext-link> (part of PDQ<sup>&#x000ae;</sup>, National Cancer Institute).</p>
+          <p>
+<bold>Family planning</bold>
+</p>
+          <list list-type="bullet">
+            <list-item>
+              <p>The optimal time for determination of genetic risk and discussion of the availability of prenatal/preimplantation genetic testing is before pregnancy.</p>
+            </list-item>
+            <list-item>
+              <p>It is appropriate to offer genetic counseling (including discussion of potential risks to offspring and reproductive options) to young adults who are affected or at risk of having a Wilms tumor-related genetic alteration.</p>
+            </list-item>
+          </list>
+          <p><bold>DNA banking.</bold> Because it is likely that testing methodology and our understanding of genes, pathogenic mechanisms, and diseases will improve in the future, consideration should be given to banking DNA from probands in whom a molecular diagnosis has not been confirmed (i.e., the causative pathogenic mechanism is unknown). In cases where somatic mosaicism is a consideration, skin biopsies can be taken at the time of nephrectomy to establish fibroblast culture for the purposes of DNA banking.</p>
+        </sec>
+        <sec id="wilms-ov.Prenatal_Testing_and_Preimplant">
+          <title>Prenatal Testing and Preimplantation Genetic Testing</title>
+          <p>Once a Wilms tumor-related genetic alteration has been identified in an affected family member, prenatal and preimplantation genetic testing are possible.</p>
+          <p>Differences in perspective may exist among medical professionals and within families regarding the use of prenatal and preimplantation genetic testing. While most health care professionals would consider use of prenatal and preimplantation genetic testing to be a personal decision, discussion of these issues may be helpful.</p>
+        </sec>
+      </sec>
+      <sec id="wilms-ov.Resources">
+        <title>Resources</title>
+        <p content-type="resources">
+<italic toggle="yes">GeneReviews staff has selected the following disease-specific and/or umbrella
+support organizations and/or registries for the benefit of individuals with this disorder
+and their families. GeneReviews is not responsible for the information provided by other
+organizations. For information on selection criteria, click <related-object source-id="gene" document-id="app4">here</related-object>.</italic></p>
+        <p specific-use="from-external-xml">
+          <list list-type="bullet" list-content="resource-list">
+            <list-item>
+              <p>
+                <bold>International WAGR Syndrome Association</bold>
+              </p>
+              <p><bold>Email:</bold> reachingout@wagr.org</p>
+              <p>
+                <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.wagr.org/">wagr.org</ext-link>
+              </p>
+            </list-item>
+          </list>
+        </p>
+      </sec>
+      <sec id="wilms-ov.Chapter_Notes">
+        <title>Chapter Notes</title>
+        <sec id="wilms-ov.Author_History">
+          <title>Author History</title>
+          <p>Jack Brzezinski, MD, PhD (2022-present)Jeffrey S Dome, MD, PhD (2003-present)Vicki Huff, PhD; University of Texas MD Anderson Cancer Center (2003-2022)Joyce T Turner, MS (2022-present)</p>
+        </sec>
+        <sec id="wilms-ov.Revision_History">
+          <title>Revision History</title>
+          <list list-type="bullet">
+            <list-item>
+              <p>24 March 2022 (sw) Comprehensive update posted live</p>
+            </list-item>
+            <list-item>
+              <p>20 October 2016 (sw) Comprehensive update posted live</p>
+            </list-item>
+            <list-item>
+              <p>19 September 2013 (me) Comprehensive update posted live</p>
+            </list-item>
+            <list-item>
+              <p>14 June 2011 (me) Comprehensive update posted live</p>
+            </list-item>
+            <list-item>
+              <p>10 April 2006 (me) Comprehensive update posted live</p>
+            </list-item>
+            <list-item>
+              <p>19 December 2003 (me) Overview posted live</p>
+            </list-item>
+            <list-item>
+              <p>14 July 2003 (jsd) Original submission</p>
+            </list-item>
+          </list>
+        </sec>
+      </sec>
+      <sec id="wilms-ov.References">
+        <title>References</title>
+        <sec id="wilms-ov.Literature_Cited">
+          <title>Literature Cited</title>
+          <ref-list id="wilms-ov.Literature_Cited.reflist0">
+            <ref id="wilms-ov.REF.beckwith.1998.377">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Beckwith</surname>
+<given-names>JB</given-names></string-name>. <article-title>Children at increased risk for WilmsTumor: monitoring issues.</article-title>
+<source>J Pediatr.</source>
+<year>1998</year>;<volume>132</volume>:<fpage>377</fpage>-<lpage>9</lpage>.<pub-id pub-id-type="pmid">9544882</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="wilms-ov.REF.breslow.1996.398">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Breslow</surname>
+<given-names>NE</given-names></string-name>, <string-name name-style="western"><surname>Olson</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Moksness</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Beckwith</surname>
+<given-names>JB</given-names></string-name>, <string-name name-style="western"><surname>Grundy</surname>
+<given-names>P</given-names></string-name>. <article-title>Familial Wilms' tumor: a descriptive study.</article-title>
+<source>Med Pediatr Oncol.</source>
+<year>1996</year>;<volume>27</volume>:<fpage>398</fpage>-<lpage>403</lpage>.<pub-id pub-id-type="pmid">8827065</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="wilms-ov.REF.brioude.2018.229">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Brioude</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Kalish</surname>
+<given-names>JM</given-names></string-name>, <string-name name-style="western"><surname>Mussa</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Foster</surname>
+<given-names>AC</given-names></string-name>, <string-name name-style="western"><surname>Bliek</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Ferrero</surname>
+<given-names>GB</given-names></string-name>, <string-name name-style="western"><surname>Boonen</surname>
+<given-names>SE</given-names></string-name>, <string-name name-style="western"><surname>Cole</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Baker</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Bertoletti</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Cocchi</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Coze</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>De Pellegrin</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Hussain</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Ibrahim</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Kilby</surname>
+<given-names>MD</given-names></string-name>, <string-name name-style="western"><surname>Krajewska-Walasek</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Kratz</surname>
+<given-names>CP</given-names></string-name>, <string-name name-style="western"><surname>Ladusans</surname>
+<given-names>EJ</given-names></string-name>, <string-name name-style="western"><surname>Lapunzina</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Le Bouc</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Maas</surname>
+<given-names>SM</given-names></string-name>, <string-name name-style="western"><surname>Macdonald</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Ounap</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Peruzzi</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Rossignol</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Russo</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Shipster</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Skorka</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Tatton-Brown</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Tenorio</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Tortora</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Gronskov</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Netchine</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Hennekam</surname>
+<given-names>RC</given-names></string-name>, <string-name name-style="western"><surname>Prawitt</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Tumer</surname>
+<given-names>Z</given-names></string-name>, <string-name name-style="western"><surname>Eggermann</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Mackay</surname>
+<given-names>DJG</given-names></string-name>, <string-name name-style="western"><surname>Riccio</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Maher</surname>
+<given-names>ER</given-names></string-name>. <article-title>Expert consensus document: Clinical and molecular diagnosis, screening and management of Beckwith-Wiedemann syndrome: an international consensus statement.</article-title>
+<source>Nat Rev Endocrinol.</source>
+<year>2018</year>;<volume>14</volume>:<fpage>229</fpage>-<lpage>49</lpage>.<pub-id pub-id-type="pmid">29377879</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="wilms-ov.REF.brzezinski.2017.1031">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Brzezinski</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Shuman</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Choufani</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Ray</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Stavropoulos</surname>
+<given-names>DJ</given-names></string-name>, <string-name name-style="western"><surname>Basran</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Steele</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Parkinson</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Grant</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Thorner</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Lorenzo</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Weksberg</surname>
+<given-names>R</given-names></string-name>. <article-title>Wilms tumour in Beckwith-Wiedemann Syndrome and loss of methylation at imprinting centre 2: revisiting tumour surveillance guidelines.</article-title>
+<source>Eur J Hum Genet.</source>
+<year>2017</year>;<volume>25</volume>:<fpage>1031</fpage>-<lpage>9</lpage>.<pub-id pub-id-type="pmid">28699632</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="wilms-ov.REF.cayrol.2019.e517">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Cayrol</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Nightingale</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Challis</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Campbell</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Sullivan</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Heloury</surname>
+<given-names>Y</given-names></string-name>. <article-title>Wilms tumor associated with the 9q22.3 microdeletion syndrome: 2 new case reports and a review of the literature.</article-title>
+<source>J Pediatr Hematol Oncol.</source>
+<year>2019</year>;<volume>41</volume>:<fpage>e517</fpage>-<lpage>e520</lpage>.<pub-id pub-id-type="pmid">30371535</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="wilms-ov.REF.citak.2021.e198">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Citak</surname>
+<given-names>EC</given-names></string-name>, <string-name name-style="western"><surname>Sagcan</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Gundugan</surname>
+<given-names>BD</given-names></string-name>, <string-name name-style="western"><surname>Bozdogan</surname>
+<given-names>ST</given-names></string-name>, <string-name name-style="western"><surname>Yilmaz</surname>
+<given-names>EB</given-names></string-name>, <string-name name-style="western"><surname>Avci</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Balci</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Karabulut</surname>
+<given-names>YY</given-names></string-name>. <article-title>Metachronous Wilms tumor, glioblastoma, and T-cell leukemia in an child with constitutional mismatch repair deficiency syndrome due to novel mutation in MSH6 (c.2590G&#x0003e;T).</article-title>
+<source>J Pediatr Hematol Oncol.</source>
+<year>2021</year>;<volume>43</volume>:<fpage>e198</fpage>-<lpage>e202</lpage>.<pub-id pub-id-type="pmid">31815888</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="wilms-ov.REF.coorens.2019.1247">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Coorens</surname>
+<given-names>THH</given-names></string-name>, <string-name name-style="western"><surname>Treger</surname>
+<given-names>TD</given-names></string-name>, <string-name name-style="western"><surname>Al-Saadi</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Moore</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Tran</surname>
+<given-names>MGB</given-names></string-name>, <string-name name-style="western"><surname>Mitchell</surname>
+<given-names>TJ</given-names></string-name>, <string-name name-style="western"><surname>Tugnait</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Thevanesan</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Young</surname>
+<given-names>MD</given-names></string-name>, <string-name name-style="western"><surname>Oliver</surname>
+<given-names>TRW</given-names></string-name>, <string-name name-style="western"><surname>Oostveen</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Collord</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Tarpey</surname>
+<given-names>PS</given-names></string-name>, <string-name name-style="western"><surname>Cagan</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Hooks</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Brougham</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Reynolds</surname>
+<given-names>BC</given-names></string-name>, <string-name name-style="western"><surname>Barone</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Anderson</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Jorgensen</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Burke</surname>
+<given-names>GAA</given-names></string-name>, <string-name name-style="western"><surname>Visser</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Nicholson</surname>
+<given-names>JC</given-names></string-name>, <string-name name-style="western"><surname>Smeulders</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Mushtaq</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Stewart</surname>
+<given-names>GD</given-names></string-name>, <string-name name-style="western"><surname>Campbell</surname>
+<given-names>PJ</given-names></string-name>, <string-name name-style="western"><surname>Wedge</surname>
+<given-names>DC</given-names></string-name>, <string-name name-style="western"><surname>Martincorena</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Rampling</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Hook</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Warren</surname>
+<given-names>AY</given-names></string-name>, <string-name name-style="western"><surname>Coleman</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Chowdhury</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Sebire</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Drost</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Saeb-Parsy</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Stratton</surname>
+<given-names>MR</given-names></string-name>, <string-name name-style="western"><surname>Straathof</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Pritchard-Jones</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Behjati</surname>
+<given-names>S</given-names></string-name>. <article-title>Embryonal precursors of Wilms tumor.</article-title>
+<source>Science.</source>
+<year>2019</year>;<volume>366</volume>:<fpage>1247</fpage>-<lpage>51</lpage>.<pub-id pub-id-type="pmid">31806814</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="wilms-ov.REF.daw.2020.1558">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Daw</surname>
+<given-names>NC</given-names></string-name>, <string-name name-style="western"><surname>Chi</surname>
+<given-names>YY</given-names></string-name>, <string-name name-style="western"><surname>Kalapurakal</surname>
+<given-names>JA</given-names></string-name>, <string-name name-style="western"><surname>Kim</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Hoffer</surname>
+<given-names>FA</given-names></string-name>, <string-name name-style="western"><surname>Geller</surname>
+<given-names>JI</given-names></string-name>, <string-name name-style="western"><surname>Perlman</surname>
+<given-names>EJ</given-names></string-name>, <string-name name-style="western"><surname>Ehrlich</surname>
+<given-names>PF</given-names></string-name>, <string-name name-style="western"><surname>Mullen</surname>
+<given-names>EA</given-names></string-name>, <string-name name-style="western"><surname>Warwick</surname>
+<given-names>AB</given-names></string-name>, <string-name name-style="western"><surname>Grundy</surname>
+<given-names>PE</given-names></string-name>, <string-name name-style="western"><surname>Paulino</surname>
+<given-names>AC</given-names></string-name>, <string-name name-style="western"><surname>Gratias</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Ward</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Anderson</surname>
+<given-names>JR</given-names></string-name>, <string-name name-style="western"><surname>Khanna</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Tornwall</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Fernandez</surname>
+<given-names>CV</given-names></string-name>, <string-name name-style="western"><surname>Dome</surname>
+<given-names>JS</given-names></string-name>. <article-title>Activity of Vincristine and Irinotecan in Diffuse Anaplastic Wilms Tumor and Therapy Outcomes of Stage II to IV Disease: Results of the Children's Oncology Group AREN0321 Study.</article-title>
+<source>J Clin Oncol.</source>
+<year>2020</year>;<volume>38</volume>:<fpage>1558</fpage>-<lpage>68</lpage>.<pub-id pub-id-type="pmid">32134700</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="wilms-ov.REF.diets.2019.941">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Diets</surname>
+<given-names>IJ</given-names></string-name>, <string-name name-style="western"><surname>Hoyer</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Ekici</surname>
+<given-names>AB</given-names></string-name>, <string-name name-style="western"><surname>Popp</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Hoogerbrugge</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>van Reijmersdal</surname>
+<given-names>SV</given-names></string-name>, <string-name name-style="western"><surname>Bhaskaran</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Hadjihannas</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Vasileiou</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Thiel</surname>
+<given-names>CT</given-names></string-name>, <string-name name-style="western"><surname>Seven</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Uebe</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Ilencikova</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Waanders</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Mavinkurve-Groothuis</surname>
+<given-names>AMC</given-names></string-name>, <string-name name-style="western"><surname>Roeleveld</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>de Krijger</surname>
+<given-names>RR</given-names></string-name>, <string-name name-style="western"><surname>Wegert</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Graf</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Vokuhl</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Agaimy</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Gessler</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Reis</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Kuiper</surname>
+<given-names>RP</given-names></string-name>, <string-name name-style="western"><surname>Jongmans</surname>
+<given-names>MCJ</given-names></string-name>, <string-name name-style="western"><surname>Metzler</surname>
+<given-names>M</given-names></string-name>. <article-title>TRIM28 haploinsufficiency predisposes to Wilms tumor.</article-title>
+<source>Int J Cancer.</source>
+<year>2019</year>;<volume>145</volume>:<fpage>941</fpage>-<lpage>51</lpage>.<pub-id pub-id-type="pmid">30694527</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="wilms-ov.REF.duffy.2021.1839">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Duffy</surname>
+<given-names>KA</given-names></string-name>, <string-name name-style="western"><surname>Getz</surname>
+<given-names>KD</given-names></string-name>, <string-name name-style="western"><surname>Hathaway</surname>
+<given-names>ER</given-names></string-name>, <string-name name-style="western"><surname>Byrne</surname>
+<given-names>ME</given-names></string-name>, <string-name name-style="western"><surname>MacFarland</surname>
+<given-names>SP</given-names></string-name>, <string-name name-style="western"><surname>Kalish</surname>
+<given-names>JM</given-names></string-name>. <article-title>Characteristics associated with tumor development in individuals diagnosed with Beckwith-Wiedemann spectrum: novel tumor-(epi)genotype-phenotype associations in the BWS population.</article-title>
+<source>Genes (Basel)</source>. <year>2021</year>;<volume>12</volume>:<fpage>1839</fpage>.<pub-id pub-id-type="pmid">34828445</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="wilms-ov.REF.durno.2021.2779">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Durno</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Ercan</surname>
+<given-names>AB</given-names></string-name>, <string-name name-style="western"><surname>Bianchi</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Edwards</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Aronson</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Galati</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Atenafu</surname>
+<given-names>EG</given-names></string-name>, <string-name name-style="western"><surname>Abebe-Campino</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Al-Battashi</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Alharbi</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Azad</surname>
+<given-names>VF</given-names></string-name>, <string-name name-style="western"><surname>Baris</surname>
+<given-names>HN</given-names></string-name>, <string-name name-style="western"><surname>Basel</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Bedgood</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Bendel</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Ben-Shachar</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Blumenthal</surname>
+<given-names>DT</given-names></string-name>, <string-name name-style="western"><surname>Blundell</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Bornhorst</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Bronsema</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Cairney</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Rhode</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Caspi</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Chamdin</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Chiaravalli</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Constantini</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Crooks</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Das</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Dvir</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Farah</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Foulkes</surname>
+<given-names>WD</given-names></string-name>, <string-name name-style="western"><surname>Frenkel</surname>
+<given-names>Z</given-names></string-name>, <string-name name-style="western"><surname>Gallinger</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Gardner</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Gass</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Ghalibafian</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Gilpin</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Goldberg</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Goudie</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Hamid</surname>
+<given-names>SA</given-names></string-name>, <string-name name-style="western"><surname>Hampel</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Hansford</surname>
+<given-names>JR</given-names></string-name>, <string-name name-style="western"><surname>Harlos</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Hijiya</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Hsu</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Kamihara</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Kebudi</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Knipstein</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Koschmann</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Kratz</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Larouche</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Lassaletta</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Lindhorst</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Ling</surname>
+<given-names>SC</given-names></string-name>, <string-name name-style="western"><surname>Link</surname>
+<given-names>MP</given-names></string-name>, <string-name name-style="western"><surname>Loret De Mola</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Luiten</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Lurye</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Maciaszek</surname>
+<given-names>JL</given-names></string-name>, <article-title>MagimairajanIssai V, Maher OM, Massimino M, McGee RB, Mushtaq N, Mason G, Newmark M, Nicholas G, Nichols KE, Nicolaides T, Opocher E, Osborn M, Oshrine B, Pearlman R, Pettee D, Rapp J, Rashid M, Reddy A, Reichman L, Remke M, Robbins G, Roy S, Sabel M, Samuel D, Scheers I, Schneider KW, Sen S, Stearns D, Sumerauer D, Swallow C, Taylor L, Thomas G, Toledano H, Tomboc P, Van Damme A, Winer I, Yalon M, Yen LY, Zapotocky M, Zelcer S, Ziegler DS, Zimmermann S, Hawkins C, Malkin D, Bouffet E, Villani A, Tabori U. Survival Benefit for Individuals With Constitutional Mismatch Repair Deficiency Undergoing Surveillance.</article-title>
+<source>J Clin Oncol.</source>
+<year>2021</year>;<volume>39</volume>:<fpage>2779</fpage>-<lpage>90</lpage>.<pub-id pub-id-type="pmid">33945292</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="wilms-ov.REF.fernandez.2021">
+              <mixed-citation publication-type="book">Fernandez C, Geller J, Ehrlich P, van den Heuvel-Eibrink M, Graf N, Mullen E, Hill D, Kalapurakal J, Dome J. Renal tumors. In: Blaney S, Helman LJ, Adamson PC, eds. <italic toggle="yes">Pizzo and Poplack&#x02019;s Pediatric Oncology</italic>, 8 ed. Wolters Kluwer; 2021:673-92.</mixed-citation>
+            </ref>
+            <ref id="wilms-ov.REF.foulkes.2020.280">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Foulkes</surname>
+<given-names>WD</given-names></string-name>, <string-name name-style="western"><surname>Polak</surname>
+<given-names>P</given-names></string-name>. <article-title>Bilateral tumors - inherited or acquired?</article-title>
+<source>N Engl J Med.</source>
+<year>2020</year>;<volume>383</volume>:<fpage>280</fpage>-<lpage>2</lpage>.<pub-id pub-id-type="pmid">32668120</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="wilms-ov.REF.gadd.2017.1487">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Gadd</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Huff</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Walz</surname>
+<given-names>AL</given-names></string-name>, <string-name name-style="western"><surname>Ooms</surname>
+<given-names>AHAG</given-names></string-name>, <string-name name-style="western"><surname>Armstrong</surname>
+<given-names>AE</given-names></string-name>, <string-name name-style="western"><surname>Gerhard</surname>
+<given-names>DS</given-names></string-name>, <string-name name-style="western"><surname>Smith</surname>
+<given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Auvil</surname>
+<given-names>JMG</given-names></string-name>, <string-name name-style="western"><surname>Meerzaman</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Chen</surname>
+<given-names>QR</given-names></string-name>, <string-name name-style="western"><surname>Hsu</surname>
+<given-names>CH</given-names></string-name>, <string-name name-style="western"><surname>Yan</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Nguyen</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Hu</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Hermida</surname>
+<given-names>LC</given-names></string-name>, <string-name name-style="western"><surname>Davidsen</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Gesuwan</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Ma</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Zong</surname>
+<given-names>Z</given-names></string-name>, <string-name name-style="western"><surname>Mungall</surname>
+<given-names>AJ</given-names></string-name>, <string-name name-style="western"><surname>Moore</surname>
+<given-names>RA</given-names></string-name>, <string-name name-style="western"><surname>Marra</surname>
+<given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Dome</surname>
+<given-names>JS</given-names></string-name>, <string-name name-style="western"><surname>Mullighan</surname>
+<given-names>CG</given-names></string-name>, <string-name name-style="western"><surname>Ma</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Wheeler</surname>
+<given-names>DA</given-names></string-name>, <string-name name-style="western"><surname>Hampton</surname>
+<given-names>OA</given-names></string-name>, <string-name name-style="western"><surname>Ross</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Gastier-Foster</surname>
+<given-names>JM</given-names></string-name>, <string-name name-style="western"><surname>Arold</surname>
+<given-names>ST</given-names></string-name>, <string-name name-style="western"><surname>Perlman</surname>
+<given-names>EJ</given-names></string-name>. <article-title>A Children's Oncology Group and TARGET initiative exploring the genetic landscape of Wilms tumor.</article-title>
+<source>Nat Genet.</source>
+<year>2017</year>;<volume>49</volume>:<fpage>1487</fpage>-<lpage>94</lpage>.<pub-id pub-id-type="pmid">28825729</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="wilms-ov.REF.halliday.2018.e1007399">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Halliday</surname>
+<given-names>BJ</given-names></string-name>, <string-name name-style="western"><surname>Fukuzawa</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Markie</surname>
+<given-names>DM</given-names></string-name>, <string-name name-style="western"><surname>Grundy</surname>
+<given-names>RG</given-names></string-name>, <string-name name-style="western"><surname>Ludgate</surname>
+<given-names>JL</given-names></string-name>, <string-name name-style="western"><surname>Black</surname>
+<given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Skeen</surname>
+<given-names>JE</given-names></string-name>, <string-name name-style="western"><surname>Weeks</surname>
+<given-names>RJ</given-names></string-name>, <string-name name-style="western"><surname>Catchpoole</surname>
+<given-names>DR</given-names></string-name>, <string-name name-style="western"><surname>Roberts</surname>
+<given-names>AGK</given-names></string-name>, <string-name name-style="western"><surname>Reeve</surname>
+<given-names>AE</given-names></string-name>, <string-name name-style="western"><surname>Morison</surname>
+<given-names>IM</given-names></string-name>. <article-title>Germline mutations and somatic inactivation of TRIM28 in Wilms tumour.</article-title>
+<source>PLoS Genet.</source>
+<year>2018</year>;<volume>14</volume>:<elocation-id>e1007399</elocation-id>.<pub-id pub-id-type="pmid">29912901</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="wilms-ov.REF.hanks.2014.4398">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Hanks</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Perdeaux</surname>
+<given-names>ER</given-names></string-name>, <string-name name-style="western"><surname>Seal</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Ruark</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Mahamdallie</surname>
+<given-names>SS</given-names></string-name>, <string-name name-style="western"><surname>Murray</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Ramsay</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>del Vecchio Duarte</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Zachariou</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>de Souza</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Warren-Perry</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Elliott</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Davidson</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Price</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Stiller</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Pritchard-Jones</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Rahman</surname>
+<given-names>N</given-names></string-name>. <article-title>Germline mutations in the PAF1 complex gene CTR9 predispose to Wilms tumour.</article-title>
+<source>Nat Commun.</source>
+<year>2014</year>;<volume>5</volume>:<fpage>4398</fpage>.<pub-id pub-id-type="pmid">25099282</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="wilms-ov.REF.hol.2021a.494">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Hol</surname>
+<given-names>JA</given-names></string-name>, <string-name name-style="western"><surname>Diets</surname>
+<given-names>IJ</given-names></string-name>, <string-name name-style="western"><surname>de Krijger</surname>
+<given-names>RR</given-names></string-name>, <string-name name-style="western"><surname>van den Heuvel-Eibrink</surname>
+<given-names>MM</given-names></string-name>, <string-name name-style="western"><surname>Jongmans</surname>
+<given-names>MC</given-names></string-name>, <string-name name-style="western"><surname>Kuiper</surname>
+<given-names>RP</given-names></string-name>. <article-title>TRIM28 variants and Wilms' tumour predisposition.</article-title>
+<source>J Pathol.</source>
+<year>2021a</year>;<volume>254</volume>:<fpage>494</fpage>-<lpage>504</lpage>.<pub-id pub-id-type="pmid">33565090</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="wilms-ov.REF.hol.2021b.51">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Hol</surname>
+<given-names>JA</given-names></string-name>, <string-name name-style="western"><surname>Jewell</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Chowdhury</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Duncan</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Nakata</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Oue</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Gauthier-Villars</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Littooij</surname>
+<given-names>AS</given-names></string-name>, <string-name name-style="western"><surname>Kaneko</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Graf</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Bourdeaut</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>van den Heuvel-Eibrink</surname>
+<given-names>MM</given-names></string-name>, <string-name name-style="western"><surname>Pritchard-Jones</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Maher</surname>
+<given-names>ER</given-names></string-name>, <string-name name-style="western"><surname>Kratz</surname>
+<given-names>CP</given-names></string-name>, <string-name name-style="western"><surname>Jongmans</surname>
+<given-names>MCJ</given-names></string-name>. <article-title>Wilms tumour surveillance in at-risk children: Literature review and recommendations from the SIOP-Europe Host Genome Working Group and SIOP Renal Tumour Study Group.</article-title>
+<source>Eur J Cancer.</source>
+<year>2021b</year>;<volume>153</volume>:<fpage>51</fpage>-<lpage>63</lpage>.<pub-id pub-id-type="pmid">34134020</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="wilms-ov.REF.hyder.2021.581">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Hyder</surname>
+<given-names>Z</given-names></string-name>, <string-name name-style="western"><surname>Fairclough</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Groom</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Getty</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Alexander</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>van Veen</surname>
+<given-names>EM</given-names></string-name>, <string-name name-style="western"><surname>Makin</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Sethuraman</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Tang</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Evans</surname>
+<given-names>DG</given-names></string-name>, <string-name name-style="western"><surname>Maher</surname>
+<given-names>ER</given-names></string-name>, <string-name name-style="western"><surname>Woodward</surname>
+<given-names>ER</given-names></string-name>. <article-title>Constitutional de novo deletion CNV encompassing REST predisposes to diffuse hyperplastic perilobar nephroblastomatosis (HPLN).</article-title>
+<source>J Med Genet.</source>
+<year>2021</year>;<volume>58</volume>:<fpage>581</fpage>-<lpage>5</lpage>.<pub-id pub-id-type="pmid">32917767</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="wilms-ov.REF.kalish.2017.e115">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Kalish</surname>
+<given-names>JM</given-names></string-name>, <string-name name-style="western"><surname>Doros</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Helman</surname>
+<given-names>LJ</given-names></string-name>, <string-name name-style="western"><surname>Hennekam</surname>
+<given-names>RC</given-names></string-name>, <string-name name-style="western"><surname>Kuiper</surname>
+<given-names>RP</given-names></string-name>, <string-name name-style="western"><surname>Maas</surname>
+<given-names>SM</given-names></string-name>, <string-name name-style="western"><surname>Maher</surname>
+<given-names>ER</given-names></string-name>, <string-name name-style="western"><surname>Nichols</surname>
+<given-names>KE</given-names></string-name>, <string-name name-style="western"><surname>Plon</surname>
+<given-names>SE</given-names></string-name>, <string-name name-style="western"><surname>Porter</surname>
+<given-names>CC</given-names></string-name>, <string-name name-style="western"><surname>Rednam</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Schultz</surname>
+<given-names>KAP</given-names></string-name>, <string-name name-style="western"><surname>States</surname>
+<given-names>LJ</given-names></string-name>, <string-name name-style="western"><surname>Tomlinson</surname>
+<given-names>GE</given-names></string-name>, <string-name name-style="western"><surname>Zelley</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Druley</surname>
+<given-names>TE</given-names></string-name>. <article-title>Surveillance recommendations for children with overgrowth syndromes and predisposition to Wilms tumors and hepatoblastoma.</article-title>
+<source>Clin Cancer Res.</source>
+<year>2017</year>;<volume>23</volume>:<fpage>e115</fpage>-<lpage>e122</lpage>.<pub-id pub-id-type="pmid">28674120</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="wilms-ov.REF.klein.2020.70">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Klein</surname>
+<given-names>SD</given-names></string-name>, <string-name name-style="western"><surname>Martinez-Agosto</surname>
+<given-names>JA</given-names></string-name>. <article-title>Hotspot mutations in DICER1 causing GLOW syndrome-associated macrocephaly via modulation of specific microRNA populations result in the activation of PI3K/ATK/mTOR signaling.</article-title>
+<source>Microrna.</source>
+<year>2020</year>;<volume>9</volume>:<fpage>70</fpage>-<lpage>80</lpage>.<pub-id pub-id-type="pmid">31232238</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="wilms-ov.REF.li.1988.147">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Li</surname>
+<given-names>FP</given-names></string-name>, <string-name name-style="western"><surname>Williams</surname>
+<given-names>WR</given-names></string-name>, <string-name name-style="western"><surname>Gimbrere</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Flamant</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Green</surname>
+<given-names>DM</given-names></string-name>, <string-name name-style="western"><surname>Meadows</surname>
+<given-names>AT</given-names></string-name>. <article-title>Heritable fraction of unilateral Wilms tumor.</article-title>
+<source>Pediatrics.</source>
+<year>1988</year>;<volume>81</volume>:<fpage>147</fpage>-<lpage>9</lpage><pub-id pub-id-type="pmid">2827098</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="wilms-ov.REF.maciaszek.2020.r138">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Maciaszek</surname>
+<given-names>JL</given-names></string-name>, <string-name name-style="western"><surname>Oak</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Nichols</surname>
+<given-names>KE</given-names></string-name>. <article-title>Recent advances in Wilms' tumor predisposition.</article-title>
+<source>Hum Mol Genet.</source>
+<year>2020</year>;<volume>29</volume>:<fpage>R138</fpage>-<lpage>R149</lpage>.<pub-id pub-id-type="pmid">32412586</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="wilms-ov.REF.mahamdallie.2019.322">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Mahamdallie</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Yost</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Poyastro-Pearson</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Holt</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Zachariou</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Seal</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Elliott</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Clarke</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Warren-Perry</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Hanks</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Anderson</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Bomken</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Cole</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Farah</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Furtwaengler</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Glaser</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Grundy</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Hayden</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Lowis</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Millot</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Nicholson</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Ronghe</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Skeen</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Williams</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Yeomanson</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Ruark</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Rahman</surname>
+<given-names>N.</given-names></string-name>
+<article-title>Identification of new Wilms tumour predisposition genes: an exome sequencing study.</article-title>
+<source>Lancet Child Adolesc Health.</source>
+<year>2019</year>;<volume>3</volume>:<fpage>322</fpage>-<lpage>31</lpage>.<pub-id pub-id-type="pmid">30885698</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="wilms-ov.REF.mahamdallie.2015.1471">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Mahamdallie</surname>
+<given-names>SS</given-names></string-name>, <string-name name-style="western"><surname>Hanks</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Karlin</surname>
+<given-names>KL</given-names></string-name>, <string-name name-style="western"><surname>Zachariou</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Perdeaux</surname>
+<given-names>ER</given-names></string-name>, <string-name name-style="western"><surname>Ruark</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Shaw</surname>
+<given-names>CA</given-names></string-name>, <string-name name-style="western"><surname>Renwick</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Ramsay</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Yost</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Elliott</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Birch</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Capra</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Gray</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Hale</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Kingston</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Levitt</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>McLean</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Sheridan</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Renwick</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Seal</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Stiller</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Sebire</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Westbrook</surname>
+<given-names>TF</given-names></string-name>, <string-name name-style="western"><surname>Rahman</surname>
+<given-names>N</given-names></string-name>. <article-title>Mutations in the transcriptional repressor REST predispose to Wilms tumor.</article-title>
+<source>Nat Genet.</source>
+<year>2015</year>;<volume>47</volume>:<fpage>1471</fpage>-<lpage>4</lpage>.<pub-id pub-id-type="pmid">26551668</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="wilms-ov.REF.nelson.2021.40">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Nelson</surname>
+<given-names>MV</given-names></string-name>, <string-name name-style="western"><surname>van den Heuvel-Eibrink</surname>
+<given-names>MM</given-names></string-name>, <string-name name-style="western"><surname>Graf</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Dome</surname>
+<given-names>JS</given-names></string-name>. <article-title>New approaches to risk stratification for Wilms tumor.</article-title>
+<source>Curr Opin Pediatr.</source>
+<year>2021</year>;<volume>33</volume>:<fpage>40</fpage>-<lpage>8</lpage>.<pub-id pub-id-type="pmid">33394739</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="wilms-ov.REF.ooms.2016.5582">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ooms</surname>
+<given-names>AH</given-names></string-name>, <string-name name-style="western"><surname>Gadd</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Gerhard</surname>
+<given-names>DS</given-names></string-name>, <string-name name-style="western"><surname>Smith</surname>
+<given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Guidry Auvil</surname>
+<given-names>JM</given-names></string-name>, <string-name name-style="western"><surname>Meerzaman</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Chen</surname>
+<given-names>QR</given-names></string-name>, <string-name name-style="western"><surname>Hsu</surname>
+<given-names>CH</given-names></string-name>, <string-name name-style="western"><surname>Yan</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Nguyen</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Hu</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Ma</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Zong</surname>
+<given-names>Z</given-names></string-name>, <string-name name-style="western"><surname>Mungall</surname>
+<given-names>AJ</given-names></string-name>, <string-name name-style="western"><surname>Moore</surname>
+<given-names>RA</given-names></string-name>, <string-name name-style="western"><surname>Marra</surname>
+<given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Huff</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Dome</surname>
+<given-names>JS</given-names></string-name>, <string-name name-style="western"><surname>Chi</surname>
+<given-names>YY</given-names></string-name>, <string-name name-style="western"><surname>Tian</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Geller</surname>
+<given-names>JI</given-names></string-name>, <string-name name-style="western"><surname>Mullighan</surname>
+<given-names>CG</given-names></string-name>, <string-name name-style="western"><surname>Ma</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Wheeler</surname>
+<given-names>DA</given-names></string-name>, <string-name name-style="western"><surname>Hampton</surname>
+<given-names>OA</given-names></string-name>, <string-name name-style="western"><surname>Walz</surname>
+<given-names>AL</given-names></string-name>, <string-name name-style="western"><surname>van den Heuvel-Eibrink</surname>
+<given-names>MM</given-names></string-name>, <string-name name-style="western"><surname>de Krijger</surname>
+<given-names>RR</given-names></string-name>, <string-name name-style="western"><surname>Ross</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Gastier-Foster</surname>
+<given-names>JM</given-names></string-name>, <string-name name-style="western"><surname>Perlman</surname>
+<given-names>EJ</given-names></string-name>. <article-title>Significance of TP53 Mutation in Wilms tumors with diffuse anaplasia: a report from the Children's Oncology Group.</article-title>
+<source>Clin Cancer Res.</source>
+<year>2016</year>;<volume>22</volume>:<fpage>5582</fpage>-<lpage>91</lpage>.<pub-id pub-id-type="pmid">27702824</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="wilms-ov.REF.palculict.2016.385">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Palculict</surname>
+<given-names>TB</given-names></string-name>, <string-name name-style="western"><surname>Ruteshouser</surname>
+<given-names>EC</given-names></string-name>, <string-name name-style="western"><surname>Fan</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Wang</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Strong</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Huff</surname>
+<given-names>V</given-names></string-name>. <article-title>Identification of germline DICER1 mutations and loss of heterozygosity in familial Wilms tumour.</article-title>
+<source>J Med Genet.</source>
+<year>2016</year>;<volume>53</volume>:<fpage>385</fpage>-<lpage>8</lpage>.<pub-id pub-id-type="pmid">26566882</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="wilms-ov.REF.roversi.2015.15454">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Roversi</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Picinelli</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Bestetti</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Crippa</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Perotti</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Ciceri</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Saccheri</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Collini</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Poliani</surname>
+<given-names>PL</given-names></string-name>, <string-name name-style="western"><surname>Catania</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Peissel</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Pagni</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Russo</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Peterlongo</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Manoukian</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Finelli</surname>
+<given-names>P</given-names></string-name>. <article-title>Constitutional de novo deletion of the FBXW7 gene in a patient with focal segmental glomerulosclerosis and multiple primitive tumors.</article-title>
+<source>Sci Rep.</source>
+<year>2015</year>;<volume>5</volume>:<fpage>15454</fpage>.<pub-id pub-id-type="pmid">26482194</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="wilms-ov.REF.scott.2006.995">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Scott</surname>
+<given-names>RH</given-names></string-name>, <string-name name-style="western"><surname>Walker</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Olsen</surname>
+<given-names>OE</given-names></string-name>, <article-title>Levitt g, Kenney I, Maher E, Owens CM, Pritchard-Jones K, Craft A, Rahman N. Surveillance for Wilms tumour in at-risk children: pragmatic recommendations for best practice.</article-title>
+<source>Arch Dis Child.</source>
+<year>2006</year>;<volume>91</volume>:<fpage>995</fpage>-<lpage>9</lpage>.<pub-id pub-id-type="pmid">16857697</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="wilms-ov.REF.venger.2023.475">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Venger</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Elbracht</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Carlens</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Deutz</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Zeppernick</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Lassay</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Kratz</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Zenker</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Kim</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Stewart</surname>
+<given-names>DR</given-names></string-name>, <string-name name-style="western"><surname>Wieland</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Schultz</surname>
+<given-names>KAP</given-names></string-name>, <string-name name-style="western"><surname>Schwerk</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Kurth</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Kontny</surname>
+<given-names>U</given-names></string-name>. <article-title>Unusual phenotypes in patients with a pathogenic germline variant in DICER1.</article-title>
+<source>Fam Cancer.</source>
+<year>2023</year>;<volume>22</volume>:<fpage>475</fpage>-<lpage>80</lpage>.<pub-id pub-id-type="pmid">34331184</pub-id>
+</mixed-citation>
+            </ref>
+          </ref-list>
+        </sec>
+      </sec>
+    </body>
+    <back>
+      <sec specific-use="from-external-xml" sec-type="link-group">
+        <title>Tests in GTR by Gene</title>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=283120[geneid]">H19</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=4763[geneid]">NF1</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=675[geneid]">BRCA2</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=7490[geneid]">WT1</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=2239[geneid]">GPC4</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=7157[geneid]">TP53</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=5978[geneid]">REST</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=79577[geneid]">CDC73</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=10155[geneid]">TRIM28</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=641[geneid]">BLM</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=3784[geneid]">KCNQ1</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=10984[geneid]">KCNQ1OT1</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=1028[geneid]">CDKN1C</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=3481[geneid]">IGF2</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=129563[geneid]">DIS3L2</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=2719[geneid]">GPC3</ext-link>
+        </p>
+      </sec>
+      <sec specific-use="from-external-xml" sec-type="link-group">
+        <title>Tests in GTR by Gene</title>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=283120[geneid]">H19</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=4763[geneid]">NF1</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=675[geneid]">BRCA2</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=7490[geneid]">WT1</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=2239[geneid]">GPC4</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=7157[geneid]">TP53</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=5978[geneid]">REST</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=79577[geneid]">CDC73</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=10155[geneid]">TRIM28</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=641[geneid]">BLM</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=3784[geneid]">KCNQ1</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=10984[geneid]">KCNQ1OT1</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=1028[geneid]">CDKN1C</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=3481[geneid]">IGF2</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=129563[geneid]">DIS3L2</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=2719[geneid]">GPC3</ext-link>
+        </p>
+      </sec>
+      <sec specific-use="from-external-xml" sec-type="link-group">
+        <title>Tests in GTR by Gene</title>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=283120[geneid]">H19</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=4763[geneid]">NF1</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=675[geneid]">BRCA2</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=7490[geneid]">WT1</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=2239[geneid]">GPC4</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=7157[geneid]">TP53</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=5978[geneid]">REST</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=79577[geneid]">CDC73</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=10155[geneid]">TRIM28</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=641[geneid]">BLM</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=3784[geneid]">KCNQ1</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=10984[geneid]">KCNQ1OT1</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=1028[geneid]">CDKN1C</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=3481[geneid]">IGF2</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=129563[geneid]">DIS3L2</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=2719[geneid]">GPC3</ext-link>
+        </p>
+      </sec>
+    </back>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,2159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper content-type="chapter" id="stickler" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">gene</book-id>
+    <book-title-group>
+      <book-title>GeneReviews<sup>&#x000ae;</sup></book-title>
+    </book-title-group>
+    <contrib-group>
+      <contrib contrib-type="editor">
+        <name name-style="western">
+          <surname>Adam</surname>
+          <given-names>Margaret P</given-names>
+        </name>
+        <role>Editor-in-Chief</role>
+      </contrib>
+      <contrib contrib-type="editor">
+        <name name-style="western">
+          <surname>Bick</surname>
+          <given-names>Sarah</given-names>
+        </name>
+        <role>Medical Editor</role>
+      </contrib>
+      <contrib contrib-type="editor">
+        <name name-style="western">
+          <surname>Mirzaa</surname>
+          <given-names>Ghayda M</given-names>
+        </name>
+        <role>Medical Editor</role>
+      </contrib>
+      <contrib contrib-type="editor">
+        <name name-style="western">
+          <surname>Pagon</surname>
+          <given-names>Roberta A</given-names>
+        </name>
+        <role>Medical Editor</role>
+      </contrib>
+      <contrib contrib-type="editor">
+        <name name-style="western">
+          <surname>Wallace</surname>
+          <given-names>Stephanie E</given-names>
+        </name>
+        <role>Medical Editor</role>
+      </contrib>
+      <contrib contrib-type="editor">
+        <name name-style="western">
+          <surname>Amemiya</surname>
+          <given-names>Anne</given-names>
+        </name>
+        <role>Genetic Counseling Editor</role>
+      </contrib>
+    </contrib-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <year>1993</year>
+    </pub-date>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <year>2026</year>
+    </pub-date>
+    <issn>2372-0697</issn>
+    <publisher>
+      <publisher-name>University of Washington, Seattle</publisher-name>
+      <publisher-loc>Seattle (WA)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 1993-2026, University of Washington, Seattle. GeneReviews is
+a registered trademark of the University of Washington, Seattle. All rights
+reserved.</copyright-statement>
+      <copyright-year>2026</copyright-year>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://www.ncbi.nlm.nih.gov/books/NBK138602/">
+        <license-p>GeneReviews&#x000ae; chapters are owned by the University of Washington. Permission is
+hereby granted to reproduce, distribute, and translate copies of content materials for
+noncommercial research purposes only, provided that (i) credit for source (<ext-link ext-link-type="uri" xlink:href="http://www.genereviews.org/">http://www.genereviews.org/</ext-link>) and copyright (&#x000a9; 1993-2026 University of
+Washington) are included with each copy; (ii) a link to the original material is provided
+whenever the material is published elsewhere on the Web; and (iii) reproducers,
+distributors, and/or translators comply with the <ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/books/n/gene/GRcopyright_permiss/">GeneReviews&#x000ae; Copyright Notice and Usage
+Disclaimer</ext-link>. No further modifications are allowed. For clarity, excerpts
+of GeneReviews chapters for use in lab reports and clinic notes are a permitted
+use.</license-p>
+        <license-p>For more information, see the <ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/books/n/gene/GRcopyright_permiss/">GeneReviews&#x000ae; Copyright Notice and Usage
+Disclaimer</ext-link>.</license-p>
+        <license-p>For questions regarding permissions or whether a specified use is allowed,
+contact: <email>admasst@uw.edu</email>.</license-p>
+      </license>
+    </permissions>
+    <abstract>
+      <p><italic toggle="yes">GeneReviews</italic>, an international point-of-care resource for busy clinicians,
+provides clinically relevant and medically actionable information for inherited conditions
+in a standardized journal-style format, covering diagnosis, management, and genetic
+counseling for patients and their families. Each chapter in <italic toggle="yes">GeneReviews</italic> is
+written by one or more experts on the specific condition or disease and goes through a
+rigorous editing and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/books/n/gene/GRrevprocesses/#GRrevprocesses.Peer_Review">peer
+review</ext-link> process before being published online.</p>
+      <p><italic toggle="yes">GeneReviews</italic> currently comprises 1 chapters and has more than fifteen million users annually.</p>
+      <p>The two general formats for <italic toggle="yes">GeneReviews</italic> are: chapters focused on a single
+gene or phenotype (~95%) and overviews summarizing causes of common genetic conditions
+(e.g., genetic hearing loss, Alzheimer disease) (~5%).</p>
+      <p>To ensure continuing relevant and medically actionable content, each
+<italic toggle="yes">GeneReviews</italic> chapter is <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/books/n/gene/GRrevprocesses/#GRrevprocesses.Updates">updated</ext-link> every four to five years (or as needed) by the
+author(s) in a formal and comprehensive process curated by the <italic toggle="yes">GeneReviews</italic>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/books/n/gene/GRpersonnel/">editors</ext-link>. Additional <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/books/n/gene/GRrevprocesses/#GRrevprocesses.Revisions">revisions</ext-link> may occur more
+frequently as needed to reflect significant changes in clinically relevant information.</p>
+      <p>Genetic counseling and testing terms used in <italic toggle="yes">GeneReviews</italic> are hyperlinked
+to definitions in the <italic toggle="yes">GeneReviews</italic>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/books/n/gene/glossary/">Glossary</ext-link>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/books/n/gene/resource_mats/">Resource Materials</ext-link> include additional information on key
+genetics concepts used in <italic toggle="yes">GeneReviews</italic>.</p>
+      <p><italic toggle="yes">GeneReviews</italic> are indexed in PubMed.</p>
+      <p>Note: For a variety of reasons, GeneReviews occasionally removes chapters from the active website. Click <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/books/n/gene/archived_chapters/">here</ext-link> for a list of retired chapters.</p>
+    </abstract>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-subject</meta-name>
+        <meta-value>Genetics</meta-value>
+      </custom-meta>
+      <custom-meta>
+        <meta-name>books-subject</meta-name>
+        <meta-value>Medicine</meta-value>
+      </custom-meta>
+      <custom-meta>
+        <meta-name>books-subject</meta-name>
+        <meta-value>Diseases</meta-value>
+      </custom-meta>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">stickler</book-part-id>
+      <title-group>
+        <title>Stickler Syndrome</title>
+        <alt-title alt-title-type="alt-title">Synonym: Arthroophthalmopathy</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Mortier</surname>
+            <given-names>Geert</given-names>
+          </name>
+          <degrees>MD, PhD</degrees>
+          <aff>Center for Human Genetics<break/>University Hospitals Leuven<break/>Leuven, Belgium</aff>
+          <email>geert.mortier@uzleuven.be</email>
+        </contrib>
+      </contrib-group>
+      <pub-history>
+        <date date-type="created">
+          <day>9</day>
+          <month>6</month>
+          <year>2000</year>
+        </date>
+        <date date-type="updated">
+          <day>7</day>
+          <month>9</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <abstract id="stickler.Summary">
+        <title>Summary</title>
+        <sec>
+          <title>Clinical characteristics</title>
+          <p>Stickler syndrome is a connective tissue disorder that can include ocular findings of myopia, cataract, and retinal detachment; hearing loss that is both conductive and sensorineural; midfacial underdevelopment and cleft palate (either alone or as part of the Pierre Robin sequence); and early-onset degenerative joint disease. Variable phenotypic expression of Stickler syndrome occurs both within and among families; interfamilial variability is in part explained by locus and allelic heterogeneity.</p>
+        </sec>
+        <sec>
+          <title>Diagnosis/testing</title>
+          <p>The diagnosis of Stickler syndrome can be established in a proband with characteristic clinical features and/or a heterozygous pathogenic variant in <italic toggle="yes">COL2A1</italic>, <italic toggle="yes">COL11A1</italic>, or <italic toggle="yes">COL11A2</italic> or biallelic pathogenic variants in <italic toggle="yes">COL9A1</italic>, <italic toggle="yes">COL9A2</italic>, or <italic toggle="yes">COL9A3</italic> identified by molecular genetic testing<italic toggle="yes">.</italic></p>
+        </sec>
+        <sec>
+          <title>Management</title>
+          <p><italic toggle="yes">Treatment of manifestations:</italic> Management in a comprehensive craniofacial clinic when possible; tracheostomy as needed in infants with Pierre Robin sequence; mandibular advancement procedure to correct malocclusion for those with persistent micrognathia; feeding and nutritional management as needed per craniofacial specialists; laser therapy for prevention of retinal detachment; education on risks and symptoms of retinal detachment; correction of refractive errors with spectacles; standard treatment of sensorineural and conductive hearing loss; prompt treatment of otitis media; consider myringotomy tubes for recurrent otitis media; symptomatic treatment for arthropathy; treatment of osteoarticular manifestations per orthopedist.</p>
+          <p><italic toggle="yes">Surveillance:</italic> Annual examination by a vitreoretinal specialist; audiologic evaluations annually; clinical, radiographic, and/or orthopedic assessment as needed.</p>
+          <p><italic toggle="yes">Agents/circumstances to avoid:</italic> Activities such as contact sports that may lead to traumatic retinal detachment.</p>
+          <p><italic toggle="yes">Evaluation of relatives at risk:</italic> It is appropriate to determine which family members at risk have Stickler syndrome and thus warrant ongoing surveillance and possible treatment to prevent retinal detachment.</p>
+        </sec>
+        <sec>
+          <title>Genetic counseling</title>
+          <p>Stickler syndrome caused by pathogenic variants in <italic toggle="yes">COL2A1</italic>, <italic toggle="yes">COL11A1</italic>, or <italic toggle="yes">COL11A2</italic> is inherited in an autosomal dominant manner; Stickler syndrome caused by pathogenic variants in <italic toggle="yes">COL9A1</italic>, <italic toggle="yes">COL9A2</italic>, or <italic toggle="yes">COL9A3</italic> is inherited in an autosomal recessive manner.</p>
+          <p><italic toggle="yes">Autosomal dominant inheritance:</italic> Each child of an individual with autosomal dominant Stickler syndrome has a 50% chance of inheriting the pathogenic variant.</p>
+          <p><italic toggle="yes">Autosomal recessive inheritance:</italic> If both parents are known to be heterozygous for an autosomal recessive Stickler syndrome-related pathogenic variant, each sib of an affected individual has at conception a 25% chance of being affected, a 50% chance of being an asymptomatic carrier, and a 25% chance of being unaffected and not a carrier. Carrier testing for at-risk relatives requires prior identification of the pathogenic variants in the family.</p>
+          <p>Once the Stickler syndrome-related pathogenic variant(s) have been identified in an affected family member, prenatal and preimplantation genetic testing are possible.</p>
+        </sec>
+      </abstract>
+      <kwd-group specific-use="books-idx" kwd-group-type="Synonym">
+        <kwd>Arthroophthalmopathy</kwd>
+      </kwd-group>
+      <kwd-group specific-use="books-idx" kwd-group-type="ProteinName">
+        <kwd>Collagen alpha-1(II) chain</kwd>
+        <kwd>Collagen alpha-1(IX) chain</kwd>
+        <kwd>Collagen alpha-1(XI) chain</kwd>
+        <kwd>Collagen alpha-2(IX) chain</kwd>
+        <kwd>Collagen alpha-2(XI) chain</kwd>
+        <kwd>Collagen alpha-3(IX) chain</kwd>
+      </kwd-group>
+      <kwd-group specific-use="books-idx" kwd-group-type="GeneSymbol">
+        <kwd>COL11A1</kwd>
+        <kwd>COL11A2</kwd>
+        <kwd>COL2A1</kwd>
+        <kwd>COL9A1</kwd>
+        <kwd>COL9A2</kwd>
+        <kwd>COL9A3</kwd>
+      </kwd-group>
+      <kwd-group specific-use="books-idx" kwd-group-type="DiseaseName">
+        <kwd>Stickler Syndrome</kwd>
+      </kwd-group>
+      <kwd-group kwd-group-type="Synonyms" specific-use="pubmed-item-list">
+        <kwd>Arthroophthalmopathy</kwd>
+      </kwd-group>
+    </book-part-meta>
+    <body>
+      <sec id="stickler.Diagnosis">
+        <title>Diagnosis</title>
+        <p>No consensus clinical diagnostic criteria for Stickler syndrome have been published.</p>
+        <sec id="stickler.Suggestive_Findings">
+          <title>Suggestive Findings</title>
+          <p>Stickler syndrome <bold>should be suspected</bold> in individuals with a combination of the following clinical and radiographic findings.</p>
+          <p>
+<bold>Clinical findings</bold>
+</p>
+          <list list-type="bullet">
+            <list-item>
+              <p>Cleft palate (open cleft, submucous cleft, or bifid uvula)</p>
+            </list-item>
+            <list-item>
+              <p>Characteristic facial features including malar hypoplasia, broad or flat nasal bridge, and micro- or retrognathia</p>
+            </list-item>
+            <list-item>
+              <p>Ocular manifestations including high myopia, vitreous abnormalities, cataracts, and/or retinal abnormalities</p>
+            </list-item>
+            <list-item>
+              <p>Sensorineural hearing loss with or without conductive hearing loss</p>
+            </list-item>
+            <list-item>
+              <p>Osteoarticular manifestations with joint pain in childhood and early-onset degenerative joint disease in adulthood</p>
+            </list-item>
+          </list>
+          <p>
+<bold>Imaging findings</bold>
+</p>
+          <list list-type="bullet">
+            <list-item>
+              <p>Signs of mild spondyloepiphyseal involvement can be present on radiographs: mild flattening of the vertebrae with or without end plate irregularities; small or dysplastic epiphyses, especially at the hips or knees; Legg-Calv&#x000e9;-Perthes-like changes in the hips [<xref ref-type="bibr" rid="stickler.REF.wang.2023">Wang et al 2023</xref>]</p>
+            </list-item>
+            <list-item>
+              <p>Early-onset degenerative joint disease</p>
+            </list-item>
+          </list>
+        </sec>
+        <sec id="stickler.Establishing_the_Diagnosis">
+          <title>Establishing the Diagnosis</title>
+          <p>The diagnosis of Stickler syndrome can be <bold>established</bold> in a proband with characteristic clinical features and a heterozygous pathogenic (or likely pathogenic) variant in <italic toggle="yes">COL2A1</italic>, <italic toggle="yes">COL11A1</italic>, or <italic toggle="yes">COL11A2</italic> or biallelic pathogenic (or likely pathogenic) variants in <italic toggle="yes">COL9A1</italic>, <italic toggle="yes">COL9A2</italic>, or <italic toggle="yes">COL9A3</italic> (see <xref ref-type="table" rid="stickler.T.molecular_genetic_testing_use">Table 1</xref>) identified by molecular genetic testing.</p>
+          <p>Note: (1) Per ACMG/AMP variant interpretation guidelines, the terms "pathogenic variant" and "likely pathogenic variant" are synonymous in a clinical setting, meaning that both are considered diagnostic and can be used for clinical decision making [<xref ref-type="bibr" rid="stickler.REF.richards.2015.405">Richards et al 2015</xref>]. Reference to "pathogenic variants" in this <italic toggle="yes">GeneReview</italic> is understood to include likely pathogenic variants. (2) Identification of variant(s) of uncertain significance does not establish or rule out the diagnosis.</p>
+          <p>Molecular genetic testing approaches can include a combination of <bold>gene-targeted testing</bold> (multigene panel) and <bold>comprehensive</bold>
+<bold>genomic testing (</bold>exome sequencing, genome sequencing). Gene-targeted testing requires that the clinician determine which gene(s) are likely involved (see <xref ref-type="sec" rid="stickler.Option_1">Option 1</xref>), whereas comprehensive genomic testing does not (see <xref ref-type="sec" rid="stickler.Option_2">Option 2</xref>).</p>
+          <sec id="stickler.Option_1">
+            <title>Option 1</title>
+            <p><bold>A multigene panel</bold> that includes <italic toggle="yes">COL2A1</italic>, <italic toggle="yes">COL11A1</italic>, <italic toggle="yes">COL11A2</italic>, <italic toggle="yes">COL9A1</italic>, <italic toggle="yes">COL9A2</italic>, <italic toggle="yes">COL9A3</italic>, and other genes of interest (see <xref ref-type="sec" rid="stickler.Differential_Diagnosis">Differential Diagnosis</xref>) is most likely to identify the genetic cause of the condition while limiting identification of variants of uncertain significance and pathogenic variants in genes that do not explain the underlying phenotype. Note: (1) The genes included in the panel and the diagnostic sensitivity of the testing used for each gene vary by laboratory and are likely to change over time. (2) Some multigene panels may include genes not associated with the condition discussed in this <italic toggle="yes">GeneReview</italic>. (3) In some laboratories, panel options may include a custom laboratory-designed panel and/or custom phenotype-focused exome analysis that includes genes specified by the clinician. (4) Methods used in a panel may include sequence analysis, deletion/duplication analysis, and/or other non-sequencing-based tests.</p>
+            <p>For an introduction to multigene panels click <related-object source-id="gene" document-id="app5" object-id="app5.Multigene_Panels">here</related-object>. More detailed information for clinicians ordering genetic tests can be found <related-object source-id="gene" document-id="app5" object-id="app5.Multigene_Panels_FAQs">here</related-object>.</p>
+          </sec>
+          <sec id="stickler.Option_2">
+            <title>Option 2</title>
+            <p><bold>Comprehensive</bold>
+<bold>genomic testing</bold> does not require the clinician to determine which gene is likely involved. <bold>Exome sequencing</bold> is most commonly used; <bold>genome sequencing</bold> is also possible.</p>
+            <p>For an introduction to comprehensive genomic testing click <related-object source-id="gene" document-id="app5" object-id="app5.Comprehensive_Genomic_Testing">here</related-object>. More detailed information for clinicians ordering genomic testing can be found <related-object source-id="gene" document-id="app5" object-id="app5.Comprehensive_Genomic_Testing_1">here</related-object>.</p>
+            <table-wrap id="stickler.T.molecular_genetic_testing_use" orientation="portrait" position="anchor">
+              <label>Table 1. </label>
+              <caption>
+                <p>Molecular Genetic Testing Used in Stickler Syndrome</p>
+              </caption>
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_1" rowspan="2" valign="middle" align="left" scope="col" colspan="1" headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_1">Gene&#x000a0;<sup>1</sup></th>
+                    <th id="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_2" rowspan="2" valign="middle" align="left" scope="col" colspan="1" headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_2">Proportion of Stickler Syndrome Attributed to Pathogenic Variants in Gene</th>
+                    <th id="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_3" rowspan="2" valign="middle" align="left" scope="col" colspan="1" headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_3">MOI</th>
+                    <th id="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_4" valign="middle" colspan="2" align="left" scope="colgroup" rowspan="1">Proportion of Pathogenic Variants&#x000a0;<sup>2</sup> Identified by Method</th>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_4" id="hd_h_stickler.T.molecular_genetic_testing_use_1_1_2_1" valign="middle" colspan="1" align="left" scope="colgroup" rowspan="1">Sequence analysis&#x000a0;<sup>3</sup></th>
+                    <th headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_4" id="hd_h_stickler.T.molecular_genetic_testing_use_1_1_2_2" valign="middle" align="left" scope="col" rowspan="1" colspan="1">Gene-targeted deletion/duplication analysis&#x000a0;<sup>4</sup></th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">COL2A1</italic>
+</td>
+                    <td headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">~80%&#x000a0;<sup>5</sup></td>
+                    <td headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">AD</td>
+                    <td headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_4 hd_h_stickler.T.molecular_genetic_testing_use_1_1_2_1" valign="middle" align="left" rowspan="1" colspan="1">~99%</td>
+                    <td headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_4 hd_h_stickler.T.molecular_genetic_testing_use_1_1_2_2" valign="middle" align="left" rowspan="1" colspan="1">&#x0003c;1%&#x000a0;<sup>6</sup></td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">COL11A1</italic>
+</td>
+                    <td headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">~20%&#x000a0;<sup>5</sup></td>
+                    <td headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">AD&#x000a0;<sup>7</sup></td>
+                    <td headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_4 hd_h_stickler.T.molecular_genetic_testing_use_1_1_2_1" valign="middle" align="left" rowspan="1" colspan="1">~99%</td>
+                    <td headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_4 hd_h_stickler.T.molecular_genetic_testing_use_1_1_2_2" valign="middle" align="left" rowspan="1" colspan="1">&#x0003c;1%&#x000a0;<sup>6</sup></td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">COL11A2</italic>
+</td>
+                    <td headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">&#x0003c;1%&#x000a0;<sup>6</sup></td>
+                    <td headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">AD</td>
+                    <td headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_4 hd_h_stickler.T.molecular_genetic_testing_use_1_1_2_1" valign="middle" align="left" rowspan="1" colspan="1">~100%</td>
+                    <td headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_4 hd_h_stickler.T.molecular_genetic_testing_use_1_1_2_2" valign="middle" align="left" rowspan="1" colspan="1">None reported&#x000a0;<sup>6,&#x000a0;8</sup></td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">COL9A1</italic>
+</td>
+                    <td headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">&#x0003c;1%&#x000a0;<sup>6</sup></td>
+                    <td headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">AR</td>
+                    <td headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_4 hd_h_stickler.T.molecular_genetic_testing_use_1_1_2_1" valign="middle" align="left" rowspan="1" colspan="1">~100%</td>
+                    <td headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_4 hd_h_stickler.T.molecular_genetic_testing_use_1_1_2_2" valign="middle" align="left" rowspan="1" colspan="1">None reported&#x000a0;<sup>6,&#x000a0;8</sup></td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">COL9A2</italic>
+</td>
+                    <td headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">&#x0003c;1%&#x000a0;<sup>6</sup></td>
+                    <td headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">AR</td>
+                    <td headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_4 hd_h_stickler.T.molecular_genetic_testing_use_1_1_2_1" valign="middle" align="left" rowspan="1" colspan="1">~100%</td>
+                    <td headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_4 hd_h_stickler.T.molecular_genetic_testing_use_1_1_2_2" valign="middle" align="left" rowspan="1" colspan="1">None reported&#x000a0;<sup>6,&#x000a0;8</sup></td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">COL9A3</italic>
+</td>
+                    <td headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">&#x0003c;1%&#x000a0;<sup>6</sup></td>
+                    <td headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">AR</td>
+                    <td headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_4 hd_h_stickler.T.molecular_genetic_testing_use_1_1_2_1" valign="middle" align="left" rowspan="1" colspan="1">~100%</td>
+                    <td headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_4 hd_h_stickler.T.molecular_genetic_testing_use_1_1_2_2" valign="middle" align="left" rowspan="1" colspan="1">None reported&#x000a0;<sup>6,&#x000a0;8</sup></td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">Unknown&#x000a0;<sup>9</sup></td>
+                    <td headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">1%</td>
+                    <td headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">NA</td>
+                    <td headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_4 hd_h_stickler.T.molecular_genetic_testing_use_1_1_2_1" valign="middle" align="left" rowspan="1" colspan="1">NA</td>
+                    <td headers="hd_h_stickler.T.molecular_genetic_testing_use_1_1_1_4 hd_h_stickler.T.molecular_genetic_testing_use_1_1_2_2" valign="middle" align="left" rowspan="1" colspan="1">NA</td>
+                  </tr>
+                </tbody>
+              </table>
+              <table-wrap-foot>
+                <fn>
+                  <p>AD = autosomal dominant; AR = autosomal recessive; MOI = mode of inheritance; NA = not applicable</p>
+                </fn>
+                <fn id="stickler.TF.1.1">
+                  <label>1. </label>
+                  <p>See <related-object source-id="gene" document-id="stickler" object-id="stickler.molgen.TA">Table A. Genes and Databases</related-object> for chromosome locus and protein.</p>
+                </fn>
+                <fn id="stickler.TF.1.2">
+                  <label>2. </label>
+                  <p>See <xref ref-type="sec" rid="stickler.Molecular_Genetics">Molecular Genetics</xref> for information on variants detected in these genes.</p>
+                </fn>
+                <fn id="stickler.TF.1.3">
+                  <label>3. </label>
+                  <p>Sequence analysis detects variants that are benign, likely benign, of uncertain significance, likely pathogenic, or pathogenic. Variants may include missense, nonsense, and splice site variants and small intragenic deletions/insertions; typically, exon or whole-gene deletions/duplications are not detected. For issues to consider in interpretation of sequence analysis results, click <related-object link-type="booklink" source-id="gene" document-id="app2" document-type="book-part">here</related-object>.</p>
+                </fn>
+                <fn id="stickler.TF.1.4">
+                  <label>4. </label>
+                  <p>Gene-targeted deletion/duplication analysis detects intragenic deletions or duplications. Methods used may include a range of techniques such as quantitative PCR, long-range PCR, multiplex ligation-dependent probe amplification (MLPA), and a gene-targeted microarray designed to detect single-exon deletions or duplications.</p>
+                </fn>
+                <fn id="stickler.TF.1.5">
+                  <label>5. </label>
+                  <p><xref ref-type="bibr" rid="stickler.REF.choi.2021.1578">Choi et al [2021]</xref>, <xref ref-type="bibr" rid="stickler.REF.soh.2022.1089">Soh et al [2022]</xref></p>
+                </fn>
+                <fn id="stickler.TF.1.6">
+                  <label>6. </label>
+                  <p>Data derived from the subscription-based professional view of Human Gene Mutation Database [<xref ref-type="bibr" rid="stickler.REF.stenson.2020.1197">Stenson et al 2020</xref>]</p>
+                </fn>
+                <fn id="stickler.TF.1.7">
+                  <label>7. </label>
+                  <p>Rarely, biallelic <italic toggle="yes">COL11A1</italic> pathogenic variants have been reported in individuals with Stickler syndrome [<xref ref-type="bibr" rid="stickler.REF.snead.2022.1966">Snead et al 2022</xref>]; in these instances, at least one pathogenic variant affects the alternatively spliced exon 9, and individuals have presented with more severe hearing loss [<xref ref-type="bibr" rid="stickler.REF.richards.2013.765">Richards et al 2013</xref>, <xref ref-type="bibr" rid="stickler.REF.nixon.2020.e1354">Nixon et al 2020</xref>, <xref ref-type="bibr" rid="stickler.REF.nixon.2022.1135">Nixon et al 2022</xref>].</p>
+                </fn>
+                <fn id="stickler.TF.1.8">
+                  <label>8. </label>
+                  <p>To date, large exon or multiexon deletions or duplications in <italic toggle="yes">COL11A2</italic>, <italic toggle="yes">COL9A1</italic>, <italic toggle="yes">COL9A2</italic>, and <italic toggle="yes">COL9A3</italic> have not been reported in individuals with Stickler syndrome.</p>
+                </fn>
+                <fn id="stickler.TF.1.9">
+                  <label>9. </label>
+                  <p>Pathogenic variants in <italic toggle="yes">BMP4</italic>, <italic toggle="yes">GZF1</italic>, <italic toggle="yes">LOXL3</italic>, and <italic toggle="yes">LRP2</italic> have been reported in individuals with features overlapping those of Stickler syndrome (see <xref ref-type="sec" rid="stickler.Differential_Diagnosis">Differential Diagnosis</xref>).</p>
+                </fn>
+              </table-wrap-foot>
+            </table-wrap>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="stickler.Clinical_Characteristics">
+        <title>Clinical Characteristics</title>
+        <sec id="stickler.Clinical_Description">
+          <title>Clinical Description</title>
+          <p>Stickler syndrome is characterized by typical craniofacial features, ocular manifestations, hearing impairment, and osteoarticular problems. To date, more than 1,000 individuals have been identified with Stickler syndrome due to a pathogenic variant(s) in one of the genes listed in <xref ref-type="table" rid="stickler.T.molecular_genetic_testing_use">Table 1</xref> [<xref ref-type="bibr" rid="stickler.REF.wang.2020.27">Wang et al 2020</xref>]. The following description of the phenotypic features associated with this condition is based on these reports.</p>
+          <table-wrap id="stickler.T.stickler_syndrome_frequency_o" orientation="portrait" position="anchor">
+            <label>Table 2. </label>
+            <caption>
+              <p>Stickler Syndrome: Frequency of Select Features by Related Gene</p>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <thead>
+                <tr>
+                  <th id="hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_1_1" rowspan="2" valign="middle" align="left" scope="col" colspan="1" headers="hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_1_1">Feature</th>
+                  <th id="hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_1_2" valign="middle" colspan="4" align="left" scope="colgroup" rowspan="1">% of Persons w/Feature&#x000a0;<sup>1</sup></th>
+                </tr>
+                <tr>
+                  <th headers="hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_1_2" id="hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_2_1" valign="middle" colspan="1" align="left" scope="colgroup" rowspan="1"><italic toggle="yes">COL2A1</italic>-SS</th>
+                  <th headers="hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_1_2" id="hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_2_2" valign="middle" align="left" scope="col" rowspan="1" colspan="1"><italic toggle="yes">COL11A1</italic>-SS</th>
+                  <th headers="hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_1_2" id="hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_2_3" valign="middle" align="left" scope="col" rowspan="1" colspan="1"><italic toggle="yes">COL11A2</italic>-SS</th>
+                  <th headers="hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_1_2" id="hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_2_4" valign="top" align="left" scope="col" rowspan="1" colspan="1"><italic toggle="yes">COL9A1</italic>-, <italic toggle="yes">COL9A2</italic>-, &#x00026;<break/><italic toggle="yes">COL9A3</italic>-SS</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Cleft palate</bold>
+</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_1_2 hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_2_1" valign="middle" align="left" rowspan="1" colspan="1">30%-60%</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_1_2 hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_2_2" valign="middle" align="left" rowspan="1" colspan="1">60%</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_1_2 hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_2_3" valign="middle" align="left" rowspan="1" colspan="1">35%</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_1_2 hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_2_4" valign="middle" align="left" rowspan="1" colspan="1">--</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Myopia</bold>
+</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_1_2 hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_2_1" valign="middle" align="left" rowspan="1" colspan="1">80%-90%</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_1_2 hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_2_2" valign="middle" align="left" rowspan="1" colspan="1">80%-85%</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_1_2 hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_2_3" valign="middle" align="left" rowspan="1" colspan="1">--</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_1_2 hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_2_4" valign="middle" align="left" rowspan="1" colspan="1">90%-95%</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Retinal detachment</bold>
+</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_1_2 hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_2_1" valign="middle" align="left" rowspan="1" colspan="1">40%-70%</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_1_2 hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_2_2" valign="middle" align="left" rowspan="1" colspan="1">&#x0003c;40%</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_1_2 hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_2_3" valign="middle" align="left" rowspan="1" colspan="1">--</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_1_2 hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_2_4" valign="middle" align="left" rowspan="1" colspan="1">13%-18%</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Hearing impairment</bold>
+</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_1_2 hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_2_1" valign="middle" align="left" rowspan="1" colspan="1">20%-50%<break/>(SNHL &#x000b1;<break/>conductive HL)</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_1_2 hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_2_2" valign="middle" align="left" rowspan="1" colspan="1">75%-80%</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_1_2 hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_2_3" valign="middle" align="left" rowspan="1" colspan="1">60%</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_1_2 hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_2_4" valign="middle" align="left" rowspan="1" colspan="1">90%-95%<break/>(SNHL)</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Skeletal manifestations&#x000a0;<sup>2</sup></bold>
+</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_1_2 hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_2_1" valign="middle" align="left" rowspan="1" colspan="1">35%-40%</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_1_2 hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_2_2" valign="middle" align="left" rowspan="1" colspan="1">25%</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_1_2 hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_2_3" valign="middle" align="left" rowspan="1" colspan="1">50%</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_1_2 hd_h_stickler.T.stickler_syndrome_frequency_o_1_1_2_4" valign="middle" align="left" rowspan="1" colspan="1">25%</td>
+                </tr>
+              </tbody>
+            </table>
+            <table-wrap-foot>
+              <fn>
+                <p>-- = not reported; HL = hearing loss; SNHL = sensorineural hearing loss; SS = Stickler syndrome</p>
+              </fn>
+              <fn id="stickler.TF.2.1">
+                <label>1. </label>
+                <p><xref ref-type="bibr" rid="stickler.REF.hoornaert.2010.872">Hoornaert et al [2010]</xref>, <xref ref-type="bibr" rid="stickler.REF.boothe.2020.105">Boothe et al [2020]</xref>, <xref ref-type="bibr" rid="stickler.REF.wang.2020.27">Wang et al [2020]</xref></p>
+              </fn>
+              <fn id="stickler.TF.2.2">
+                <label>2. </label>
+                <p>Includes mainly early-onset degenerative joint disease</p>
+              </fn>
+            </table-wrap-foot>
+          </table-wrap>
+          <p><bold>Craniofacial findings</bold> include a flat face or midface retrusion with underdevelopment of the maxilla and nasal bridge. Midface retrusion is most pronounced in infants and young children; older individuals may have a normal facial profile.</p>
+          <p>Micrognathia is common and may be associated with cleft palate as part of the Pierre Robin sequence (micrognathia, glossoptosis, cleft palate). The degree of micrognathia may compromise the upper airway, necessitating tracheostomy in the neonatal period.</p>
+          <p>Cleft palate may be seen in the absence of micrognathia. Cleft palate may range from open cleft to submucous cleft or just bifid uvula.</p>
+          <p><bold>Ocular manifestations</bold> include myopia, vitreous abnormalities, spontaneous retinal detachments, cataracts, and glaucoma. The ocular phenotype is often consistent between affected family members.</p>
+          <p>High myopia (greater than &#x02212;3 diopters) is common; myopia may be progressive and is detectable in the newborn period.</p>
+          <p>Two types of vitreous abnormalities are observed:</p>
+          <list list-type="bullet">
+            <list-item>
+              <p>Type 1 ("membranous"), which is much more common, is characterized by a persistence of vestigial vitreous gel in the retrolental space that is bordered by a folded membrane.</p>
+            </list-item>
+            <list-item>
+              <p>Type 2 ("beaded"), much less common, is characterized by sparse and irregularly thickened bundles throughout the vitreous cavity.</p>
+            </list-item>
+          </list>
+          <p>The development of a retinal tear and subsequent retinal detachment is increased in individuals with Stickler syndrome. Prophylactic retinopexy is recommended, as surgical repair of retinal detachment in individuals with Stickler syndrome is often not successful [<xref ref-type="bibr" rid="stickler.REF.alexander.2022.1150">Alexander &#x00026; Snead 2022</xref>], and recurrent detachment is reported to be common [<xref ref-type="bibr" rid="stickler.REF.lee.2020.612">Lee et al 2020</xref>]. Comparison of prophylactic treatment options to prevent retinal detachment have been reported in some recent retrospective studies [<xref ref-type="bibr" rid="stickler.REF.khanna.2022.263">Khanna et al 2022</xref>, <xref ref-type="bibr" rid="stickler.REF.ripandelli.2022.250">Ripandelli et al 2022</xref>].</p>
+          <p>Posterior chorioretinal atrophy was described in a family with vitreoretinal dystrophy, systemic features of Stickler syndrome, and a novel pathogenic variant in <italic toggle="yes">COL2A1</italic> [<xref ref-type="bibr" rid="stickler.REF.vu.2003.70">Vu et al 2003</xref>], suggesting that individuals with Stickler syndrome may have posterior pole chorioretinal changes in addition to the vitreous abnormalities.</p>
+          <p>Cataracts were reported to be more common in individuals with <italic toggle="yes">COL11A1</italic>-related Stickler syndrome (59%) compared to individuals with <italic toggle="yes">COL2A1</italic>-related Stickler syndrome (36%) [<xref ref-type="bibr" rid="stickler.REF.boysen.2020.223">Boysen et al 2020</xref>]. Glaucoma has been reported in 10% of individuals with Stickler syndrome [<xref ref-type="bibr" rid="stickler.REF.wubben.2018.615">Wubben et al 2018</xref>, <xref ref-type="bibr" rid="stickler.REF.boysen.2020.223">Boysen et al 2020</xref>, <xref ref-type="bibr" rid="stickler.REF.walters.2020.992">Walters et al 2020</xref>].</p>
+          <p><bold>Hearing impairment</bold> is common. The degree of hearing impairment is variable and may be progressive. Sensorineural hearing loss in individuals with <italic toggle="yes">COL2A1</italic>-related Stickler syndrome is typically mild, usually involves the higher frequencies, and is not significantly progressive; it is less severe than that reported for <italic toggle="yes">COL11A1</italic>-related Stickler syndrome [<xref ref-type="bibr" rid="stickler.REF.acke.2022.1571">Acke &#x00026; De Leenheer 2022</xref>].</p>
+          <p>Conductive hearing loss can also be seen. This may be secondary to recurrent ear infections that are often associated with cleft palate and/or may be secondary to a defect of the ossicles of the middle ear.</p>
+          <p><bold>Skeletal manifestations</bold> include mainly early-onset degenerative joint disease with radiographic findings consistent with mild spondyloepiphyseal dysplasia. Stature is within normal limits, but affected individuals may be relatively short in comparison to their unaffected first-degree relatives.</p>
+          <p>Early-onset osteoarthrosis is common and may be severe, leading to the need for surgical joint replacement even as early as the third or fourth decade. More commonly, the arthropathy is mild with mild joint pain and nonspecific joint stiffness.</p>
+          <p>Spinal abnormalities sometimes observed in Stickler syndrome that result in chronic back pain are scoliosis and kyphosis [<xref ref-type="bibr" rid="stickler.REF.rose.2001.403">Rose et al 2001</xref>]. There is no good documentation in the literature of the presence/occurrence of odontoid hypoplasia, resulting in clinically significant atlantoaxial instability, in individuals with Stickler syndrome. This is in contrast to other, more severe type II collagen disorders such as <italic toggle="yes">COL2A1</italic>-related spondyloepiphyseal dysplasia congenita (see <xref ref-type="sec" rid="stickler.Genetically_Related_Allelic_Dis">Genetically Related Disorders</xref>).</p>
+        </sec>
+        <sec id="stickler.Phenotype_Correlations_by_Gene">
+          <title>Phenotype Correlations by Gene</title>
+          <p><bold><italic toggle="yes">COL11A1</italic>.</bold> Individuals with <italic toggle="yes">COL11A1</italic>-related Stickler syndrome typically have more pronounced midface hypoplasia (flat face), more severe hearing loss, and type 2 congenital vitreous anomaly or "beaded" vitreous phenotype; however, individuals or families with a "membranous" vitreous (type 1) phenotype have been reported [<xref ref-type="bibr" rid="stickler.REF.parentin.2001.316">Parentin et al 2001</xref>, <xref ref-type="bibr" rid="stickler.REF.majava.2007.258">Majava et al 2007</xref>]. The risk for retinal detachments may be lower (&#x0003c;40%) than in <italic toggle="yes">COL2A1</italic>-related Stickler syndrome [<xref ref-type="bibr" rid="stickler.REF.boothe.2020.105">Boothe et al 2020</xref>].</p>
+          <p><bold><italic toggle="yes">COL11A2</italic>.</bold> Pathogenic variants in <italic toggle="yes">COL11A2</italic> cause autosomal dominant non-ocular Stickler syndrome [<xref ref-type="bibr" rid="stickler.REF.vikkula.1995.431">Vikkula et al 1995</xref>, <xref ref-type="bibr" rid="stickler.REF.sirkoosadsa.1998.368">Sirko-Osadsa et al 1998</xref>, <xref ref-type="bibr" rid="stickler.REF.vuoristo.2004.160">Vuoristo et al 2004</xref>, <xref ref-type="bibr" rid="stickler.REF.acke.2014.230">Acke et al 2014</xref>].</p>
+          <p><bold><italic toggle="yes">COL9A1, COL9A2, COL9A3</italic>.</bold> Biallelic pathogenic variants in the type IX collagen genes cause autosomal recessive Stickler syndrome. Almost all affected individuals have sensorineural hearing loss (usually moderate to severe) and moderate-to-high myopia with vitreoretinopathy. Retinal detachments are not as frequent, with a rate of 13%-18%. Interestingly, cleft palate has not yet been reported in this group of individuals [<xref ref-type="bibr" rid="stickler.REF.nixon.2022.1135">Nixon et al 2022</xref>].</p>
+        </sec>
+        <sec id="stickler.GenotypePhenotype_Correlations">
+          <title>Genotype-Phenotype Correlations</title>
+          <p>Although inter- and intrafamilial variation is common, some generalities can be made regarding genotype-phenotype correlations.</p>
+          <p><bold><italic toggle="yes">COL2A1-</italic>related Stickler syndrome.</bold> Pathogenic variants in <italic toggle="yes">COL2A1</italic> that cause Stickler syndrome are typically loss-of-functions variants associated with haploinsufficiency of type II collagen (e.g., nonsense variants, small deletions/duplications, splicing variants that cause a frameshift). <italic toggle="yes">COL2A1</italic> pathogenic variants that do not result in a premature stop codon and/or nonsense-mediated RNA decay but have a dominant-negative effect are causative for the more severe type II collagenopathies such as spondyloepiphyseal dysplasia congenita (see <xref ref-type="table" rid="stickler.T.stickler_syndrome_selected_al">Table 3</xref>). These are usually missense variants causing a glycine substitution in the triple helical domain. However, glycine substitutions have been reported in individuals with Stickler syndrome, and these tend to cluster at the N-terminal end of the protein.</p>
+          <p><italic toggle="yes">COL2A1</italic> pathogenic variants involving exon 2 are characterized by a predominantly ocular variant phenotype in which individuals are at high risk for retinal detachment. Affected individuals from nine families with an exon 2 variant resulting in a premature stop codon had optically empty vitreous, typical perivascular pigmentary changes, and/or early-onset retinal detachment with minimal or absent systemic findings of Stickler syndrome [<xref ref-type="bibr" rid="stickler.REF.donoso.2003.191">Donoso et al 2003</xref>].</p>
+          <p><bold><italic toggle="yes">COL11A1-</italic>related Stickler syndrome.</bold> Heterozygous pathogenic <italic toggle="yes">COL11A1</italic> variants are predominantly splice site alterations and missense variants including glycine substitutions. The splice site alterations usually result in in-frame deletions (exon skipping) and therefore most likely have a dominant-negative effect. Intron 50 (donor splice site) is a mutational hot spot. Rarely, biallelic <italic toggle="yes">COL11A1</italic> pathogenic variants have been reported in individuals with Stickler syndrome; in these instances, at least one pathogenic variant affects the alternatively spliced exon 9. Pathogenic variants of <italic toggle="yes">COL11A1</italic> resulting in haploinsufficiency (e.g., nonsense variants) are rare and cause a milder and less obvious phenotype such as nonsyndromic hearing loss.</p>
+          <p><bold><italic toggle="yes">COL11A2</italic>-related Stickler syndrome.</bold> Heterozygous pathogenic <italic toggle="yes">COL11A2</italic> variants are rare and usually have a dominant-negative effect. They include missense variants in the helical domain, in-frame deletions, or splice site alterations.</p>
+          <p><bold><italic toggle="yes">COL9A1</italic>-, <italic toggle="yes">COL9A2</italic>-, and <italic toggle="yes">COL9A3</italic>-related Stickler syndrome.</bold> Pathogenic variants in <italic toggle="yes">COL9A1</italic>, <italic toggle="yes">COL9A2</italic>, and <italic toggle="yes">COL9A3</italic> associated with Stickler syndrome are biallelic and have a loss-of-function effect, resulting in complete absence of the protein.</p>
+        </sec>
+        <sec id="stickler.Penetrance">
+          <title>Penetrance</title>
+          <p>Penetrance is complete.</p>
+        </sec>
+        <sec id="stickler.Nomenclature">
+          <title>Nomenclature</title>
+          <p><italic toggle="yes">COL11A2</italic>-related Stickler syndrome (Stickler syndrome type 3) is also referred to as otospondylomegaepiphyseal dysplasia (OSMED), dominant type, <italic toggle="yes">COL11A2</italic>-related [<xref ref-type="bibr" rid="stickler.REF.unger.2023.1164">Unger et al 2023</xref>].</p>
+        </sec>
+        <sec id="stickler.Prevalence">
+          <title>Prevalence</title>
+          <p>The prevalence of Stickler syndrome is unknown.</p>
+        </sec>
+      </sec>
+      <sec id="stickler.Genetically_Related_Allelic_Dis">
+        <title>Genetically Related (Allelic) Disorders</title>
+        <p>Other phenotypes associated with germline pathogenic variants in Stickler syndrome-related genes are summarized in <xref ref-type="table" rid="stickler.T.stickler_syndrome_selected_al">Table 3</xref>.</p>
+        <table-wrap id="stickler.T.stickler_syndrome_selected_al" orientation="portrait" position="anchor">
+          <label>Table 3. </label>
+          <caption>
+            <p>Stickler Syndrome: Selected Allelic Disorders</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_stickler.T.stickler_syndrome_selected_al_1_1_1_1" valign="middle" align="left" scope="col" rowspan="1" colspan="1">Gene</th>
+                <th id="hd_h_stickler.T.stickler_syndrome_selected_al_1_1_1_2" valign="middle" colspan="2" align="left" scope="colgroup" rowspan="1">Phenotype&#x000a0;<sup>1</sup></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_stickler.T.stickler_syndrome_selected_al_1_1_1_1" rowspan="10" valign="middle" align="left" scope="row" colspan="1"><italic toggle="yes">COL2A1</italic>&#x000a0;<sup>2</sup><break/>(See <related-object link-type="booklink" source-id="gene" document-id="collagen-2" document-type="book-part">Type II Collagen Disorders Overview</related-object>,)</td>
+                <td headers="hd_h_stickler.T.stickler_syndrome_selected_al_1_1_1_2" rowspan="3" valign="middle" align="left" colspan="1">Most severe (often lethal perinatally)</td>
+                <td headers="hd_h_stickler.T.stickler_syndrome_selected_al_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">Achondrogenesis, <italic toggle="yes">COL2A1</italic>-related (formerly type 2, type Langer-Saldino)</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_stickler.T.stickler_syndrome_selected_al_1_1_1_2" valign="middle" colspan="1" align="left" scope="col" rowspan="1">Hypochondrogenesis, <italic toggle="yes">COL2A1</italic>-related</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_stickler.T.stickler_syndrome_selected_al_1_1_1_2" valign="middle" colspan="1" align="left" scope="col" rowspan="1">Platyspondylic dysplasia, type Torrance, <italic toggle="yes">COL2A1</italic>-related</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_stickler.T.stickler_syndrome_selected_al_1_1_1_2" rowspan="4" valign="middle" colspan="1" align="left" scope="row">Severe&#x000a0;/ moderately severe (neonatal presentation)</td>
+                <td headers="hd_h_stickler.T.stickler_syndrome_selected_al_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">Kniest dysplasia, <italic toggle="yes">COL2A1</italic>-related</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_stickler.T.stickler_syndrome_selected_al_1_1_1_2" valign="middle" colspan="1" align="left" scope="col" rowspan="1">Spondyloepiphyseal dysplasia congenita (SEDC), <italic toggle="yes">COL2A1</italic>-related</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_stickler.T.stickler_syndrome_selected_al_1_1_1_2" valign="middle" colspan="1" align="left" scope="col" rowspan="1">SEMD, <italic toggle="yes">COL2A1</italic>-related (incl SEMD type Strudwick)</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_stickler.T.stickler_syndrome_selected_al_1_1_1_2" valign="middle" colspan="1" align="left" scope="col" rowspan="1">Spondylometaphyseal dysplasia Sutcliffe (or "corner fractures" type), <italic toggle="yes">COL2A1</italic>-related (See <related-object link-type="booklink" source-id="gene" document-id="smdcf" document-type="book-part">SMD, Corner Fracture Type</related-object>.)</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_stickler.T.stickler_syndrome_selected_al_1_1_1_2" rowspan="2" valign="middle" colspan="1" align="left" scope="row">Intermediate (neonatal/childhood/adolescent presentation)</td>
+                <td headers="hd_h_stickler.T.stickler_syndrome_selected_al_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">Spondyloperipheral dysplasia, <italic toggle="yes">COL2A1</italic>-related</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_stickler.T.stickler_syndrome_selected_al_1_1_1_2" valign="middle" colspan="1" align="left" scope="col" rowspan="1">Spondyloepiphyseal dysplasia w/metatarsal shortening, <italic toggle="yes">COL2A1</italic>-related</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_stickler.T.stickler_syndrome_selected_al_1_1_1_2" valign="middle" colspan="1" align="left" scope="row" rowspan="1">Mild (adolescent/adult presentation)</td>
+                <td headers="hd_h_stickler.T.stickler_syndrome_selected_al_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">Mild spondyloepiphyseal dysplasia w/premature-onset arthrosis, <italic toggle="yes">COL2A1</italic>-related</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_stickler.T.stickler_syndrome_selected_al_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">COL9A1</italic>
+</td>
+                <td headers="hd_h_stickler.T.stickler_syndrome_selected_al_1_1_1_2" valign="middle" colspan="2" align="left" rowspan="1">Multiple epiphyseal dysplasia, <italic toggle="yes">COL9A1</italic>-related (See <related-object link-type="booklink" source-id="gene" document-id="edm-ad" document-type="book-part">MED, Autosomal Dominant</related-object>.)</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_stickler.T.stickler_syndrome_selected_al_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">COL9A2</italic>
+</td>
+                <td headers="hd_h_stickler.T.stickler_syndrome_selected_al_1_1_1_2" valign="middle" colspan="2" align="left" rowspan="1">Multiple epiphyseal dysplasia, <italic toggle="yes">COL9A2-</italic>related (See <related-object link-type="booklink" source-id="gene" document-id="edm-ad" document-type="book-part">MED, Autosomal Dominant</related-object>.)</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_stickler.T.stickler_syndrome_selected_al_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">COL9A3</italic>
+</td>
+                <td headers="hd_h_stickler.T.stickler_syndrome_selected_al_1_1_1_2" valign="middle" colspan="2" align="left" rowspan="1">Multiple epiphyseal dysplasia, <italic toggle="yes">COL9A3</italic>-related (See <related-object link-type="booklink" source-id="gene" document-id="edm-ad" document-type="book-part">MED, Autosomal Dominant</related-object>.)</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_stickler.T.stickler_syndrome_selected_al_1_1_1_1" rowspan="3" valign="middle" align="left" scope="row" colspan="1">
+<italic toggle="yes">COL11A1</italic>
+</td>
+                <td headers="hd_h_stickler.T.stickler_syndrome_selected_al_1_1_1_2" valign="middle" colspan="2" align="left" rowspan="1">Autosomal dominant nonsyndromic hearing loss, <italic toggle="yes">COL11A1-</italic>related (OMIM <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://omim.org/entry/618533">618533</ext-link>)</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_stickler.T.stickler_syndrome_selected_al_1_1_1_2" valign="middle" colspan="2" align="left" scope="col" rowspan="1">Fibrochondrogenesis, <italic toggle="yes">COL11A1</italic>-related (OMIM <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://omim.org/entry/228520">228520</ext-link>)</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_stickler.T.stickler_syndrome_selected_al_1_1_1_2" valign="middle" colspan="2" align="left" scope="col" rowspan="1">Marshall syndrome, <italic toggle="yes">COL11A1</italic>-related (OMIM <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.omim.org/entry/154780">154780</ext-link>)</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_stickler.T.stickler_syndrome_selected_al_1_1_1_1" rowspan="4" valign="middle" align="left" scope="row" colspan="1">
+<italic toggle="yes">COL11A2</italic>
+</td>
+                <td headers="hd_h_stickler.T.stickler_syndrome_selected_al_1_1_1_2" valign="middle" colspan="2" align="left" rowspan="1">Otospondylomegaepiphyseal dysplasia (OSMED), recessive type, <italic toggle="yes">COL11A1</italic>-related (OMIM <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.omim.org/entry/215150">215150</ext-link>)</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_stickler.T.stickler_syndrome_selected_al_1_1_1_2" valign="middle" colspan="2" align="left" scope="col" rowspan="1">Otospondylomegaepiphyseal dysplasia (OSMED), dominant type, <italic toggle="yes">COL11A1</italic>-related (OMIM <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://omim.org/entry/184840">184840</ext-link>)</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_stickler.T.stickler_syndrome_selected_al_1_1_1_2" valign="middle" colspan="2" align="left" scope="col" rowspan="1">Fibrochondrogenesis, <italic toggle="yes">COL11A1</italic>-related (OMIM <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://omim.org/entry/614524">614524</ext-link>)</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_stickler.T.stickler_syndrome_selected_al_1_1_1_2" valign="middle" colspan="2" align="left" scope="col" rowspan="1">Autosomal dominant nonsyndromic hearing loss, <italic toggle="yes">COL11A2-</italic>related (OMIM <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://omim.org/entry/601868">601868</ext-link>)</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn>
+              <p>MED = multiple epiphyseal dysplasia; SEMD = spondyloepimetaphyseal dysplasia; SMD = spondylometaphyseal dysplasia</p>
+            </fn>
+            <fn id="stickler.TF.3.1">
+              <label>1. </label>
+              <p>Phenotype names are based on the 2023 revision of the Nosology of Genetic Skeletal Disorders [<xref ref-type="bibr" rid="stickler.REF.unger.2023.1164">Unger et al 2023</xref>].</p>
+            </fn>
+            <fn id="stickler.TF.3.2">
+              <label>2. </label>
+              <p>See OMIM <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://omim.org/entry/120140">120140</ext-link> for additional <italic toggle="yes">COL2A1</italic> allelic disorders.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec id="stickler.Differential_Diagnosis">
+        <title>Differential Diagnosis</title>
+        <p>A number of disorders have features that overlap with those of Stickler syndrome.</p>
+        <p><bold>Pierre Robin sequence.</bold> Approximately one third of individuals with Pierre Robin sequence have an underlying syndrome, of which Stickler syndrome is the most common [<xref ref-type="bibr" rid="stickler.REF.karempelis.2020.109842">Karempelis et al 2020</xref>, <xref ref-type="bibr" rid="stickler.REF.davies.2023.42">Davies et al 2023</xref>].</p>
+        <p><bold>Binder syndrome (maxillonasal dysplasia)</bold> (OMIM <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.omim.org/entry/155050">155050</ext-link>). Affected individuals typically have an unusually flat, underdeveloped midface (midfacial hypoplasia), with an abnormally short nose and flat nasal bridge and underdeveloped upper jaw. Binder syndrome may not represent a distinct disease entity or syndrome but rather a developmental anomaly that can be seen in several syndromes such as Stickler syndrome, campomelic dysplasia, and chondrodysplasia punctata.</p>
+        <table-wrap id="stickler.T.genes_of_interest_in_the_diff" orientation="portrait" position="anchor">
+          <label>Table 4. </label>
+          <caption>
+            <p>Genes of Interest in the Differential Diagnosis of Stickler Syndrome</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_stickler.T.genes_of_interest_in_the_diff_1_1_1_1" valign="middle" align="left" scope="col" rowspan="1" colspan="1">Gene(s)</th>
+                <th id="hd_h_stickler.T.genes_of_interest_in_the_diff_1_1_1_2" valign="middle" align="left" scope="col" rowspan="1" colspan="1">Disorder</th>
+                <th id="hd_h_stickler.T.genes_of_interest_in_the_diff_1_1_1_3" valign="middle" align="left" scope="col" rowspan="1" colspan="1">MOI</th>
+                <th id="hd_h_stickler.T.genes_of_interest_in_the_diff_1_1_1_4" valign="middle" align="left" scope="col" rowspan="1" colspan="1">Clinical Features of Differential Diagnosis Disorder</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_stickler.T.genes_of_interest_in_the_diff_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">ARR3</italic>
+<break/>
+<italic toggle="yes">CPSF1</italic>
+<break/>
+<italic toggle="yes">LRPAP1</italic>
+<break/>
+<italic toggle="yes">P4HA2</italic>
+<break/>
+<italic toggle="yes">PRIMPOL</italic>
+<break/>
+<italic toggle="yes">SCO2</italic>
+<break/>
+<italic toggle="yes">SLC39A5</italic>
+<break/>
+<italic toggle="yes">ZNF644</italic>
+</td>
+                <td headers="hd_h_stickler.T.genes_of_interest_in_the_diff_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">High-grade myopia (OMIM <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://omim.org/phenotypicSeries/PS160700">PS160700</ext-link>)</td>
+                <td headers="hd_h_stickler.T.genes_of_interest_in_the_diff_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">AD<break/>AR<break/>XL&#x000a0;<sup>1</sup></td>
+                <td headers="hd_h_stickler.T.genes_of_interest_in_the_diff_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1">Refractive error &#x02265; &#x02212;6 diopters</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_stickler.T.genes_of_interest_in_the_diff_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">ATOH7</italic>
+</td>
+                <td headers="hd_h_stickler.T.genes_of_interest_in_the_diff_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">Nonsyndromic congenital retinal nonattachment (NCRNA) (OMIM <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.omim.org/entry/221900">221900</ext-link>)</td>
+                <td headers="hd_h_stickler.T.genes_of_interest_in_the_diff_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">AR</td>
+                <td headers="hd_h_stickler.T.genes_of_interest_in_the_diff_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1">Congenital insensitivity to light, massive retrolental mass, shallow anterior chamber, microphthalmia, &#x00026; nystagmus in otherwise normal individuals</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_stickler.T.genes_of_interest_in_the_diff_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">BMP4</italic>
+</td>
+                <td headers="hd_h_stickler.T.genes_of_interest_in_the_diff_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1"><italic toggle="yes">BMP4</italic>-related disorder&#x000a0;<sup>2</sup></td>
+                <td headers="hd_h_stickler.T.genes_of_interest_in_the_diff_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">AD</td>
+                <td headers="hd_h_stickler.T.genes_of_interest_in_the_diff_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1">High myopia, congenital hypoplasia of the vitreous, retinal detachment, high-arched palate, retrognathia, sensorineural hearing loss</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_stickler.T.genes_of_interest_in_the_diff_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">GZF1</italic>
+</td>
+                <td headers="hd_h_stickler.T.genes_of_interest_in_the_diff_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1"><italic toggle="yes">GZF1</italic>-related disorder&#x000a0;<sup>2</sup></td>
+                <td headers="hd_h_stickler.T.genes_of_interest_in_the_diff_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">AR</td>
+                <td headers="hd_h_stickler.T.genes_of_interest_in_the_diff_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1">High myopia, retinal detachment, chorioretinal coloboma, hearing loss, joint laxity &#x00026; dislocations, kyphoscoliosis, talipes</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_stickler.T.genes_of_interest_in_the_diff_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">KCNJ13</italic>
+</td>
+                <td headers="hd_h_stickler.T.genes_of_interest_in_the_diff_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">Snowflake vitreoretinal degeneration (OMIM <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.omim.org/entry/193230">193230</ext-link>)</td>
+                <td headers="hd_h_stickler.T.genes_of_interest_in_the_diff_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">AD</td>
+                <td headers="hd_h_stickler.T.genes_of_interest_in_the_diff_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1">Cataract, fibrillar degeneration of the vitreous, &#x00026; peripheral retinal abnormalities incl minute, shiny, crystalline-like deposits resembling snowflakes. Individuals show a low rate of retinal detachment.</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_stickler.T.genes_of_interest_in_the_diff_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">LOXL3</italic>
+</td>
+                <td headers="hd_h_stickler.T.genes_of_interest_in_the_diff_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1"><italic toggle="yes">LOXL3</italic>-related disorder&#x000a0;<sup>2</sup></td>
+                <td headers="hd_h_stickler.T.genes_of_interest_in_the_diff_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">AR</td>
+                <td headers="hd_h_stickler.T.genes_of_interest_in_the_diff_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1">Myopia, vitreous detachment, flat midface, cleft palate, micrognathia, mild conductive hearing loss, joint laxity</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_stickler.T.genes_of_interest_in_the_diff_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">LRP2</italic>
+</td>
+                <td headers="hd_h_stickler.T.genes_of_interest_in_the_diff_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1"><italic toggle="yes">LRP2-</italic>related disorder&#x000a0;<sup>2</sup> (See also <related-object link-type="booklink" source-id="gene" document-id="donnai" document-type="book-part">Donnai-Barrow Syndrome</related-object>.)</td>
+                <td headers="hd_h_stickler.T.genes_of_interest_in_the_diff_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">AR</td>
+                <td headers="hd_h_stickler.T.genes_of_interest_in_the_diff_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1">Myopia, retinal detachment, abnormal vitreous, flat midface, retrognathia, joint pain</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_stickler.T.genes_of_interest_in_the_diff_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">VCAN</italic>
+</td>
+                <td headers="hd_h_stickler.T.genes_of_interest_in_the_diff_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1"><italic toggle="yes">VCAN</italic>-related vitreoretinopathy (incl Wagner syndrome &#x00026; erosive vitreoretinopathy)<break/>(OMIM <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://omim.org/entry/14300">143200</ext-link>)</td>
+                <td headers="hd_h_stickler.T.genes_of_interest_in_the_diff_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">AD</td>
+                <td headers="hd_h_stickler.T.genes_of_interest_in_the_diff_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1">"Optically empty vitreous" on slit lamp exam &#x00026; avascular vitreous strands &#x00026; veils, myopia, presenile cataract, night blindness of variable degree assoc w/progressive chorioretinal atrophy, retinal traction &#x00026; retinal detachment at advanced stages of the disease &#x00026; &#x02193; visual acuity. 1st signs usually become apparent during early adolescence, but onset can be as early as age 2 yrs.</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn>
+              <p>AD = autosomal dominant; AR = autosomal recessive; MOI = mode of inheritance; XL = X-linked</p>
+            </fn>
+            <fn id="stickler.TF.4.1">
+              <label>1. </label>
+              <p><italic toggle="yes">ARR3</italic>-related high-grade myopia is inherited in an X-linked manner. <italic toggle="yes">CPSF1</italic>-, <italic toggle="yes">P4HA2</italic>-, <italic toggle="yes">PRIMPOL</italic>-, <italic toggle="yes">SCO2</italic>-, <italic toggle="yes">SLC39A5</italic>-, and <italic toggle="yes">ZNF644</italic>-related high-grade myopia are inherited in an autosomal dominant manner. <italic toggle="yes">LRPAP1</italic>-related high-grade myopia is inherited in an autosomal recessive manner.</p>
+            </fn>
+            <fn id="stickler.TF.4.2">
+              <label>2. </label>
+              <p>Pathogenic variants in <italic toggle="yes">BMP4</italic>, <italic toggle="yes">GZF1</italic>, <italic toggle="yes">LOXL3</italic>, and <italic toggle="yes">LRP2</italic> have been reported in individuals with features overlapping those of Stickler syndrome [<xref ref-type="bibr" rid="stickler.REF.nixon.2019.369">Nixon et al 2019</xref>, <xref ref-type="bibr" rid="stickler.REF.nixon.2022.1135">Nixon et al 2022</xref>].</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec id="stickler.Management">
+        <title>Management</title>
+        <p>No clinical practice guidelines for Stickler syndrome have been published.</p>
+        <sec id="stickler.Evaluations_Following_Initial_D">
+          <title>Evaluations Following Initial Diagnosis</title>
+          <p>To establish the extent of disease and needs in an individual diagnosed with Stickler syndrome, the evaluations summarized in <xref ref-type="table" rid="stickler.T.stickler_syndrome_recommended">Table 5</xref> (if not performed as part of the evaluation that led to the diagnosis) are recommended.</p>
+          <table-wrap id="stickler.T.stickler_syndrome_recommended" orientation="portrait" position="anchor">
+            <label>Table 5. </label>
+            <caption>
+              <p>Stickler Syndrome: Recommended Evaluations Following Initial Diagnosis</p>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <thead>
+                <tr>
+                  <th id="hd_h_stickler.T.stickler_syndrome_recommended_1_1_1_1" valign="middle" align="left" scope="col" rowspan="1" colspan="1">System/Concern</th>
+                  <th id="hd_h_stickler.T.stickler_syndrome_recommended_1_1_1_2" valign="middle" align="left" scope="col" rowspan="1" colspan="1">Evaluation</th>
+                  <th id="hd_h_stickler.T.stickler_syndrome_recommended_1_1_1_3" valign="middle" align="left" scope="col" rowspan="1" colspan="1">Comment</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_recommended_1_1_1_1" rowspan="2" valign="middle" align="left" scope="row" colspan="1">
+<bold>ENT</bold>
+</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_recommended_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1"><list list-type="bullet"><list-item><p>Eval of palate by craniofacial specialist</p></list-item><list-item><p>Feeding assessment</p></list-item></list>
+</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_recommended_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">Persons w/PRS need immediate assessment by ENT &#x00026; pediatric critical care to assess airway.</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_recommended_1_1_1_2" valign="middle" colspan="1" align="left" scope="col" rowspan="1">Audiology eval</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_recommended_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_recommended_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Eyes</bold>
+</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_recommended_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">Ophthalmologic exam</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_recommended_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">Preferably by expert ophthalmologist familiar w/the ophthalmic complications (e.g., high myopia, vitreous changes, retinal detachment)</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_recommended_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Genetic counseling</bold>
+</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_recommended_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">By genetics professionals&#x000a0;<sup>1</sup></td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_recommended_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">To obtain a pedigree &#x00026; inform affected persons &#x00026; their families re nature, MOI, &#x00026; implications of Stickler syndrome to facilitate medical &#x00026; personal decision making</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_recommended_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Family support</bold>
+<break/>
+<bold>&#x00026; resources</bold>
+</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_recommended_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">Assess need for:
+<list list-type="bullet"><list-item><p>Community or <xref ref-type="sec" rid="stickler.Resources">online resources</xref> such as <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.p2pusa.org/">Parent to Parent</ext-link>;</p></list-item><list-item><p>Social work involvement for parental support;</p></list-item><list-item><p>Home nursing referral.</p></list-item></list>
+</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_recommended_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1"/>
+                </tr>
+              </tbody>
+            </table>
+            <table-wrap-foot>
+              <fn>
+                <p>MOI = mode of inheritance; PRS = Pierre Robin sequence</p>
+              </fn>
+              <fn id="stickler.TF.5.1">
+                <label>1. </label>
+                <p>Medical geneticist, certified genetic counselor, certified advanced genetic nurse</p>
+              </fn>
+            </table-wrap-foot>
+          </table-wrap>
+        </sec>
+        <sec id="stickler.Treatment_of_Manifestations">
+          <title>Treatment of Manifestations</title>
+          <p><bold>Supportive care</bold> to improve quality of life, maximize function, and reduce complications is recommended. This can include multidisciplinary care by a comprehensive craniofacial clinic that provides all the necessary services, including otolaryngology, plastic surgery, oral and maxillofacial surgery, pediatric dentistry, orthodontics, and medical genetics (see <xref ref-type="table" rid="stickler.T.stickler_syndrome_treatment_o">Table 6</xref>).</p>
+          <table-wrap id="stickler.T.stickler_syndrome_treatment_o" orientation="portrait" position="anchor">
+            <label>Table 6. </label>
+            <caption>
+              <p>Stickler Syndrome: Treatment of Manifestations</p>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <thead>
+                <tr>
+                  <th id="hd_h_stickler.T.stickler_syndrome_treatment_o_1_1_1_1" valign="middle" align="left" scope="col" rowspan="1" colspan="1">Manifestation/Concern</th>
+                  <th id="hd_h_stickler.T.stickler_syndrome_treatment_o_1_1_1_2" valign="middle" align="left" scope="col" rowspan="1" colspan="1">Treatment</th>
+                  <th id="hd_h_stickler.T.stickler_syndrome_treatment_o_1_1_1_3" valign="middle" align="left" scope="col" rowspan="1" colspan="1">Considerations/Other</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_treatment_o_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Respiratory</bold>
+</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_treatment_o_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">Infants w/PRS may require tracheostomy to ensure a competent airway.</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_treatment_o_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">In most persons, micrognathia tends to become less prominent over time, allowing for removal of tracheostomy.</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_treatment_o_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Micrognathia</bold>
+</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_treatment_o_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">Mandibular advancement procedure may be needed for persistent micrognathia to correct malocclusion.</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_treatment_o_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_treatment_o_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Cleft palate</bold>
+</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_treatment_o_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">Mgmt per craniofacial specialists incl feeding/nutrition mgmt</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_treatment_o_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_treatment_o_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Ocular manifestations</bold>
+</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_treatment_o_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1"><list list-type="bullet"><list-item><p>Laser therapy for prevention of retinal detachment&#x000a0;<sup>1</sup></p></list-item><list-item><p>Education on risk &#x00026; symptoms of retinal detachment &#x00026; need for immediate eval &#x00026; treatment</p></list-item><list-item><p>Refractive errors should be corrected w/spectacles.</p></list-item></list>
+</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_treatment_o_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_treatment_o_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Hearing impairment</bold>
+</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_treatment_o_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1"><list list-type="bullet"><list-item><p>See <related-object link-type="booklink" source-id="gene" document-id="deafness-overview" document-type="book-part">Genetic Hearing Loss Overview</related-object>.</p></list-item><list-item><p>Prompt treatment of otitis media</p></list-item><list-item><p>Consider myringotomy tubes for recurrent otitis media.</p></list-item></list>
+</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_treatment_o_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_treatment_o_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Early-onset arthropathy</bold>
+</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_treatment_o_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">Symptomatic treatment incl over-the-counter anti-inflammatory medications before &#x00026; after physical activity</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_treatment_o_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">At present, no prophylactic therapies to minimize joint damage in affected persons exist.</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_treatment_o_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Spinal &#x00026; other osteoarticular abnormalities</bold>
+</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_treatment_o_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">Treatment per orthopedist</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_treatment_o_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1"/>
+                </tr>
+              </tbody>
+            </table>
+            <table-wrap-foot>
+              <fn>
+                <p>PRS = Pierre Robin sequence</p>
+              </fn>
+              <fn id="stickler.TF.6.1">
+                <label>1. </label>
+                <p>
+<xref ref-type="bibr" rid="stickler.REF.morris.2021.19">Morris et al [2021]</xref>
+</p>
+              </fn>
+            </table-wrap-foot>
+          </table-wrap>
+        </sec>
+        <sec id="stickler.Surveillance">
+          <title>Surveillance</title>
+          <p>To monitor existing manifestations, the individual's response to supportive care, and the emergence of new manifestations, the evaluations summarized in <xref ref-type="table" rid="stickler.T.stickler_syndrome_recommended_1">Table 7</xref> are recommended.</p>
+          <table-wrap id="stickler.T.stickler_syndrome_recommended_1" orientation="portrait" position="anchor">
+            <label>Table 7. </label>
+            <caption>
+              <p>Stickler Syndrome: Recommended Surveillance</p>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <thead>
+                <tr>
+                  <th id="hd_h_stickler.T.stickler_syndrome_recommended_1_1_1_1_1" valign="middle" align="left" scope="col" rowspan="1" colspan="1">System/Concern</th>
+                  <th id="hd_h_stickler.T.stickler_syndrome_recommended_1_1_1_1_2" valign="middle" align="left" scope="col" rowspan="1" colspan="1">Evaluation</th>
+                  <th id="hd_h_stickler.T.stickler_syndrome_recommended_1_1_1_1_3" valign="middle" align="left" scope="col" rowspan="1" colspan="1">Frequency</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_recommended_1_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Eyes</bold>
+</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_recommended_1_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">Exam by vitreoretinal specialist</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_recommended_1_1_1_1_3" rowspan="2" valign="middle" align="left" colspan="1">Annually</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_recommended_1_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Hearing</bold>
+</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_recommended_1_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">Audiologic eval</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_recommended_1_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Orthopedic</bold>
+</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_recommended_1_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">Clinical &#x00026; radiographic assessment for joint &#x00026; spine manifestations</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_recommended_1_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">As needed</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </sec>
+        <sec id="stickler.AgentsCircumstances_to_Avoid">
+          <title>Agents/Circumstances to Avoid</title>
+          <p>Affected individuals should be advised to avoid activities that may lead to traumatic retinal detachment (e.g., contact sports).</p>
+          <p>Some physicians recommend avoiding physical activities that involve high impact to the joints to delay the onset of the arthropathy. While this recommendation seems logical, there are no data to support it.</p>
+        </sec>
+        <sec id="stickler.Evaluation_of_Relatives_at_Risk">
+          <title>Evaluation of Relatives at Risk</title>
+          <p>Because of the variable expression of Stickler syndrome, it is appropriate to evaluate the older and younger sibs of a proband as well as other at-risk relatives in order to identify those who warrant ongoing evaluation (see <xref ref-type="sec" rid="stickler.Surveillance">Surveillance</xref>). Evaluation can be done in one of two ways:</p>
+          <list list-type="bullet">
+            <list-item>
+              <p>Documentation of medical history, physical examination, and ophthalmologic, audiologic, and radiographic assessments. The examination of childhood photographs may be helpful in the assessment of craniofacial findings of adults, since the craniofacial findings characteristic of Stickler syndrome may become less distinctive with age.</p>
+            </list-item>
+            <list-item>
+              <p>Molecular genetic testing if the pathogenic variant(s) in the family are known</p>
+            </list-item>
+          </list>
+          <p>It is recommended that relatives at risk in whom the diagnosis of Stickler syndrome cannot be excluded with certainty be followed for potential complications.</p>
+          <p>See <xref ref-type="sec" rid="stickler.Related_Genetic_Counseling_Issu">Genetic Counseling</xref> for issues related to testing of at-risk relatives for genetic counseling purposes.</p>
+        </sec>
+        <sec id="stickler.Therapies_Under_Investigation">
+          <title>Therapies Under Investigation</title>
+          <p>Search <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/">ClinicalTrials.gov</ext-link> in the US and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.clinicaltrialsregister.eu/ctr-search/search">EU Clinical Trials Register</ext-link> in Europe for access to information on clinical studies for a wide range of diseases and conditions. Note: There may not be clinical trials for this disorder.</p>
+        </sec>
+      </sec>
+      <sec id="stickler.Genetic_Counseling">
+        <title>Genetic Counseling</title>
+        <p content-type="genetic_counseling">
+<italic toggle="yes">Genetic counseling is the process of providing individuals and families with
+information on the nature, mode(s) of inheritance, and implications of genetic disorders to help them
+make informed medical and personal decisions. The following section deals with genetic
+risk assessment and the use of family history and genetic testing to clarify genetic
+status for family members; it is not meant to address all personal, cultural, or
+ethical issues that may arise or to substitute for consultation with a genetics
+professional</italic>. &#x02014;ED.</p>
+        <sec id="stickler.Mode_of_Inheritance">
+          <title>Mode of Inheritance</title>
+          <p>Stickler syndrome caused by a heterozygous pathogenic variant in <italic toggle="yes">COL2A1</italic>, <italic toggle="yes">COL11A1</italic>, or <italic toggle="yes">COL11A2</italic> is inherited in an autosomal dominant manner.</p>
+          <p>Stickler syndrome caused by biallelic pathogenic variants in <italic toggle="yes">COL9A1</italic>, <italic toggle="yes">COL9A2</italic>, <italic toggle="yes">or COL9A3</italic> is inherited in an autosomal recessive manner.</p>
+        </sec>
+        <sec id="stickler.Autosomal_Dominant_Inheritance">
+          <title>Autosomal Dominant Inheritance &#x02013; Risk to Family Members</title>
+          <p>
+<bold>Parents of a proband</bold>
+</p>
+          <list list-type="bullet">
+            <list-item>
+              <p>The majority of individuals with autosomal dominant Stickler syndrome have an affected parent.</p>
+            </list-item>
+            <list-item>
+              <p>A proband with Stickler syndrome may have the disorder as the result of a <italic toggle="yes">COL2A1</italic>, <italic toggle="yes">COL11A1</italic>, or <italic toggle="yes">COL11A2</italic> pathogenic variant that occurred as a <italic toggle="yes">de novo</italic> event in the proband or as a postzygotic <italic toggle="yes">de novo</italic> event in a mosaic, apparently unaffected parent. The proportion of individuals with Stickler syndrome caused by a <italic toggle="yes">de novo</italic> pathogenic variant is unknown.</p>
+            </list-item>
+            <list-item>
+              <p>If the proband appears to be the only affected family member (i.e., a simplex case), recommendations for the parents of the proband include:</p>
+              <list list-type="bullet">
+                <list-item>
+                  <p>Evaluation of both parents for manifestations of Stickler syndrome (see <xref ref-type="sec" rid="stickler.Management">Management</xref>);</p>
+                </list-item>
+                <list-item>
+                  <p>If a molecular diagnosis has been established in the proband, molecular genetic testing to confirm the genetic status of the parents and to allow reliable recurrence risk counseling.</p>
+                </list-item>
+              </list>
+            </list-item>
+            <list-item>
+              <p>If the proband has a known pathogenic variant that is not identified in either parent and parental identity testing has confirmed biological maternity and paternity, the following possibilities should be considered:</p>
+              <list list-type="bullet">
+                <list-item>
+                  <p>The proband has a <italic toggle="yes">de novo</italic> pathogenic variant.</p>
+                </list-item>
+                <list-item>
+                  <p>The proband inherited a pathogenic variant from a parent with germline (or somatic and germline) mosaicism&#x000a0;* [<xref ref-type="bibr" rid="stickler.REF.nagendran.2012.1204">Nagendran et al 2012</xref>, <xref ref-type="bibr" rid="stickler.REF.stevenson.2012.418">Stevenson et al 2012</xref>]. Note: Testing of parental leukocyte DNA may not detect all instances of somatic mosaicism and will not detect a pathogenic variant that is present in the germ cells only.</p>
+                  <p>*&#x000a0;A parent with somatic and germline mosaicism for a Stickler syndrome-related pathogenic variant may be mildly/minimally affected [<xref ref-type="bibr" rid="stickler.REF.nagendran.2012.1204">Nagendran et al 2012</xref>, <xref ref-type="bibr" rid="stickler.REF.lauritsen.2017.275">Lauritsen et al 2017</xref>].</p>
+                </list-item>
+              </list>
+            </list-item>
+          </list>
+          <p><bold>Sibs of a proband.</bold> The risk to sibs depends on the genetic status of the parents:</p>
+          <list list-type="bullet">
+            <list-item>
+              <p>If a parent has autosomal dominant Stickler syndrome, the risk to each sib of a proband is 50%. Clinical variability is common among affected family members; however, some generalities can be made regarding genotype-phenotype correlation (see <xref ref-type="sec" rid="stickler.GenotypePhenotype_Correlations">Genotype-Phenotype Correlations</xref>).</p>
+            </list-item>
+            <list-item>
+              <p>If the proband has a known <italic toggle="yes">COL2A1</italic>, <italic toggle="yes">COL11A1</italic>, or <italic toggle="yes">COL11A2</italic> pathogenic variant that cannot be detected in the leukocyte DNA of either parent, the recurrence risk to sibs is estimated to be slightly greater than that of the general population because of the possibility of parental mosaicism [<xref ref-type="bibr" rid="stickler.REF.nagendran.2012.1204">Nagendran et al 2012</xref>, <xref ref-type="bibr" rid="stickler.REF.stevenson.2012.418">Stevenson et al 2012</xref>, <xref ref-type="bibr" rid="stickler.REF.lauritsen.2017.275">Lauritsen et al 2017</xref>].</p>
+            </list-item>
+            <list-item>
+              <p>If the parents are clinically unaffected but their genetic status is unknown, the risk to the sibs of a proband appears to be low but increased over that of the general population because of the possibility of parental germline mosaicism.</p>
+            </list-item>
+          </list>
+          <p><bold>Offspring of a proband.</bold> Each child of an individual with autosomal dominant Stickler syndrome has a 50% chance of inheriting the pathogenic variant.</p>
+          <p><bold>Other family members.</bold> The risk to other family members depends on the status of the proband's parents: if a parent is affected, the parent's family members may be at risk.</p>
+        </sec>
+        <sec id="stickler.Autosomal_Recessive_Inheritance">
+          <title>Autosomal Recessive Inheritance &#x02013; Risk to Family Members</title>
+          <p>
+<bold>Parents of a proband</bold>
+</p>
+          <list list-type="bullet">
+            <list-item>
+              <p>The parents of a child with Stickler syndrome caused by biallelic pathogenic variants in <italic toggle="yes">COL9A1</italic>, <italic toggle="yes">COL9A2</italic>, or <italic toggle="yes">COL9A3</italic> are presumed to be heterozygous for a pathogenic variant.</p>
+            </list-item>
+            <list-item>
+              <p>If a molecular diagnosis has been established in the proband, molecular genetic testing is recommended for the parents of a proband to confirm that both parents are heterozygous for a <italic toggle="yes">COL9A1</italic>, <italic toggle="yes">COL9A2</italic>, or <italic toggle="yes">COL9A3</italic> pathogenic variant and to allow reliable recurrence risk assessment.</p>
+            </list-item>
+            <list-item>
+              <p>If a pathogenic variant is detected in only one parent and parental identity testing has confirmed biological maternity and paternity, it is possible that one of the pathogenic variants identified in the proband occurred as a <italic toggle="yes">de novo</italic> event in the proband or as a postzygotic <italic toggle="yes">de novo</italic> event in a mosaic parent [<xref ref-type="bibr" rid="stickler.REF.j_nsson.2017.519">J&#x000f3;nsson et al 2017</xref>]. If the proband appears to have homozygous pathogenic variants (i.e., the same two pathogenic variants), additional possibilities to consider include:</p>
+              <list list-type="bullet">
+                <list-item>
+                  <p>A single- or multiexon deletion in the proband that was not detected by sequence analysis and that resulted in the artifactual appearance of homozygosity;</p>
+                </list-item>
+                <list-item>
+                  <p>Uniparental isodisomy for the parental chromosome with the pathogenic variant that resulted in homozygosity for the pathogenic variant in the proband.</p>
+                </list-item>
+              </list>
+            </list-item>
+            <list-item>
+              <p>Heterozygotes (carriers) are asymptomatic and are not at risk of developing the disorder.</p>
+            </list-item>
+          </list>
+          <p>
+<bold>Sibs of a proband</bold>
+</p>
+          <list list-type="bullet">
+            <list-item>
+              <p>If both parents are known to be heterozygous for a <italic toggle="yes">COL9A1</italic>, <italic toggle="yes">COL9A2</italic>, or <italic toggle="yes">COL9A3</italic> pathogenic variant, each sib of an affected individual has at conception a 25% chance of being affected, a 50% chance of being an asymptomatic carrier, and a 25% chance of being unaffected and not a carrier.</p>
+            </list-item>
+            <list-item>
+              <p>Heterozygotes (carriers) are asymptomatic and are not at risk of developing the disorder.</p>
+            </list-item>
+          </list>
+          <p><bold>Offspring of a proband.</bold> The offspring of an individual with autosomal recessive Stickler syndrome are obligate heterozygotes (carriers) for a pathogenic variant.</p>
+          <p><bold>Other family members.</bold> Each sib of the proband's parents is at a 50% risk of being a carrier of a pathogenic variant.</p>
+          <p><bold>Carrier detection.</bold> Carrier testing for at-risk relatives requires prior identification of the <italic toggle="yes">COL9A1</italic>, <italic toggle="yes">COL9A2</italic>, or <italic toggle="yes">COL9A3</italic> pathogenic variants in the family.</p>
+        </sec>
+        <sec id="stickler.Related_Genetic_Counseling_Issu">
+          <title>Related Genetic Counseling Issues</title>
+          <p>See Management, <xref ref-type="sec" rid="stickler.Evaluation_of_Relatives_at_Risk">Evaluation of Relatives at Risk</xref> for information on evaluating at-risk relatives for the purpose of early diagnosis and treatment.</p>
+          <p>
+<bold>Family planning</bold>
+</p>
+          <list list-type="bullet">
+            <list-item>
+              <p>The optimal time for determination of genetic risk and discussion of the availability of prenatal/preimplantation genetic testing is before pregnancy.</p>
+            </list-item>
+            <list-item>
+              <p>It is appropriate to offer genetic counseling (including discussion of potential risks to offspring and reproductive options) to young adults who are affected with Stickler syndrome or are carriers (or are at risk of being carriers) of autosomal recessive Stickler syndrome.</p>
+            </list-item>
+          </list>
+          <p><bold>DNA banking.</bold> Because it is likely that testing methodology and our understanding of genes, pathogenic mechanisms, and diseases will improve in the future, consideration should be given to banking DNA from probands in whom a molecular diagnosis has not been confirmed (i.e., the causative pathogenic mechanism is unknown). For more information, see <xref ref-type="bibr" rid="stickler.REF.huang.2022.389">Huang et al [2022]</xref>.</p>
+        </sec>
+        <sec id="stickler.Prenatal_Testing_and_Preimplant">
+          <title>Prenatal Testing and Preimplantation Genetic Testing</title>
+          <p>
+<bold>High-risk pregnancies</bold>
+</p>
+          <list list-type="bullet">
+            <list-item>
+              <p><bold>Molecular genetic testing.</bold> Once the Stickler syndrome-related pathogenic variant(s) have been identified in an affected family member, prenatal and preimplantation genetic testing are possible.</p>
+            </list-item>
+            <list-item>
+              <p><bold>Ultrasound evaluation.</bold> Alternatively, or in conjunction with molecular genetic testing, ultrasound examination can be performed at 19-20 weeks' gestation to detect cleft palate. Absence of a cleft palate, however, does not exclude the diagnosis of Stickler syndrome.</p>
+            </list-item>
+          </list>
+          <p><bold>Low-risk pregnancies.</bold> For fetuses with no known family history of Stickler syndrome, but in which cleft palate is detected prenatally, it is appropriate to obtain a three-generation pedigree and to evaluate relatives who have findings suggestive of Stickler syndrome. Molecular genetic testing of the fetus is usually not offered in the absence of a known pathogenic variant in a parent.</p>
+          <p>Differences in perspective may exist among medical professionals and within families regarding the use of prenatal and preimplantation genetic testing. While most health care professionals would consider use of prenatal and preimplantation genetic testing to be a personal decision, discussion of these issues may be helpful.</p>
+        </sec>
+      </sec>
+      <sec id="stickler.Resources">
+        <title>Resources</title>
+        <p content-type="resources">
+<italic toggle="yes">GeneReviews staff has selected the following disease-specific and/or umbrella
+support organizations and/or registries for the benefit of individuals with this disorder
+and their families. GeneReviews is not responsible for the information provided by other
+organizations. For information on selection criteria, click <related-object source-id="gene" document-id="app4">here</related-object>.</italic></p>
+        <p specific-use="from-external-xml">
+          <list list-type="bullet" list-content="resource-list">
+            <list-item>
+              <p>
+                <bold>MedlinePlus</bold>
+              </p>
+              <p>
+                <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://medlineplus.gov/genetics/condition/stickler-syndrome/">Stickler syndrome</ext-link>
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>Stickler Involved People </bold>
+              </p>
+              <p>
+                <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.sticklers.org">sticklers.org</ext-link>
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>Stickler Syndrome UK</bold>
+              </p>
+              <p>United Kingdom</p>
+              <p><bold>Phone:</bold> 0800 066 8273</p>
+              <p><bold>Email:</bold> contact@stickler.org.uk</p>
+              <p>
+                <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.stickler.org.uk">stickler.org.uk</ext-link>
+              </p>
+            </list-item>
+          </list>
+        </p>
+      </sec>
+      <sec id="stickler.Molecular_Genetics">
+        <title>Molecular Genetics</title>
+        <p specific-use="from-external-xml" content-type="molecular_genetics"><italic>Information in the Molecular Genetics and OMIM tables may differ from that elsewhere in the GeneReview: tables may contain more recent information. &#x02014;</italic>ED.</p>
+        <table-wrap specific-use="from-external-xml" id="stickler.molgen.TA" position="anchor">
+          <label>Table A.</label>
+          <caption>
+            <p>Stickler Syndrome: Genes and Databases</p>
+          </caption>
+          <table>
+            <tbody>
+              <tr>
+                <th>Gene</th>
+                <th>Chromosome Locus</th>
+                <th>Protein</th>
+                <th>Locus-Specific Databases</th>
+                <th>HGMD</th>
+                <th>ClinVar</th>
+              </tr>
+              <tr>
+                <td>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="gene" xlink:href="1280" xlink:type="simple">
+                    <italic>COL2A1</italic>
+                  </ext-link>
+                </td>
+                <td>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/genome/gdv/?context=gene&#x00026;acc=1280" xlink:type="simple">12q13.11</ext-link>
+                </td>
+                <td>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.uniprot.org/uniprot/P02458" xlink:type="simple">Collagen alpha-1(II) chain</ext-link>
+                </td>
+                <td>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://databases.lovd.nl/shared/genes/COL2A1" xlink:type="simple">COL2A1 database</ext-link>
+                </td>
+                <td>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.hgmd.cf.ac.uk/ac/gene.php?gene=COL2A1" xlink:type="simple">COL2A1</ext-link>
+                </td>
+                <td>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/clinvar/?term=COL2A1[gene]" xlink:type="simple">COL2A1</ext-link>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="gene" xlink:href="1297" xlink:type="simple">
+                    <italic>COL9A1</italic>
+                  </ext-link>
+                </td>
+                <td>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/genome/gdv/?context=gene&#x00026;acc=1297" xlink:type="simple">6q13</ext-link>
+                </td>
+                <td>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.uniprot.org/uniprot/P20849" xlink:type="simple">Collagen alpha-1(IX) chain</ext-link>
+                </td>
+                <td>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://databases.lovd.nl/shared/genes/COL9A1" xlink:type="simple">COL9A1 database</ext-link>
+                </td>
+                <td>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.hgmd.cf.ac.uk/ac/gene.php?gene=COL9A1" xlink:type="simple">COL9A1</ext-link>
+                </td>
+                <td>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/clinvar/?term=COL9A1[gene]" xlink:type="simple">COL9A1</ext-link>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="gene" xlink:href="1298" xlink:type="simple">
+                    <italic>COL9A2</italic>
+                  </ext-link>
+                </td>
+                <td>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/genome/gdv/?context=gene&#x00026;acc=1298" xlink:type="simple">1p34.2</ext-link>
+                </td>
+                <td>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.uniprot.org/uniprot/Q14055" xlink:type="simple">Collagen alpha-2(IX) chain</ext-link>
+                </td>
+                <td>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://databases.lovd.nl/shared/genes/COL9A2" xlink:type="simple">COL9A2 database</ext-link>
+                </td>
+                <td>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.hgmd.cf.ac.uk/ac/gene.php?gene=COL9A2" xlink:type="simple">COL9A2</ext-link>
+                </td>
+                <td>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/clinvar/?term=COL9A2[gene]" xlink:type="simple">COL9A2</ext-link>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="gene" xlink:href="1299" xlink:type="simple">
+                    <italic>COL9A3</italic>
+                  </ext-link>
+                </td>
+                <td>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/genome/gdv/?context=gene&#x00026;acc=1299" xlink:type="simple">20q13.33</ext-link>
+                </td>
+                <td>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.uniprot.org/uniprot/Q14050" xlink:type="simple">Collagen alpha-3(IX) chain</ext-link>
+                </td>
+                <td>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://databases.lovd.nl/shared/genes/COL9A3" xlink:type="simple">COL9A3 database</ext-link>
+                </td>
+                <td>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.hgmd.cf.ac.uk/ac/gene.php?gene=COL9A3" xlink:type="simple">COL9A3</ext-link>
+                </td>
+                <td>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/clinvar/?term=COL9A3[gene]" xlink:type="simple">COL9A3</ext-link>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="gene" xlink:href="1301" xlink:type="simple">
+                    <italic>COL11A1</italic>
+                  </ext-link>
+                </td>
+                <td>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/genome/gdv/?context=gene&#x00026;acc=1301" xlink:type="simple">1p21.1</ext-link>
+                </td>
+                <td>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.uniprot.org/uniprot/P12107" xlink:type="simple">Collagen alpha-1(XI) chain</ext-link>
+                </td>
+                <td>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://lovd.nl/COL11A1" xlink:type="simple">COL11A1 database</ext-link>
+                </td>
+                <td>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.hgmd.cf.ac.uk/ac/gene.php?gene=COL11A1" xlink:type="simple">COL11A1</ext-link>
+                </td>
+                <td>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/clinvar/?term=COL11A1[gene]" xlink:type="simple">COL11A1</ext-link>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="gene" xlink:href="1302" xlink:type="simple">
+                    <italic>COL11A2</italic>
+                  </ext-link>
+                </td>
+                <td>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/genome/gdv/?context=gene&#x00026;acc=1302" xlink:type="simple">6p21.32</ext-link>
+                </td>
+                <td>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.uniprot.org/uniprot/P13942" xlink:type="simple">Collagen alpha-2(XI) chain</ext-link>
+                </td>
+                <td>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://hereditaryhearingloss.org" xlink:type="simple">Hereditary Hearing Loss Homepage (COL11A2)</ext-link>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://lovd.nl/COL11A2" xlink:type="simple">COL11A2 database</ext-link>
+                </td>
+                <td>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.hgmd.cf.ac.uk/ac/gene.php?gene=COL11A2" xlink:type="simple">COL11A2</ext-link>
+                </td>
+                <td>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/clinvar/?term=COL11A2[gene]" xlink:type="simple">COL11A2</ext-link>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn id="stickler.TFA.1">
+              <p>Data are compiled from the following standard references: gene from
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.genenames.org/index.html" xlink:type="simple">HGNC</ext-link>;
+chromosome locus from
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.omim.org/" xlink:type="simple">OMIM</ext-link>;
+protein from <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.uniprot.org/" xlink:type="simple">UniProt</ext-link>.
+For a description of databases (Locus Specific, HGMD, ClinVar) to which links are provided, click
+<related-object link-type="booklink" source-id="gene" source-id-type="pmcid" document-id="app1" document-type="app">here</related-object>.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <table-wrap specific-use="from-external-xml" id="stickler.molgen.TB" position="anchor">
+          <label>Table B.</label>
+          <caption>
+            <p>OMIM Entries for Stickler Syndrome (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="omim" xlink:href="108300,120140,120210,120260,120270,120280,120290,184840,604841,614134,614284" xlink:type="simple">View All in OMIM</ext-link>) </p>
+          </caption>
+          <table>
+            <tbody>
+              <tr>
+                <td align="left" valign="top">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="omim" xlink:href="108300" xlink:type="simple">108300</ext-link></td>
+                <td align="left" valign="top">STICKLER SYNDROME, TYPE I; STL1</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="omim" xlink:href="120140" xlink:type="simple">120140</ext-link></td>
+                <td align="left" valign="top">COLLAGEN, TYPE II, ALPHA-1; COL2A1</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="omim" xlink:href="120210" xlink:type="simple">120210</ext-link></td>
+                <td align="left" valign="top">COLLAGEN, TYPE IX, ALPHA-1; COL9A1</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="omim" xlink:href="120260" xlink:type="simple">120260</ext-link></td>
+                <td align="left" valign="top">COLLAGEN, TYPE IX, ALPHA-2; COL9A2</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="omim" xlink:href="120270" xlink:type="simple">120270</ext-link></td>
+                <td align="left" valign="top">COLLAGEN, TYPE IX, ALPHA-3; COL9A3</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="omim" xlink:href="120280" xlink:type="simple">120280</ext-link></td>
+                <td align="left" valign="top">COLLAGEN, TYPE XI, ALPHA-1; COL11A1</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="omim" xlink:href="120290" xlink:type="simple">120290</ext-link></td>
+                <td align="left" valign="top">COLLAGEN, TYPE XI, ALPHA-2; COL11A2</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="omim" xlink:href="184840" xlink:type="simple">184840</ext-link></td>
+                <td align="left" valign="top">OTOSPONDYLOMEGAEPIPHYSEAL DYSPLASIA, AUTOSOMAL DOMINANT; OSMEDA</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="omim" xlink:href="604841" xlink:type="simple">604841</ext-link></td>
+                <td align="left" valign="top">STICKLER SYNDROME, TYPE II; STL2</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="omim" xlink:href="614134" xlink:type="simple">614134</ext-link></td>
+                <td align="left" valign="top">STICKLER SYNDROME, TYPE IV; STL4</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="omim" xlink:href="614284" xlink:type="simple">614284</ext-link></td>
+                <td align="left" valign="top">STICKLER SYNDROME, TYPE V; STL5</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <sec id="stickler.Molecular_Pathogenesis">
+          <title>Molecular Pathogenesis</title>
+          <p><italic toggle="yes">COL2A1</italic> encodes the alpha 1 chain of type II collagen, the major structural fibrillar component of hyaline cartilage. <italic toggle="yes">COL2A1</italic> pathogenic variants typically result in premature termination of translation and decreased synthesis of type II collagen.</p>
+          <p><italic toggle="yes">COL11A1</italic> encodes the alpha 1 chain of type XI collagen. Type XI collagen is presumed to play an important role in fibrillogenesis of type II collagen by controlling lateral growth of collagen fibrils. Pathogenic variants in <italic toggle="yes">COL11A1</italic> generally have a dominant-negative effect on formation of the type XI collagen heterotrimer.</p>
+          <p><italic toggle="yes">COL11A2</italic> codes for the alpha 2 chain of type XI collagen. It is expressed in cartilage but not in adult liver, skin, tendon, or vitreous. The latter explains the absence of ocular features in <italic toggle="yes">COL11A2</italic>-related Stickler syndrome. Pathogenic variants of <italic toggle="yes">COL11A2</italic> generally have a dominant-negative effect on formation of the type XI collagen heterotrimer.</p>
+          <p><italic toggle="yes">COL9A1</italic> encodes the alpha 1 chain, <italic toggle="yes">COL9A2</italic> encodes the alpha 2 chain, and <italic toggle="yes">COL9A3</italic> encodes the alpha 3 chain of type IX collagen. Type IX collagen is a structural component of hyaline cartilage, vitreous of the eye, and intervertebral disc. The type IX collagen heterotrimer is located on the outside of the collagen type II/XI fibril. It forms a bridge between the collagen fibril and other structural components of the cartilaginous matrix.</p>
+          <table-wrap id="stickler.T.stickler_syndrome_genespecifi" orientation="portrait" position="anchor">
+            <label>Table 8. </label>
+            <caption>
+              <p>Stickler Syndrome: Gene-Specific Mechanism of Disease Causation</p>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <thead>
+                <tr>
+                  <th id="hd_h_stickler.T.stickler_syndrome_genespecifi_1_1_1_1" valign="middle" align="left" scope="col" rowspan="1" colspan="1">Gene&#x000a0;<sup>1</sup></th>
+                  <th id="hd_h_stickler.T.stickler_syndrome_genespecifi_1_1_1_2" valign="middle" align="left" scope="col" rowspan="1" colspan="1">Mechanism of Disease Causation</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_genespecifi_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">COL2A1</italic>
+</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_genespecifi_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">Loss of function</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_genespecifi_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">COL9A1</italic>
+<break/>
+<italic toggle="yes">COL9A2</italic>
+<break/>
+<italic toggle="yes">COL9A3</italic>
+</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_genespecifi_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">Loss of function</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_genespecifi_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">COL11A1</italic>
+<break/>
+<italic toggle="yes">COL11A2</italic>
+</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_genespecifi_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">Dominant-negative effect</td>
+                </tr>
+              </tbody>
+            </table>
+            <table-wrap-foot>
+              <fn id="stickler.TF.8.1">
+                <label>1. </label>
+                <p>Genes are in alphabetic order.</p>
+              </fn>
+            </table-wrap-foot>
+          </table-wrap>
+          <table-wrap id="stickler.T.stickler_syndrome_genespecifi_1" orientation="portrait" position="anchor">
+            <label>Table 9. </label>
+            <caption>
+              <p>Stickler Syndrome: Gene-Specific Laboratory Considerations</p>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <thead>
+                <tr>
+                  <th id="hd_h_stickler.T.stickler_syndrome_genespecifi_1_1_1_1_1" valign="middle" align="left" scope="col" rowspan="1" colspan="1">Gene&#x000a0;<sup>1</sup></th>
+                  <th id="hd_h_stickler.T.stickler_syndrome_genespecifi_1_1_1_1_2" valign="middle" align="left" scope="col" rowspan="1" colspan="1">Special Consideration(s)</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_genespecifi_1_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">COL2A1</italic>
+</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_genespecifi_1_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">Intragenic &#x00026; whole-gene deletions have been identified. Mosaicism has been reported.</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_genespecifi_1_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">
+<italic toggle="yes">COL11A1</italic>
+</td>
+                  <td headers="hd_h_stickler.T.stickler_syndrome_genespecifi_1_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">Mosaicism has been reported.</td>
+                </tr>
+              </tbody>
+            </table>
+            <table-wrap-foot>
+              <fn id="stickler.TF.9.1">
+                <label>1. </label>
+                <p>Genes are in alphabetic order.</p>
+              </fn>
+            </table-wrap-foot>
+          </table-wrap>
+        </sec>
+      </sec>
+      <sec id="stickler.Chapter_Notes">
+        <title>Chapter Notes</title>
+        <sec id="stickler.Author_History">
+          <title>Author History</title>
+          <p>Leena Ala-Kokko, MD, PhD; Connective Tissue Gene Tests (2000-2023)Rocio T Moran, MD, The MetroHealth System (2000-2023)Geert Mortier, MD, PhD (2023-present) Nathaniel H Robin, MD; University of Alabama (2000-2023)Matthew Warman, MD; Children's Hospital Boston (2000-2011)</p>
+        </sec>
+        <sec id="stickler.Revision_History">
+          <title>Revision History</title>
+          <list list-type="bullet">
+            <list-item>
+              <p>7 September 2023 (sw) Comprehensive update posted live</p>
+            </list-item>
+            <list-item>
+              <p>16 March 2017 (ha) Comprehensive update posted live</p>
+            </list-item>
+            <list-item>
+              <p>11 September 2014 (me) Comprehensive update posted live</p>
+            </list-item>
+            <list-item>
+              <p>3 November 2011 (me) Comprehensive update posted live</p>
+            </list-item>
+            <list-item>
+              <p>20 August 2009 (me) Comprehensive update posted live</p>
+            </list-item>
+            <list-item>
+              <p>2 August 2005 (me) Comprehensive update posted live</p>
+            </list-item>
+            <list-item>
+              <p>16 June 2003 (ca) Comprehensive update posted live</p>
+            </list-item>
+            <list-item>
+              <p>9 June 2000 (me) Review posted live</p>
+            </list-item>
+            <list-item>
+              <p>31 August 1999 (nr) Original submission</p>
+            </list-item>
+          </list>
+        </sec>
+      </sec>
+      <sec id="stickler.References">
+        <title>References</title>
+        <sec id="stickler.Literature_Cited">
+          <title>Literature Cited</title>
+          <ref-list id="stickler.Literature_Cited.reflist0">
+            <ref id="stickler.REF.acke.2014.230">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Acke</surname>
+<given-names>FR</given-names></string-name>, <string-name name-style="western"><surname>Malfait</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Vanakker</surname>
+<given-names>OM</given-names></string-name>, <string-name name-style="western"><surname>Steyaert</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>De Leeneer</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Mortier</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Dhooge</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>De Paepe</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>De Leenheer</surname>
+<given-names>EM</given-names></string-name>, <string-name name-style="western"><surname>Coucke</surname>
+<given-names>PJ</given-names></string-name>. <article-title>Novel pathogenic COL11A1/COL11A2 variants in Stickler syndrome detected by targeted NGS and exome sequencing.</article-title>
+<source>Mol Genet Metab.</source>
+<year>2014</year>;<volume>113</volume>:<fpage>230</fpage>-<lpage>5</lpage>.<pub-id pub-id-type="pmid">25240749</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.acke.2022.1571">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Acke</surname>
+<given-names>FRE</given-names></string-name>, <string-name name-style="western"><surname>De Leenheer</surname>
+<given-names>EMR</given-names></string-name>. <article-title>Hearing loss in Stickler syndrome: an update.</article-title>
+<source>Genes (Basel)</source>. <year>2022</year>;<volume>13</volume>:<fpage>1571</fpage>.<pub-id pub-id-type="pmid">36140739</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.alexander.2022.1150">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Alexander</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Snead</surname>
+<given-names>MP</given-names></string-name>. <article-title>Prevention of blindness in Stickler syndrome.</article-title>
+<source>Genes (Basel)</source>. <year>2022</year>;<volume>13</volume>:<fpage>1150</fpage>.<pub-id pub-id-type="pmid">35885933</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.boothe.2020.105">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Boothe</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Morris</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Robin</surname>
+<given-names>N.</given-names></string-name>
+<article-title>Stickler syndrome: a review of clinical manifestations and the genetics evaluation.</article-title>
+<source>J Pers Med.</source>
+<year>2020</year>;<volume>10</volume>:<fpage>105</fpage>.<pub-id pub-id-type="pmid">32867104</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.boysen.2020.223">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Boysen</surname>
+<given-names>KB</given-names></string-name>, <string-name name-style="western"><surname>La Cour</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Kessel</surname>
+<given-names>L</given-names></string-name>. <article-title>Ocular complications and prophylactic strategies in Stickler syndrome: a systematic literature review.</article-title>
+<source>Ophthalmic Genet.</source>
+<year>2020</year>;<volume>41</volume>:<fpage>223</fpage>-<lpage>34</lpage>.<pub-id pub-id-type="pmid">32316871</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.choi.2021.1578">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Choi</surname>
+<given-names>SI</given-names></string-name>, <string-name name-style="western"><surname>Woo</surname>
+<given-names>SJ</given-names></string-name>, <string-name name-style="western"><surname>Oh</surname>
+<given-names>BL</given-names></string-name>, <string-name name-style="western"><surname>Han</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Lim</surname>
+<given-names>HT</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>BJ</given-names></string-name>, <string-name name-style="western"><surname>Joo</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Park</surname>
+<given-names>JY</given-names></string-name>, <string-name name-style="western"><surname>Jang</surname>
+<given-names>JH</given-names></string-name>, <string-name name-style="western"><surname>So</surname>
+<given-names>MK</given-names></string-name>, <string-name name-style="western"><surname>Kim</surname>
+<given-names>SJ</given-names></string-name>. <article-title>Genetic characteristics and phenotype of Korean patients with Stickler syndrome: a Korean multicenter analysis report no. 1.</article-title>
+<source>Genes (Basel)</source>. <year>2021</year>;<volume>12</volume>:<fpage>1578</fpage>.<pub-id pub-id-type="pmid">34680973</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.davies.2023.42">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Davies</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Davies</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Wren</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Deacon</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Cobb</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>McLean</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>David</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Chummun</surname>
+<given-names>S.</given-names></string-name>
+<article-title>Syndromes associated with Robin sequence: a national prospective cohort study.</article-title>
+<source>Arch Dis Child.</source>
+<year>2023</year>;<volume>108</volume>:<fpage>42</fpage>-<lpage>6</lpage>.<pub-id pub-id-type="pmid">36376018</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.donoso.2003.191">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Donoso</surname>
+<given-names>LA</given-names></string-name>, <string-name name-style="western"><surname>Edwards</surname>
+<given-names>AO</given-names></string-name>, <string-name name-style="western"><surname>Frost</surname>
+<given-names>AT</given-names></string-name>, <string-name name-style="western"><surname>Ritter</surname>
+<given-names>R</given-names>
+<suffix>3rd</suffix></string-name>, <string-name name-style="western"><surname>Ahmad</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Vrabec</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Rogers</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Meyer</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Parma</surname>
+<given-names>S</given-names></string-name>. <article-title>Clinical variability of Stickler syndrome: role of exon 2 of the collagen COL2A1 gene.</article-title>
+<source>Surv Ophthalmol.</source>
+<year>2003</year>;<volume>48</volume>:<fpage>191</fpage>-<lpage>203</lpage>.<pub-id pub-id-type="pmid">12686304</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.hoornaert.2010.872">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Hoornaert</surname>
+<given-names>KP</given-names></string-name>, <string-name name-style="western"><surname>Vereecke</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Dewinter</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Rosenberg</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Beemer</surname>
+<given-names>FA</given-names></string-name>, <string-name name-style="western"><surname>Leroy</surname>
+<given-names>JG</given-names></string-name>, <string-name name-style="western"><surname>Bendix</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Bj&#x000f6;rck</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Bonduelle</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Boute</surname>
+<given-names>O</given-names></string-name>, <string-name name-style="western"><surname>Cormier-Daire</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>De Die-Smulders</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Dieux-Coeslier</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Dollfus</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Elting</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Green</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Guerci</surname>
+<given-names>VI</given-names></string-name>, <string-name name-style="western"><surname>Hennekam</surname>
+<given-names>RC</given-names></string-name>, <string-name name-style="western"><surname>Hilhorts-Hofstee</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Holder</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Hoyng</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Jones</surname>
+<given-names>KJ</given-names></string-name>, <string-name name-style="western"><surname>Josifova</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Kaitila</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Kjaergaard</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Kroes</surname>
+<given-names>YH</given-names></string-name>, <string-name name-style="western"><surname>Lagerstedt</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Lees</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Lemerrer</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Magnani</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Marcelis</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Martorell</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Mathieu</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>McEntagart</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Mendicino</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Morton</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Orazio</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Paquis</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Reish</surname>
+<given-names>O</given-names></string-name>, <string-name name-style="western"><surname>Simola</surname>
+<given-names>KO</given-names></string-name>, <string-name name-style="western"><surname>Smithson</surname>
+<given-names>SF</given-names></string-name>, <string-name name-style="western"><surname>Temple</surname>
+<given-names>KI</given-names></string-name>, <string-name name-style="western"><surname>Van Aken</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Van Bever</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>van den Ende</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Van Hagen</surname>
+<given-names>JM</given-names></string-name>, <string-name name-style="western"><surname>Zelante</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Zordania</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>De Paepe</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Leroy</surname>
+<given-names>BP</given-names></string-name>, <string-name name-style="western"><surname>De Buyzere</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Coucke</surname>
+<given-names>PJ</given-names></string-name>, <string-name name-style="western"><surname>Mortier</surname>
+<given-names>GR</given-names></string-name>. <article-title>Stickler syndrome caused by COL2A1 mutations: genotype-phenotype correlation in a series of 100 patients.</article-title>
+<source>Eur J Hum Genet.</source>
+<year>2010</year>;<volume>18</volume>:<fpage>872</fpage>-<lpage>80</lpage>.<pub-id pub-id-type="pmid">20179744</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.huang.2022.389">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Huang</surname>
+<given-names>SJ</given-names></string-name>, <string-name name-style="western"><surname>Amendola</surname>
+<given-names>LM</given-names></string-name>, <string-name name-style="western"><surname>Sternen</surname>
+<given-names>DL</given-names></string-name>. <article-title>Variation among DNA banking consent forms: points for clinicians to bank on.</article-title>
+<source>J Community Genet.</source>
+<year>2022</year>;<volume>13</volume>:<fpage>389</fpage>-<lpage>97</lpage>.<pub-id pub-id-type="pmid">35834113</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.j_nsson.2017.519">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>J&#x000f3;nsson</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Sulem</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Kehr</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Kristmundsdottir</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Zink</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Hjartarson</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Hardarson</surname>
+<given-names>MT</given-names></string-name>, <string-name name-style="western"><surname>Hjorleifsson</surname>
+<given-names>KE</given-names></string-name>, <string-name name-style="western"><surname>Eggertsson</surname>
+<given-names>HP</given-names></string-name>, <string-name name-style="western"><surname>Gudjonsson</surname>
+<given-names>SA</given-names></string-name>, <string-name name-style="western"><surname>Ward</surname>
+<given-names>LD</given-names></string-name>, <string-name name-style="western"><surname>Arnadottir</surname>
+<given-names>GA</given-names></string-name>, <string-name name-style="western"><surname>Helgason</surname>
+<given-names>EA</given-names></string-name>, <string-name name-style="western"><surname>Helgason</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Gylfason</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Jonasdottir</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Jonasdottir</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Rafnar</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Frigge</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Stacey</surname>
+<given-names>SN</given-names></string-name>, <string-name name-style="western"><surname>Th Magnusson</surname>
+<given-names>O</given-names></string-name>, <string-name name-style="western"><surname>Thorsteinsdottir</surname>
+<given-names>U</given-names></string-name>, <string-name name-style="western"><surname>Masson</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Kong</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Halldorsson</surname>
+<given-names>BV</given-names></string-name>, <string-name name-style="western"><surname>Helgason</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Gudbjartsson</surname>
+<given-names>DF</given-names></string-name>, <string-name name-style="western"><surname>Stefansson</surname>
+<given-names>K</given-names></string-name>. <article-title>Parental influence on human germline de novo mutations in 1,548 trios from Iceland.</article-title>
+<source>Nature.</source>
+<year>2017</year>;<volume>549</volume>:<fpage>519</fpage>-<lpage>22</lpage>.<pub-id pub-id-type="pmid">28959963</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.karempelis.2020.109842">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Karempelis</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Hagen</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Morrell</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Roby</surname>
+<given-names>BB</given-names></string-name>. <article-title>Associated syndromes in patients with Pierre Robin sequence.</article-title>
+<source>Int J Pediatr Otorhinolaryngol.</source>
+<year>2020</year>;<volume>131</volume>:<elocation-id>109842</elocation-id>.<pub-id pub-id-type="pmid">31927149</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.khanna.2022.263">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Khanna</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Rodriguez</surname>
+<given-names>SH</given-names></string-name>, <string-name name-style="western"><surname>Blair</surname>
+<given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Wroblewski</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Shapiro</surname>
+<given-names>MJ</given-names></string-name>, <string-name name-style="western"><surname>Blair</surname>
+<given-names>MP</given-names></string-name>. <article-title>Laser prophylaxis in patients with Stickler syndrome.</article-title>
+<source>Ophthalmol Retina.</source>
+<year>2022</year>;<volume>6</volume>:<fpage>263</fpage>-<lpage>7</lpage>.<pub-id pub-id-type="pmid">34774838</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.lauritsen.2017.275">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Lauritsen</surname>
+<given-names>KF</given-names></string-name>, <string-name name-style="western"><surname>Lildballe</surname>
+<given-names>DL</given-names></string-name>, <string-name name-style="western"><surname>Coucke</surname>
+<given-names>PJ</given-names></string-name>, <string-name name-style="western"><surname>Monrad</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Larsen</surname>
+<given-names>DA</given-names></string-name>, <string-name name-style="western"><surname>Gregersen</surname>
+<given-names>PA</given-names></string-name>. <article-title>A mild form of Stickler syndrome type II caused by mosaicism of COL11A1.</article-title>
+<source>Eur J Med Genet.</source>
+<year>2017</year>;<volume>60</volume>:<fpage>275</fpage>-<lpage>8</lpage>.<pub-id pub-id-type="pmid">28315471</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.lee.2020.612">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Lee</surname>
+<given-names>AC</given-names></string-name>, <string-name name-style="western"><surname>Greaves</surname>
+<given-names>GH</given-names></string-name>, <string-name name-style="western"><surname>Rosenblatt</surname>
+<given-names>BJ</given-names></string-name>, <string-name name-style="western"><surname>Deramo</surname>
+<given-names>VA</given-names></string-name>, <string-name name-style="western"><surname>Shakin</surname>
+<given-names>EP</given-names></string-name>, <string-name name-style="western"><surname>Fastenberg</surname>
+<given-names>DM</given-names></string-name>, <string-name name-style="western"><surname>Ferrone</surname>
+<given-names>PJ</given-names></string-name>. <article-title>Long-term follow-up of retinal detachment repair in patients with Stickler syndrome.</article-title>
+<source>Ophthalmic Surg Lasers Imaging Retina.</source>
+<year>2020</year>;<volume>51</volume>:<fpage>612</fpage>-<lpage>6</lpage>.<pub-id pub-id-type="pmid">33231693</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.majava.2007.258">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Majava</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Hoornaert</surname>
+<given-names>KP</given-names></string-name>, <string-name name-style="western"><surname>Bartholdi</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Bouma</surname>
+<given-names>MC</given-names></string-name>, <string-name name-style="western"><surname>Bouman</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Carrera</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Devriendt</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Hurst</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Kitsos</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Niedrist</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Petersen</surname>
+<given-names>MB</given-names></string-name>, <string-name name-style="western"><surname>Shears</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Stolte-Dijkstra</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Van Hagen</surname>
+<given-names>JM</given-names></string-name>, <string-name name-style="western"><surname>Ala-Kokko</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>M&#x000e4;nnikk&#x000f6;</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Mortier</surname>
+<given-names>G</given-names></string-name>. <article-title>A report on 10 new patients with heterozygous mutations in the COL11A1 gene and a review of genotype-phenotype correlations in type XI collagenopathies.</article-title>
+<source>Am J Med Genet A.</source>
+<year>2007</year>;<volume>143A</volume>:<fpage>258</fpage>-<lpage>64</lpage><pub-id pub-id-type="pmid">17236192</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.morris.2021.19">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Morris</surname>
+<given-names>RE</given-names></string-name>, <string-name name-style="western"><surname>Parma</surname>
+<given-names>ES</given-names></string-name>, <string-name name-style="western"><surname>Robin</surname>
+<given-names>NH</given-names></string-name>, <string-name name-style="western"><surname>Sapp</surname>
+<given-names>MR</given-names></string-name>, <string-name name-style="western"><surname>Oltmanns</surname>
+<given-names>MH</given-names></string-name>, <string-name name-style="western"><surname>West</surname>
+<given-names>MR</given-names></string-name>, <string-name name-style="western"><surname>Fletcher</surname>
+<given-names>DC</given-names></string-name>, <string-name name-style="western"><surname>Schuchard</surname>
+<given-names>RA</given-names></string-name>, <string-name name-style="western"><surname>Kuhn</surname>
+<given-names>F</given-names></string-name>. <article-title>Stickler syndrome (SS): laser prophylaxis for retinal detachment (modified ora secunda cerclage, OSC/SS).</article-title>
+<source>Clin Ophthalmol.</source>
+<year>2021</year>;<volume>15</volume>:<fpage>19</fpage>-<lpage>29</lpage>.<pub-id pub-id-type="pmid">33447008</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.nagendran.2012.1204">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Nagendran</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Richards</surname>
+<given-names>AJ</given-names></string-name>, <string-name name-style="western"><surname>McNinch</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Sandford</surname>
+<given-names>RN</given-names></string-name>, <string-name name-style="western"><surname>Snead</surname>
+<given-names>MP</given-names></string-name>. <article-title>Somatic mosaicism and the phenotypic expression of COL2A1 mutations.</article-title>
+<source>Am J Med Genet A.</source>
+<year>2012</year>
+<month>May</month>;<volume>158A</volume>(<issue>5</issue>):<fpage>1204</fpage>-<lpage>7</lpage>.<pub-id pub-id-type="pmid">22496037</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.nixon.2020.e1354">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Nixon</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Richards</surname>
+<given-names>AJ</given-names></string-name>, <string-name name-style="western"><surname>Lomas</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Abbs</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Vasudevan</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>McNinch</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Alexander</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Snead</surname>
+<given-names>MP</given-names></string-name>. <article-title>Inherited and de novo biallelic pathogenic variants in COL11A1 result in type 2 Stickler syndrome with severe hearing loss.</article-title>
+<source>Mol Genet Genomic Med.</source>
+<year>2020</year>;<volume>8</volume>:<elocation-id>e1354</elocation-id>.<pub-id pub-id-type="pmid">32578940</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.nixon.2019.369">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Nixon</surname>
+<given-names>TRW</given-names></string-name>, <string-name name-style="western"><surname>Richards</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Towns</surname>
+<given-names>LK</given-names></string-name>, <string-name name-style="western"><surname>Fuller</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Abbs</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Alexander</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>McNinch</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Sandford</surname>
+<given-names>RN</given-names></string-name>, <string-name name-style="western"><surname>Snead</surname>
+<given-names>MP</given-names></string-name>. <article-title>Bone morphogenetic protein 4 (BMP4) loss-of-function variant associated with autosomal dominant Stickler syndrome and renal dysplasia.</article-title>
+<source>Eur J Hum Genet.</source>
+<year>2019</year>;<volume>27</volume>:<fpage>369</fpage>-<lpage>77</lpage>.<pub-id pub-id-type="pmid">30568244</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.nixon.2022.1135">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Nixon</surname>
+<given-names>TRW</given-names></string-name>, <string-name name-style="western"><surname>Richards</surname>
+<given-names>AJ</given-names></string-name>, <string-name name-style="western"><surname>Martin</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Alexander</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Snead</surname>
+<given-names>MP</given-names></string-name>. <article-title>Autosomal recessive Stickler syndrome.</article-title>
+<source>Genes (Basel)</source>. <year>2022</year>;<volume>13</volume>:<fpage>1135</fpage>.<pub-id pub-id-type="pmid">35885918</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.parentin.2001.316">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Parentin</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Sangalli</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Mottes</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Perissutti</surname>
+<given-names>P</given-names></string-name>. <article-title>Stickler syndrome and vitreoretinal degeneration: correlation between locus mutation and vitreous phenotype. Apropos of a case.</article-title>
+<source>Graefes Arch Clin Exp Ophthalmol.</source>
+<year>2001</year>;<volume>239</volume>:<fpage>316</fpage>-<lpage>9</lpage><pub-id pub-id-type="pmid">11450497</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.richards.2013.765">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Richards</surname>
+<given-names>AJ</given-names></string-name>, <string-name name-style="western"><surname>Fincham</surname>
+<given-names>GS</given-names></string-name>, <string-name name-style="western"><surname>McNinch</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Hill</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Poulson</surname>
+<given-names>AV</given-names></string-name>, <string-name name-style="western"><surname>Castle</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Lees</surname>
+<given-names>MM</given-names></string-name>, <string-name name-style="western"><surname>Moore</surname>
+<given-names>AT</given-names></string-name>, <string-name name-style="western"><surname>Scott</surname>
+<given-names>JD</given-names></string-name>, <string-name name-style="western"><surname>Snead</surname>
+<given-names>MP</given-names></string-name>. <article-title>Alternative splicing modifies the effect of mutations in COL11A1 and results in recessive type 2 Stickler syndrome with profound hearing loss.</article-title>
+<source>J Med Genet.</source>
+<year>2013</year>;<volume>50</volume>:<fpage>765</fpage>-<lpage>71</lpage>.<pub-id pub-id-type="pmid">23922384</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.richards.2015.405">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Richards</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Aziz</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Bale</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Bick</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Das</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Gastier-Foster</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Grody</surname>
+<given-names>WW</given-names></string-name>, <string-name name-style="western"><surname>Hegde</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Lyon</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Spector</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Voelkerding</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Rehm</surname>
+<given-names>HL</given-names></string-name>, <etal>et al.</etal>
+<article-title>Standards and guidelines for the interpretation of sequence variants: a joint consensus recommendation of the American College of Medical Genetics and Genomics and the Association for Molecular Pathology.</article-title>
+<source>Genet Med.</source>
+<year>2015</year>;<volume>17</volume>:<fpage>405</fpage>-<lpage>24</lpage>.<pub-id pub-id-type="pmid">25741868</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.ripandelli.2022.250">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ripandelli</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Rossi</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Pesci</surname>
+<given-names>FR</given-names></string-name>, <string-name name-style="western"><surname>Cecere</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Stirpe</surname>
+<given-names>M</given-names></string-name>. <article-title>The prophylaxis of fellow eye retinal detachment in Stickler syndrome: a retrospective series.</article-title>
+<source>Retina.</source>
+<year>2022</year>;<volume>42</volume>:<fpage>250</fpage>-<lpage>5</lpage>.<pub-id pub-id-type="pmid">34534992</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.rose.2001.403">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Rose</surname>
+<given-names>PS</given-names></string-name>, <string-name name-style="western"><surname>Ahn</surname>
+<given-names>NU</given-names></string-name>, <string-name name-style="western"><surname>Levy</surname>
+<given-names>HP</given-names></string-name>, <string-name name-style="western"><surname>Ahn</surname>
+<given-names>UM</given-names></string-name>, <string-name name-style="western"><surname>Davis</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Liberfarb</surname>
+<given-names>RM</given-names></string-name>, <string-name name-style="western"><surname>Nallamshetty</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Sponseller</surname>
+<given-names>PD</given-names></string-name>, <string-name name-style="western"><surname>Francomano</surname>
+<given-names>CA</given-names></string-name>. <article-title>Thoracolumbar spinal abnormalities in Stickler syndrome.</article-title>
+<source>Spine.</source>
+<year>2001</year>;<volume>26</volume>:<fpage>403</fpage>-<lpage>9</lpage><pub-id pub-id-type="pmid">11224888</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.sirkoosadsa.1998.368">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Sirko-Osadsa</surname>
+<given-names>DA</given-names></string-name>, <string-name name-style="western"><surname>Murray</surname>
+<given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Scott</surname>
+<given-names>JA</given-names></string-name>, <string-name name-style="western"><surname>Lavery</surname>
+<given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Warman</surname>
+<given-names>ML</given-names></string-name>, <string-name name-style="western"><surname>Robin</surname>
+<given-names>NH</given-names></string-name>. <article-title>Stickler syndrome without eye involvement is caused by mutations in COL11A2, the gene encoding the alpha2(XI) chain of type XI collagen.</article-title>
+<source>J Pediatr</source>
+<year>1998</year>;<volume>132</volume>:<fpage>368</fpage>-<lpage>71</lpage>.<pub-id pub-id-type="pmid">9506662</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.snead.2022.1966">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Snead</surname>
+<given-names>MP</given-names></string-name>, <string-name name-style="western"><surname>Richards</surname>
+<given-names>AJ</given-names></string-name>, <string-name name-style="western"><surname>McNinch</surname>
+<given-names>AM</given-names></string-name>, <string-name name-style="western"><surname>Alexander</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Martin</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Nixon</surname>
+<given-names>TRW</given-names></string-name>, <string-name name-style="western"><surname>Bale</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Shenker</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Brown</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Blackwell</surname>
+<given-names>AM</given-names></string-name>, <string-name name-style="western"><surname>Poulson</surname>
+<given-names>AV</given-names></string-name>. <article-title>Stickler syndrome - lessons from a national cohort.</article-title>
+<source>Eye (Lond)</source>. <year>2022</year>;<volume>36</volume>:<fpage>1966</fpage>-<lpage>72</lpage>.<pub-id pub-id-type="pmid">34611315</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.soh.2022.1089">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Soh</surname>
+<given-names>Z</given-names></string-name>, <string-name name-style="western"><surname>Richards</surname>
+<given-names>AJ</given-names></string-name>, <string-name name-style="western"><surname>McNinch</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Alexander</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Martin</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Snead</surname>
+<given-names>MP</given-names></string-name>. <article-title>Dominant Stickler syndrome.</article-title>
+<source>Genes (Basel)</source>. <year>2022</year>;<volume>13</volume>:<fpage>1089</fpage>.<pub-id pub-id-type="pmid">35741851</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.stenson.2020.1197">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Stenson</surname>
+<given-names>PD</given-names></string-name>, <string-name name-style="western"><surname>Mort</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Ball</surname>
+<given-names>EV</given-names></string-name>, <string-name name-style="western"><surname>Chapman</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Evans</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Azevedo</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Hayden</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Heywood</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Millar</surname>
+<given-names>DS</given-names></string-name>, <string-name name-style="western"><surname>Phillips</surname>
+<given-names>AD</given-names></string-name>, <string-name name-style="western"><surname>Cooper</surname>
+<given-names>DN</given-names></string-name>. <article-title>The Human Gene Mutation Database (HGMD&#x000ae;): optimizing its use in a clinical diagnostic or research setting.</article-title>
+<source>Hum Genet.</source>
+<year>2020</year>;<volume>139</volume>:<fpage>1197</fpage>-<lpage>207</lpage>..<pub-id pub-id-type="pmid">32596782</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.stevenson.2012.418">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Stevenson</surname>
+<given-names>DA</given-names></string-name>, <string-name name-style="western"><surname>Vanzo</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Damjanovich</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Hanson</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Muntz</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Hoffman</surname>
+<given-names>RO</given-names></string-name>, <string-name name-style="western"><surname>Bayrak-Toydemir</surname>
+<given-names>P</given-names></string-name>. <article-title>Mosaicism in Stickler syndrome.</article-title>
+<source>Eur J Med Genet.</source>
+<year>2012</year>;<volume>55</volume>:<fpage>418</fpage>-<lpage>22</lpage>.<pub-id pub-id-type="pmid">22522174</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.unger.2023.1164">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Unger</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Ferreira</surname>
+<given-names>CR</given-names></string-name>, <string-name name-style="western"><surname>Mortier</surname>
+<given-names>GR</given-names></string-name>, <string-name name-style="western"><surname>Ali</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Bertola</surname>
+<given-names>DR</given-names></string-name>, <string-name name-style="western"><surname>Calder</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Cohn</surname>
+<given-names>DH</given-names></string-name>, <string-name name-style="western"><surname>Cormier-Daire</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Girisha</surname>
+<given-names>KM</given-names></string-name>, <string-name name-style="western"><surname>Hall</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Krakow</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Makitie</surname>
+<given-names>O</given-names></string-name>, <string-name name-style="western"><surname>Mundlos</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Nishimura</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Robertson</surname>
+<given-names>SP</given-names></string-name>, <string-name name-style="western"><surname>Savarirayan</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Sillence</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Simon</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Sutton</surname>
+<given-names>VR</given-names></string-name>, <string-name name-style="western"><surname>Warman</surname>
+<given-names>ML</given-names></string-name>, <string-name name-style="western"><surname>Superti-Furga</surname>
+<given-names>A</given-names></string-name>. <article-title>Nosology of genetic skeletal disorders: 2023 revision.</article-title>
+<source>Am J Med Genet A.</source>
+<year>2023</year>;<volume>191</volume>:<fpage>1164</fpage>-<lpage>209</lpage>.<pub-id pub-id-type="pmid">36779427</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.vikkula.1995.431">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Vikkula</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Mariman</surname>
+<given-names>EC</given-names></string-name>, <string-name name-style="western"><surname>Lui</surname>
+<given-names>VC</given-names></string-name>, <string-name name-style="western"><surname>Zhidkova</surname>
+<given-names>NI</given-names></string-name>, <string-name name-style="western"><surname>Tiller</surname>
+<given-names>GE</given-names></string-name>, <string-name name-style="western"><surname>Goldring</surname>
+<given-names>MB</given-names></string-name>, <string-name name-style="western"><surname>van Beersum</surname>
+<given-names>SE</given-names></string-name>, <string-name name-style="western"><surname>de Waal Malefijt</surname>
+<given-names>MC</given-names></string-name>, <string-name name-style="western"><surname>van den Hoogen</surname>
+<given-names>FH</given-names></string-name>, <string-name name-style="western"><surname>Ropers</surname>
+<given-names>HH</given-names></string-name>, <string-name name-style="western"><surname>Mayne</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Cheah</surname>
+<given-names>KSE</given-names></string-name>, <string-name name-style="western"><surname>Olsen</surname>
+<given-names>BR</given-names></string-name>, <string-name name-style="western"><surname>Warman</surname>
+<given-names>ML</given-names></string-name>, <string-name name-style="western"><surname>Brunner</surname>
+<given-names>HG</given-names></string-name>. <article-title>Autosomal dominant and recessive osteochondrodysplasias associated with the COL11A2 locus.</article-title>
+<source>Cell.</source>
+<year>1995</year>;<volume>80</volume>:<fpage>431</fpage>-<lpage>7</lpage>.<pub-id pub-id-type="pmid">7859284</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.vu.2003.70">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Vu</surname>
+<given-names>CD</given-names></string-name>, <string-name name-style="western"><surname>Brown</surname>
+<given-names>J</given-names>
+<suffix>Jr</suffix></string-name>, <string-name name-style="western"><surname>Korkko</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Ritter</surname>
+<given-names>R</given-names>
+<suffix>3rd</suffix></string-name>, <string-name name-style="western"><surname>Edwards</surname>
+<given-names>AO</given-names></string-name>. <article-title>Posterior chorioretinal atrophy and vitreous phenotype in a family with Stickler syndrome from a mutation in the COL2A1 gene.</article-title>
+<source>Ophthalmology.</source>
+<year>2003</year>;<volume>110</volume>:<fpage>70</fpage>-<lpage>7</lpage>.<pub-id pub-id-type="pmid">12511349</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.vuoristo.2004.160">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Vuoristo</surname>
+<given-names>MM</given-names></string-name>, <string-name name-style="western"><surname>Pappas</surname>
+<given-names>JG</given-names></string-name>, <string-name name-style="western"><surname>Jansen</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Ala-Kokko</surname>
+<given-names>L</given-names></string-name>. <article-title>A stop codon mutation in COL11A2 induces exon skipping and leads to non-ocular Stickler syndrome.</article-title>
+<source>Am J Med Genet A.</source>
+<year>2004</year>;<volume>130A</volume>:<fpage>160</fpage>-<lpage>4</lpage>.<pub-id pub-id-type="pmid">15372529</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.walters.2020.992">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Walters</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Lambert</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Bricel</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Hwang</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Ing</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Tehrani</surname>
+<given-names>S.</given-names></string-name>
+<article-title>Case series of Stickler syndrome presenting with acute angle closure.</article-title>
+<source>J Glaucoma.</source>
+<year>2020</year>;<volume>29</volume>:<fpage>992</fpage>-<lpage>4</lpage>.<pub-id pub-id-type="pmid">32604152</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.wang.2023">
+              <mixed-citation publication-type="other">Wang A, Nixon T, Martin H, Richards A, McNinch A, Alexander P, Pujari R, Bale P, Shenker N, Bearcroft P, Brown S, Blackwell A, Poulson A, Snead M. Legg-Calve-Perthes' disease: an opportunity to prevent blindness? Arch Dis Child. 2023:archdischild-2022-325059.</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.wang.2020.27">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Wang</surname>
+<given-names>DD</given-names></string-name>, <string-name name-style="western"><surname>Gao</surname>
+<given-names>FJ</given-names></string-name>, <string-name name-style="western"><surname>Hu</surname>
+<given-names>FY</given-names></string-name>, <string-name name-style="western"><surname>Zhang</surname>
+<given-names>SH</given-names></string-name>, <string-name name-style="western"><surname>Xu</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Wu</surname>
+<given-names>JH</given-names></string-name>. <article-title>Mutation spectrum of Stickler syndrome type I and genotype-phenotype analysis in East Asian population: a systematic review.</article-title>
+<source>BMC Med Genet.</source>
+<year>2020</year>;<volume>21</volume>:<fpage>27</fpage>.<pub-id pub-id-type="pmid">32039712</pub-id>
+</mixed-citation>
+            </ref>
+            <ref id="stickler.REF.wubben.2018.615">
+              <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Wubben</surname>
+<given-names>TJ</given-names></string-name>, <string-name name-style="western"><surname>Branham</surname>
+<given-names>KH</given-names></string-name>, <string-name name-style="western"><surname>Besirli</surname>
+<given-names>CG</given-names></string-name>, <string-name name-style="western"><surname>Bohnsack</surname>
+<given-names>BL</given-names></string-name>. <article-title>Retinal detachment and infantile-onset glaucoma in Stickler syndrome associated with known and novel COL2A1 mutations.</article-title>
+<source>Ophthalmic Genet.</source>
+<year>2018</year>;<volume>39</volume>:<fpage>615</fpage>-<lpage>8</lpage>.<pub-id pub-id-type="pmid">30130436</pub-id>
+</mixed-citation>
+            </ref>
+          </ref-list>
+        </sec>
+      </sec>
+    </body>
+    <back>
+      <sec specific-use="from-external-xml" sec-type="link-group">
+        <title>Tests in GTR by Gene</title>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=1297[geneid]">COL9A1</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=1302[geneid]">COL11A2</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=1280[geneid]">COL2A1</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=1301[geneid]">COL11A1</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=1298[geneid]">COL9A2</ext-link>
+        </p>
+      </sec>
+      <sec specific-use="from-external-xml" sec-type="link-group">
+        <title>Tests in GTR by Gene</title>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=1297[geneid]">COL9A1</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=1302[geneid]">COL11A2</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=1280[geneid]">COL2A1</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=1301[geneid]">COL11A1</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=1298[geneid]">COL9A2</ext-link>
+        </p>
+      </sec>
+      <sec specific-use="from-external-xml" sec-type="link-group">
+        <title>Tests in GTR by Gene</title>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=1297[geneid]">COL9A1</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=1302[geneid]">COL11A2</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=1280[geneid]">COL2A1</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=1301[geneid]">COL11A1</ext-link>
+        </p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gtr/tests/?term=1298[geneid]">COL9A2</ext-link>
+        </p>
+      </sec>
+    </back>
+  </book-part>
+</book-part-wrapper>
