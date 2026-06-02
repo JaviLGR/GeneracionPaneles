@@ -1,4 +1,5 @@
 
+!pip install yaml
 
 import streamlit as st
 import yaml
