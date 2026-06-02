@@ -1,0 +1,66 @@
+# Los datos que después se mostrarán en la aplicación se almacenan en formato YAML con la siguiente plantilla:
+
+YAML = """
+NBK: null  
+ENFERMEDAD: null # enfermedad asociada a ese NBK
+HGNC: null # simbolo del gen
+
+edad: 
+  valor_raso: null        # int: edad en años; estimación si no se indica explícitamente
+  referencia: ""          # str: fragmento del texto de donde se extrajo la información
+  porcentaje_fiabilidad: null  # int: % de confianza en la estimación
+
+penetrancia:
+  valor: null             # int: % de individuos afectados por la variante/condición
+  referencia: ""          # str: parte del texto que sustenta el valor
+  porcentaje_fiabilidad: null  # int: % de confianza en la estimación
+
+gravedad:
+  valor: null             # str: "leve", "moderado" o "grave"
+  referencia: ""          # str: texto de referencia
+  porcentaje_fiabilidad: null  # int: % de confianza en la estimación
+
+efectividad_tratamiento:
+  existencia: null        # bool: si hay tratamiento disponible
+  referencia1: ""          # str: fragmento del texto usado como referencia de si hay existencia de tratamiento
+  intervención: null      # str: presintomática o postsintomática
+  referencia2: ""          # str: fragmento del texto usado como referencia de si hay intervencion
+  valor: null             # bool: si el tratamiento mejora significativamente la condición
+  referencia: ""          # str: fragmento del texto usado como referencia de si el tratamiento mejora significativamente o no
+  porcentaje_fiabilidad: null  # int: % de confianza en la estimación
+
+"""
+
+# Para cubrir la plantilla se usa el siguiente prompt, en el que se aclara la información que debe extraer del texto y cómo rellenar cada campo del YAML. 
+
+prompt = """
+
+A continuación tienes 3 elementos:
+
+1) DATOS FIJOS (NO MODIFICABLES):
+- NBK = {NBK}
+- ENFERMEDAD = {ENFERMEDAD}
+
+IMPORTANTE:
+- Estos valores deben copiarse EXACTAMENTE en el YAML.
+- No se deben extraer del texto.
+- No se deben modificar aunque en el texto aparezcan otros códigos NBK.
+- Los valores NBK nunca deben ser “null”.
+- Los demás campos sí pueden ser "null"
+- Si hay información sobre varios genes o enfermedades asociadas a ese NBK, se cubrirá para cada gen un YAML diferente que se separará por los tres guiones (---) y se indicará en 
+
+2) EL TEXTO A ANALIZAR
+A partir del siguiente texto {TEXTO}, completa el YAML de ejemplo con los datos disponibles:
+
+3) YAML
+- Es fundamental y obligatorio que la primera línea de la respuesta tenga un número entero correspondiente a la cantidad de YAMLs que se están devolviendo (en caso de haber información sobre varios genes o enfermedades asociadas a ese NBK).
+- Es fundamental y obligatorio que utilices únicamente tres guiones (---) en una línea separada para delimitar el principio y el final de cada documento. No incluyas las etiquetas de lenguaje de Markdown (```yaml) en el resultado final, solo el código YAML.
+
+IMPORTANTE:
+- No modifiques en absoluto la estructura del YAML. 
+- No cambies nombres de campos ni los reordenes.
+- Completa edad, penetrancia, gravedad y efectividad_tratamiento basándote en el texto, aunque no ponga la info explicitamente extrae las conclusioens para rellenar los campos, siempre y cuando haya informacion.
+- En cada referencia pon exactamente el fragmento del texto que respalda la información que dedujiste de cada campo.
+- Si no hay información, usa null.
+- Indica un porcentaje de fiabilidad basado en la certeza del texto.
+""" + YAML
